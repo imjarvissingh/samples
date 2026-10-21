@@ -1,0 +1,3363 @@
+[
+ {
+  "slug": "truefitnessclub",
+  "row": 42,
+  "name": "TrueFitnessClub",
+  "category": "Gym",
+  "phone": "098184 02507",
+  "address": "H-475, near camdin bakery, Pocket H, Rajender Nagar Part 1, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/TrueFitnessClub/data=!4m7!3m6!1s0x390d03b8f88fd43f:0x65694341246ab26b!8m2!3d28.6353861!4d77.179417!16s%2Fg%2F11sjg8nwrs!19sChIJP9SP-LgDDTkRa7JqJEFDaWU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 297.0,
+  "reviews": [],
+  "tagline": "Build strength and stay fit every day.",
+  "intro": "TrueFitnessClub offers a welcoming workout space located in Rajinder Nagar, New Delhi. Members can pursue their personal health and fitness goals using dedicated training facilities.",
+  "services": [
+   {
+    "name": "Strength Training",
+    "desc": "Dedicated equipment and weights to build endurance and muscle power."
+   },
+   {
+    "name": "Cardiovascular Workouts",
+    "desc": "Treadmills and cardio machines designed to improve stamina and heart health."
+   },
+   {
+    "name": "Personal Training",
+    "desc": "One-on-one fitness guidance tailored to support your personal workout goals."
+   },
+   {
+    "name": "Functional Fitness",
+    "desc": "Dynamic exercises focused on core strength, balance, and everyday mobility."
+   }
+  ],
+  "cta": "Visit TrueFitnessClub in Rajinder Nagar to get started today.",
+  "url": "https://imjarvissingh.github.io/samples/truefitnessclub/"
+ },
+ {
+  "slug": "dr-andleeb-sachdev-clinic",
+  "row": 5,
+  "name": "Dr. Andleeb Sachdev Clinic",
+  "category": "Doctor",
+  "phone": "098739 97692",
+  "address": "24,house, Dr. Andleeb Sachdev Clinic, 24/21(Block, Hemu Kalani Marg, Block 24, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Dr.+Andleeb+Sachdev+Clinic/data=!4m7!3m6!1s0x390d03e36e9c29c3:0xc36dcee72614ab9e!8m2!3d28.6388371!4d77.1851919!16s%2Fg%2F11l_4blw75!19sChIJwymcbuMDDTkRnqsUJufObcM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 83.0,
+  "reviews": [],
+  "tagline": "Dedicated medical care for your wellbeing.",
+  "intro": "Dr. Andleeb Sachdev Clinic provides professional outpatient medical consultations in Old Rajinder Nagar. The clinic is committed to addressing patient health concerns with attentive care.",
+  "services": [
+   {
+    "name": "General Consultation",
+    "desc": "Comprehensive medical assessments to diagnose and treat common health issues."
+   },
+   {
+    "name": "Preventive Health Checkups",
+    "desc": "Routine evaluations to monitor wellness and prevent emerging medical conditions."
+   },
+   {
+    "name": "Chronic Disease Management",
+    "desc": "Ongoing clinical care and advice for long-term health maintenance."
+   },
+   {
+    "name": "Treatment Planning",
+    "desc": "Personalized medical advice and treatment plans tailored to each patient."
+   }
+  ],
+  "cta": "Schedule an appointment at Dr. Andleeb Sachdev Clinic today.",
+  "url": "https://imjarvissingh.github.io/samples/dr-andleeb-sachdev-clinic/"
+ },
+ {
+  "slug": "pratibha-dance-fitness",
+  "row": 48,
+  "name": "PRATIBHA DANCE & FITNESS",
+  "category": "Fitness center",
+  "phone": "099711 27725",
+  "address": "24, PRATIBHA DANCE & FITNESS, 39, Block 24, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/PRATIBHA+DANCE+%26+FITNESS/data=!4m7!3m6!1s0x390d03c7e78a43af:0xc50fe11bef3930a5!8m2!3d28.6392798!4d77.1848037!16s%2Fg%2F11j9441kzx!19sChIJr0OK58cDDTkRpTA57xvhD8U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 42.0,
+  "reviews": [],
+  "tagline": "Move, dance, and stay healthy.",
+  "intro": "PRATIBHA DANCE & FITNESS brings energetic dance and fitness sessions to Old Rajinder Nagar. Step into an engaging space designed to help you stay active and express yourself.",
+  "services": [
+   {
+    "name": "Dance Fitness",
+    "desc": "High-energy dance sessions combining rhythm and cardio for total body fitness."
+   },
+   {
+    "name": "Choreography Classes",
+    "desc": "Structured lessons teaching varied dance routines for all skill levels."
+   },
+   {
+    "name": "Aerobic Workouts",
+    "desc": "Fun aerobic routines crafted to boost stamina, coordination, and overall energy."
+   },
+   {
+    "name": "Flexibility & Conditioning",
+    "desc": "Targeted stretching exercises to improve body posture, flexibility, and core strength."
+   }
+  ],
+  "cta": "Join PRATIBHA DANCE & FITNESS for your next session.",
+  "url": "https://imjarvissingh.github.io/samples/pratibha-dance-fitness/"
+ },
+ {
+  "slug": "warrior-fitness-gym",
+  "row": 57,
+  "name": "Warrior fitness gym",
+  "category": "Gym",
+  "phone": "098109 91327",
+  "address": "Channa Market, Channa Market, Block 7A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Warrior+fitness+gym/data=!4m7!3m6!1s0x390d030024ed606d:0xc75fad177c8a40f5!8m2!3d28.6457596!4d77.1841356!16s%2Fg%2F11m61n2zr5!19sChIJbWDtJAADDTkR9UCKfBetX8c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 14.0,
+  "reviews": [],
+  "tagline": "Train hard and reach your peak.",
+  "intro": "Warrior fitness gym provides a focused training environment conveniently situated in Karol Bagh. Elevate your daily routine with access to essential workout equipment and workout areas.",
+  "services": [
+   {
+    "name": "Weight Training",
+    "desc": "Free weights and resistance machines designed to build physical strength effectively."
+   },
+   {
+    "name": "Cardio Conditioning",
+    "desc": "Cardio stations focused on burning calories and boosting cardiovascular stamina."
+   },
+   {
+    "name": "Custom Fitness Regimens",
+    "desc": "Structured workout routines planned to help you achieve your physical targets."
+   },
+   {
+    "name": "Body Conditioning",
+    "desc": "Full-body workouts aimed at enhancing overall endurance and muscle definition."
+   }
+  ],
+  "cta": "Visit Warrior fitness gym in Karol Bagh today.",
+  "url": "https://imjarvissingh.github.io/samples/warrior-fitness-gym/"
+ },
+ {
+  "slug": "rattanentclinic",
+  "row": 19,
+  "name": "RattanEntClinic",
+  "category": "Otolaryngology clinic",
+  "phone": "093122 47509",
+  "address": "F432 New Rajinder Nagar, New Delhi, Delhi 110060",
+  "link": "https://www.google.com/maps/place/RattanEntClinic/data=!4m7!3m6!1s0x390d02bc22e85d59:0xe717109c6097ec53!8m2!3d28.6381293!4d77.1785178!16s%2Fg%2F11b7h3w_2w!19sChIJWV3oIrwCDTkRU-yXYJwQF-c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 2.0,
+  "reviews": [],
+  "tagline": "Comprehensive ear, nose, and throat care.",
+  "intro": "RattanEntClinic is a dedicated otolaryngology clinic located in New Rajinder Nagar. Patients receive specialized medical evaluations and care for ear, nose, and throat conditions.",
+  "services": [
+   {
+    "name": "Ear Care",
+    "desc": "Diagnosis and medical treatment for ear pain, infections, and hearing discomfort."
+   },
+   {
+    "name": "Nose and Sinus Care",
+    "desc": "Careful evaluation and relief for nasal congestion, allergies, and sinus problems."
+   },
+   {
+    "name": "Throat Assessments",
+    "desc": "Clinical examination and management of throat soreness, tonsil problems, and hoarseness."
+   },
+   {
+    "name": "ENT Consultations",
+    "desc": "Comprehensive diagnostic evaluations for broad ear, nose, and throat concerns."
+   }
+  ],
+  "cta": "Book a consultation at RattanEntClinic today.",
+  "url": "https://imjarvissingh.github.io/samples/rattanentclinic/"
+ },
+ {
+  "slug": "muscle-officer-gym",
+  "row": 52,
+  "name": "Muscle officer gym",
+  "category": "Gym",
+  "phone": "078386 35389",
+  "address": "Shop no 84, Muscle officer gym, LSC market, Bada Bazar Rd, near chai wala, Block 59, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Muscle+officer+gym/data=!4m7!3m6!1s0x390d03545c8b5c53:0x8287c1ca592b5763!8m2!3d28.6405324!4d77.1848012!16s%2Fg%2F11vqht5bkq!19sChIJU1yLXFQDDTkRY1crWcrBh4I?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 2.0,
+  "reviews": [],
+  "tagline": "Build muscle and transform your body.",
+  "intro": "Muscle officer gym is located at Bada Bazar Road in Old Rajinder Nagar. The gym offers a dedicated fitness environment equipped for rigorous daily workouts.",
+  "services": [
+   {
+    "name": "Muscle Building",
+    "desc": "Dedicated weightlifting gear to support hypertrophy and progressive muscle development."
+   },
+   {
+    "name": "Strength Conditioning",
+    "desc": "Focused resistance training exercises to develop power, stamina, and stability."
+   },
+   {
+    "name": "Cardio Training",
+    "desc": "Quality cardio gear designed to improve heart rate and burn calories."
+   },
+   {
+    "name": "Core Fitness",
+    "desc": "Targeted abdominal and lower back exercises to strengthen your core foundation."
+   }
+  ],
+  "cta": "Stop by Muscle officer gym to begin your workout.",
+  "url": "https://imjarvissingh.github.io/samples/muscle-officer-gym/"
+ },
+ {
+  "slug": "studio-raas-by-roshni",
+  "row": 56,
+  "name": "Studio Raas by Roshni",
+  "category": "Fitness center",
+  "phone": "092896 83858",
+  "address": "R 498, Block R, Block B, Rajender Nagar Part 1, New Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Studio+Raas+by+Roshni/data=!4m7!3m6!1s0x390d033690011095:0xebafa7849b56d6f!8m2!3d28.6345213!4d77.1852779!16s%2Fg%2F11wjnyxh55!19sChIJlRABkDYDDTkRb221SXj6ug4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 1.0,
+  "reviews": [],
+  "tagline": "Express yourself through movement and fitness.",
+  "intro": "Studio Raas by Roshni is a vibrant fitness studio located in New Rajinder Nagar. Discover active routines designed to combine fitness, rhythm, and body awareness.",
+  "services": [
+   {
+    "name": "Dance Workouts",
+    "desc": "Energizing dance routines designed to keep you fit while having fun."
+   },
+   {
+    "name": "Body Sculpting",
+    "desc": "Low-impact exercises created to tone muscles and enhance overall body posture."
+   },
+   {
+    "name": "Flexibility Training",
+    "desc": "Guided mobility workouts to improve flexibility, reduce stiffness, and ease movement."
+   },
+   {
+    "name": "Group Fitness",
+    "desc": "Supportive group workout sessions focused on building stamina and lasting wellness."
+   }
+  ],
+  "cta": "Connect with Studio Raas by Roshni to get active.",
+  "url": "https://imjarvissingh.github.io/samples/studio-raas-by-roshni/"
+ },
+ {
+  "slug": "wow-women-salon-and-academy",
+  "row": 28,
+  "name": "WoW Women Salon and Academy",
+  "category": "Beauty Parlour",
+  "phone": "095607 01620",
+  "address": "14A/57, Block 14A, WEA, Karol Bagh, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/WoW+Women+Salon+and+Academy/data=!4m7!3m6!1s0x390d03c521debf01:0xf8db7bdab26e9177!8m2!3d28.6452848!4d77.1865703!16s%2Fg%2F11w4k3lx8l!19sChIJAb_eIcUDDTkRd5Fustp72_g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 417.0,
+  "reviews": [],
+  "tagline": "Beauty care and professional styling services.",
+  "intro": "WoW Women Salon and Academy is located in Karol Bagh, Delhi. Clients can enjoy relaxing salon treatments and beauty learning opportunities in one place.",
+  "services": [
+   {
+    "name": "Hair Styling",
+    "desc": "Professional haircuts, styling, and hair care treatments for everyday elegance."
+   },
+   {
+    "name": "Skin Treatments",
+    "desc": "Refreshing facials and gentle skin care services for a radiant look."
+   },
+   {
+    "name": "Bridal & Party Makeup",
+    "desc": "Tailored makeup applications designed for special celebrations and memorable events."
+   },
+   {
+    "name": "Beauty Academy Courses",
+    "desc": "Instructional beauty training covering essential makeup techniques and salon practices."
+   }
+  ],
+  "cta": "Book your appointment at WoW Women Salon and Academy.",
+  "url": "https://imjarvissingh.github.io/samples/wow-women-salon-and-academy/"
+ },
+ {
+  "slug": "ankit-ias-academy",
+  "row": 23,
+  "name": "ANKIT IAS ACADEMY",
+  "category": "Coaching Center",
+  "phone": "084487 33594",
+  "address": "51, ANKIT IAS ACADEMY, 29, near shani mandir, Block C, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/ANKIT+IAS+ACADEMY/data=!4m7!3m6!1s0x390d029c66c64467:0xda2827a3a49b781d!8m2!3d28.6390144!4d77.1868205!16s%2Fg%2F11f4pmfqj7!19sChIJZ0TGZpwCDTkRHXibpKMnKNo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 235.0,
+  "reviews": [],
+  "tagline": "Focused preparation for civil services examinations.",
+  "intro": "ANKIT IAS ACADEMY is a coaching center situated in Old Rajinder Nagar, New Delhi. The academy offers structured academic guidance for candidates preparing for competitive exams.",
+  "services": [
+   {
+    "name": "UPSC Foundation Courses",
+    "desc": "Comprehensive syllabus coverage covering general studies and essential civil services topics."
+   },
+   {
+    "name": "Test Series Programs",
+    "desc": "Regular mock tests and evaluations designed to gauge exam readiness effectively."
+   },
+   {
+    "name": "Answer Writing Practice",
+    "desc": "Targeted practice sessions to refine structured answers for civil services examinations."
+   },
+   {
+    "name": "Current Affairs Sessions",
+    "desc": "Periodic reviews of key national and international events for competitive examinations."
+   }
+  ],
+  "cta": "Enroll at ANKIT IAS ACADEMY to start your preparation.",
+  "url": "https://imjarvissingh.github.io/samples/ankit-ias-academy/"
+ },
+ {
+  "slug": "dream-beauty-parlour-karol-bagh",
+  "row": 34,
+  "name": "Dream beauty parlour Karol Bagh",
+  "category": "Beauty Parlour",
+  "phone": "092121 84745",
+  "address": "5A/177-178, Dream beauty parlour Karol Bagh, Gali No. 6, Block 5A, Sat Nagar, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Dream+beauty+parlour+Karol+Bagh/data=!4m7!3m6!1s0x390d0387c32d231f:0x8e5da57a8e44c984!8m2!3d28.6484402!4d77.1843353!16s%2Fg%2F11s5xvj_j1!19sChIJHyMtw4cDDTkRhMlEjnqlXY4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 234.0,
+  "reviews": [],
+  "tagline": "Gentle beauty care in Karol Bagh.",
+  "intro": "Dream beauty parlour Karol Bagh provides an array of personal grooming and styling services. Located in Sat Nagar, the parlour welcomes clients seeking refreshing salon treatments.",
+  "services": [
+   {
+    "name": "Hair Care Services",
+    "desc": "Haircuts, washes, and conditioning treatments tailored to your hair type."
+   },
+   {
+    "name": "Facial Care",
+    "desc": "Cleansing facial treatments designed to refresh and revitalize your skin."
+   },
+   {
+    "name": "Grooming Essentials",
+    "desc": "Routine salon grooming services including waxing, threading, and nail maintenance."
+   },
+   {
+    "name": "Event Styling",
+    "desc": "Custom hairstyling and makeup services suitable for weddings and special occasions."
+   }
+  ],
+  "cta": "Visit Dream beauty parlour Karol Bagh for your grooming needs.",
+  "url": "https://imjarvissingh.github.io/samples/dream-beauty-parlour-karol-bagh/"
+ },
+ {
+  "slug": "drinks-bytes",
+  "row": 85,
+  "name": "Drinks & Bytes",
+  "category": "Cafe",
+  "phone": "078400 55574",
+  "address": "N-37, Block N, West Patel Nagar, Patel Nagar, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Drinks+%26+Bytes/data=!4m7!3m6!1s0x390d0398db99585d:0xf6e520df758233ad!8m2!3d28.6520907!4d77.1609912!16s%2Fg%2F11l29xtfjv!19sChIJXViZ25gDDTkRrTOCdd8g5fY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 174.0,
+  "reviews": [],
+  "tagline": "Great beverages and delicious quick bites.",
+  "intro": "Drinks & Bytes is a local cafe situated in West Patel Nagar, Delhi. Relax with friends while enjoying freshly prepared beverages and satisfying food items.",
+  "services": [
+   {
+    "name": "Coffee and Tea",
+    "desc": "Freshly brewed hot and iced beverages prepared to start your day."
+   },
+   {
+    "name": "Quick Bites",
+    "desc": "Tasty snacks and light meals perfect for sharing with your companions."
+   },
+   {
+    "name": "Cold Beverages",
+    "desc": "Refreshing shakes, smoothies, and coolers to quench your thirst anytime."
+   },
+   {
+    "name": "Dine-In & Takeaway",
+    "desc": "Cozy dine-in seating options alongside convenient takeout for busy days."
+   }
+  ],
+  "cta": "Drop by Drinks & Bytes in Patel Nagar today.",
+  "url": "https://imjarvissingh.github.io/samples/drinks-bytes/"
+ },
+ {
+  "slug": "the-emerald-gym",
+  "row": 40,
+  "name": "The Emerald Gym",
+  "category": "Gym",
+  "phone": "099711 27725",
+  "address": "Shop no. 45, The Emerald Gym, 46, Bada Bazar Rd, near MOTHER DAIRY MILK BOOTH, Shankar Road, Block 58, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/The+Emerald+Gym/data=!4m7!3m6!1s0x390d0353609c8d0d:0x18e06df86aca1f09!8m2!3d28.6411858!4d77.1855115!16s%2Fg%2F11gxmbfdsr!19sChIJDY2cYFMDDTkRCR_Kavht4Bg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 160.0,
+  "reviews": [],
+  "tagline": "Elevate your fitness in Old Rajinder Nagar.",
+  "intro": "The Emerald Gym is located along Bada Bazar Road in Old Rajinder Nagar. It provides an energetic workout space equipped with training gear for health enthusiasts.",
+  "services": [
+   {
+    "name": "Free Weight Training",
+    "desc": "Barbells, dumbbells, and benches for building fundamental muscular strength and power."
+   },
+   {
+    "name": "Cardiovascular Equipment",
+    "desc": "Bikes and treadmills to boost aerobic capacity and burn excess calories."
+   },
+   {
+    "name": "Resistance Training",
+    "desc": "Modern resistance machinery designed to isolate muscle groups and promote endurance."
+   },
+   {
+    "name": "Fitness Guidance",
+    "desc": "Practical fitness direction to help you maintain consistency and meet targets."
+   }
+  ],
+  "cta": "Visit The Emerald Gym to begin your fitness routine.",
+  "url": "https://imjarvissingh.github.io/samples/the-emerald-gym/"
+ },
+ {
+  "slug": "dent-villa",
+  "row": 15,
+  "name": "Dent Villa",
+  "category": "Dental clinic",
+  "phone": "099108 84557",
+  "address": "21/40, near Water Tank, Block 21, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Dent+Villa/data=!4m7!3m6!1s0x390d04bb76c64205:0xe15215b395b235a8!8m2!3d28.6408545!4d77.1799622!16s%2Fg%2F11gh3dc31_!19sChIJBULGdrsEDTkRqDWylbMVUuE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 134.0,
+  "reviews": [],
+  "tagline": "Gentle dental care for healthy smiles.",
+  "intro": "Dent Villa is a dental clinic located in Old Rajinder Nagar, New Delhi. The clinic provides comprehensive oral healthcare in a comfortable and hygienic environment.",
+  "services": [
+   {
+    "name": "Dental Examinations",
+    "desc": "Thorough oral checkups and diagnostics to assess overall dental wellness."
+   },
+   {
+    "name": "Teeth Cleaning",
+    "desc": "Professional scaling and polishing to remove plaque and protect gum health."
+   },
+   {
+    "name": "Restorative Fillings",
+    "desc": "Tooth-colored fillings designed to treat cavities and repair damaged tooth structure."
+   },
+   {
+    "name": "Preventive Oral Care",
+    "desc": "Expert guidance and treatments focused on preventing long-term oral complications."
+   }
+  ],
+  "cta": "Book your dental appointment at Dent Villa today.",
+  "url": "https://imjarvissingh.github.io/samples/dent-villa/"
+ },
+ {
+  "slug": "dalmia-clinic",
+  "row": 4,
+  "name": "DALMIA CLINIC",
+  "category": "Walk-in clinic",
+  "phone": "082878 50230",
+  "address": "34/40, Block 33, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/DALMIA+CLINIC/data=!4m7!3m6!1s0x390d03d50de409ab:0x1c618be521bb6a1f!8m2!3d28.642086!4d77.180819!16s%2Fg%2F11r_wch6hj!19sChIJqwnkDdUDDTkRH2q7IeWLYRw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 129.0,
+  "reviews": [],
+  "tagline": "Convenient outpatient medical care when needed.",
+  "intro": "DALMIA CLINIC is a walk-in clinic situated in Old Rajinder Nagar, New Delhi. Patients can access prompt primary medical attention for everyday health concerns.",
+  "services": [
+   {
+    "name": "Walk-In Consultations",
+    "desc": "Prompt medical evaluations for acute symptoms, minor illnesses, and general discomfort."
+   },
+   {
+    "name": "Primary Healthcare",
+    "desc": "Routine health assessments to evaluate symptoms and recommend proper medical management."
+   },
+   {
+    "name": "Minor Ailment Care",
+    "desc": "Timely diagnosis and treatment for coughs, colds, seasonal fevers, and aches."
+   },
+   {
+    "name": "Health Monitoring",
+    "desc": "Basic vital checks and health guidance to monitor ongoing patient recovery."
+   }
+  ],
+  "cta": "Visit DALMIA CLINIC for your primary medical needs.",
+  "url": "https://imjarvissingh.github.io/samples/dalmia-clinic/"
+ },
+ {
+  "slug": "anarghya-ias-academy",
+  "row": 24,
+  "name": "Anarghya IAS Academy",
+  "category": "Coaching Center",
+  "phone": "088602 41865",
+  "address": "56,3rd floor, Anarghya IAS Academy, opposite to Kotak Mahindra Bank, Old Rajender Nagar market, Block 54, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Anarghya+IAS+Academy/data=!4m7!3m6!1s0x390d03e828002137:0xa2ce974012734d0f!8m2!3d28.641098!4d77.1849847!16s%2Fg%2F11bwkbzc56!19sChIJNyEAKOgDDTkRD01zEkCXzqI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 127.0,
+  "reviews": [],
+  "tagline": "Guiding aspirants toward civil services success.",
+  "intro": "Anarghya IAS Academy is located in Old Rajinder Nagar, New Delhi. The coaching center provides targeted classroom instruction to assist students preparing for civil services.",
+  "services": [
+   {
+    "name": "Civil Services Coaching",
+    "desc": "Classroom instruction covering core syllabus areas for competitive civil service exams."
+   },
+   {
+    "name": "Prelims & Mains Preparation",
+    "desc": "Focused study modules addressing both preliminary and mains examination formats effectively."
+   },
+   {
+    "name": "Mentorship & Guidance",
+    "desc": "Structured academic advice to help candidates plan their studies and schedules."
+   },
+   {
+    "name": "Evaluation & Testing",
+    "desc": "Routine assessments and mock question sets to test knowledge and understanding."
+   }
+  ],
+  "cta": "Contact Anarghya IAS Academy to begin your studies.",
+  "url": "https://imjarvissingh.github.io/samples/anarghya-ias-academy/"
+ },
+ {
+  "slug": "cutes-makeover-salon",
+  "name": "Cutes Makeover Salon & Academy",
+  "category": "Beauty Parlour",
+  "phone": "098103 47442",
+  "address": "846, Joshi Path, Block A, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Cutes+Makeover+Salon+%26+Academy/data=!4m7!3m6!1s0x390cfd63eef4caff:0x4775a1df6fc06f7b!8m2!3d28.651417!4d77.198988!16s%2Fg%2F12hln2tkn!19sChIJ_8r07mP9DDkRe2_Ab9-hdUc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 114.0,
+  "reviews": [],
+  "tagline": "Look and feel your best every day.",
+  "intro": "Cutes Makeover Salon & Academy offers beauty and grooming services in Karol Bagh. Visit for everyday hair, skin, and makeover care in a welcoming salon setting.",
+  "services": [
+   {
+    "name": "Hair Styling",
+    "desc": "Cuts, styling, and finishing for everyday looks and special occasions."
+   },
+   {
+    "name": "Beauty Treatments",
+    "desc": "Facial and skincare sessions focused on a fresh, polished appearance."
+   },
+   {
+    "name": "Makeup Services",
+    "desc": "Makeup support for events, photos, and personal makeovers."
+   },
+   {
+    "name": "Salon Training",
+    "desc": "Basic beauty and salon skill sessions for learners interested in the craft."
+   }
+  ],
+  "cta": "Call or WhatsApp Cutes Makeover Salon & Academy to book a visit.",
+  "place_id": "ChIJ_8r07mP9DDkRe2_Ab9-hdUc",
+  "url": "https://imjarvissingh.github.io/samples/cutes-makeover-salon/"
+ },
+ {
+  "slug": "fit-fluence-gym",
+  "name": "FIT FLUENCE GYM",
+  "category": "Gym",
+  "phone": "078274 96226",
+  "address": "H314, Basement, FIT FLUENCE GYM, Pocket H, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/FIT+FLUENCE+GYM/data=!4m7!3m6!1s0x390d03a84aa68975:0xa82732a2be6aa546!8m2!3d28.6356268!4d77.180853!16s%2Fg%2F11v0jsxzgn!19sChIJdYmmSqgDDTkRRqVqvqIyJ6g?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 111.0,
+  "reviews": [],
+  "tagline": "Train hard. Stay consistent. Feel stronger.",
+  "intro": "FIT FLUENCE GYM is a local fitness space in New Rajinder Nagar. Members can work on strength, cardio, and everyday fitness goals with dedicated gym facilities.",
+  "services": [
+   {
+    "name": "Strength Training",
+    "desc": "Weights and resistance equipment to build muscle and endurance."
+   },
+   {
+    "name": "Cardio Workouts",
+    "desc": "Machines and routines that support stamina and heart health."
+   },
+   {
+    "name": "Personal Training",
+    "desc": "One-on-one guidance tailored to your fitness level and goals."
+   },
+   {
+    "name": "General Fitness",
+    "desc": "Balanced sessions for mobility, core strength, and overall wellness."
+   }
+  ],
+  "cta": "Visit FIT FLUENCE GYM in New Rajinder Nagar to start your fitness routine.",
+  "place_id": "ChIJdYmmSqgDDTkRRqVqvqIyJ6g",
+  "url": "https://imjarvissingh.github.io/samples/fit-fluence-gym/"
+ },
+ {
+  "slug": "bewell-physiotherapy-clinic",
+  "name": "Bewell Advance Physiotherapy Clinic(HOME CARE SERVICES )",
+  "category": "Occupational therapist",
+  "phone": "083830 39438",
+  "address": "1 block, Bewell Advance Physiotherapy Clinic(HOME CARE SERVICES ), 1/75, Shankar Rd, near oberoi biryani, Block 1, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Bewell+Advance+Physiotherapy+Clinic%28HOME+CARE+SERVICES+%29/data=!4m7!3m6!1s0x390d0377346ed6ef:0x57b2868ea60827ac!8m2!3d28.6363443!4d77.1854945!16s%2Fg%2F11vwxzcr6w!19sChIJ79ZuNHcDDTkRrCcIpo6Gslc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 74.0,
+  "reviews": [],
+  "tagline": "Recovery support and movement care close to home.",
+  "intro": "Bewell Advance Physiotherapy Clinic provides physiotherapy and related care from Old Rajinder Nagar, including home-care options noted in their listing. The clinic focuses on helping clients improve comfort and mobility.",
+  "services": [
+   {
+    "name": "Physiotherapy Consultation",
+    "desc": "Assessment and guided exercises for common musculoskeletal concerns."
+   },
+   {
+    "name": "Home Care Visits",
+    "desc": "Therapy support arranged at home when clinic visits are difficult."
+   },
+   {
+    "name": "Rehabilitation Exercises",
+    "desc": "Structured movement plans to rebuild strength and flexibility."
+   },
+   {
+    "name": "Pain Management Support",
+    "desc": "Hands-on and exercise-based approaches to ease everyday discomfort."
+   }
+  ],
+  "cta": "Contact Bewell Advance Physiotherapy Clinic to ask about an appointment.",
+  "place_id": "ChIJ79ZuNHcDDTkRrCcIpo6Gslc",
+  "url": "https://imjarvissingh.github.io/samples/bewell-physiotherapy-clinic/"
+ },
+ {
+  "slug": "restart-cafe",
+  "name": "Restart Cafe",
+  "category": "Fast food restaurant",
+  "phone": "099909 23042",
+  "address": "Shop No-4, Restart Cafe, X-17, Block 5, East Patel Nagar, Kalinga Chowk, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Restart+Cafe/data=!4m7!3m6!1s0x390d03bc9f44e0eb:0x4e4a0c254df5d8d7!8m2!3d28.6488806!4d77.1647255!16s%2Fg%2F11xnw9pkrs!19sChIJ6-BEn7wDDTkR19j1TSUMSk4?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 48.0,
+  "reviews": [],
+  "tagline": "Quick bites and a casual place to unwind.",
+  "intro": "Restart Cafe serves fast food and casual meals in Patel Nagar. Drop in for a simple break with everyday favourites in a relaxed setting.",
+  "services": [
+   {
+    "name": "Fast Food Meals",
+    "desc": "Quick, satisfying dishes for lunch, dinner, or a snack on the go."
+   },
+   {
+    "name": "Beverages",
+    "desc": "Soft drinks, tea, coffee, and other everyday refreshments."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Order to go when you need a meal without the wait."
+   },
+   {
+    "name": "Casual Dining",
+    "desc": "A comfortable spot to sit and enjoy food with friends or colleagues."
+   }
+  ],
+  "cta": "Stop by Restart Cafe in Patel Nagar for your next meal.",
+  "place_id": "ChIJ6-BEn7wDDTkR19j1TSUMSk4",
+  "url": "https://imjarvissingh.github.io/samples/restart-cafe/"
+ },
+ {
+  "slug": "evolve-gym",
+  "name": "Evolve gym",
+  "category": "Gym",
+  "phone": "079828 44341",
+  "address": "Metro Pillar Number 117, Evolve gym, 14A,7, Channa Market, WEA, Karol Bagh, New Delhi, Delhi 110005",
+  "link": "https://www.google.com/maps/place/Evolve+gym/data=!4m7!3m6!1s0x390d03dd855ced97:0x5c6f040ddce137f!8m2!3d28.6435839!4d77.1856644!16s%2Fg%2F11x5fkhzgh!19sChIJl-1chd0DDTkRfxPO3UDwxgU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 34.0,
+  "reviews": [],
+  "tagline": "Evolve your fitness, one workout at a time.",
+  "intro": "Evolve gym is a neighbourhood gym in Karol Bagh. It offers a practical space for strength training, cardio, and personal fitness progress.",
+  "services": [
+   {
+    "name": "Weight Training",
+    "desc": "Free weights and machines to support muscle building and tone."
+   },
+   {
+    "name": "Cardio Zone",
+    "desc": "Treadmills and cardio equipment for endurance sessions."
+   },
+   {
+    "name": "Trainer Support",
+    "desc": "Guidance to help you use equipment safely and effectively."
+   },
+   {
+    "name": "Flexible Workouts",
+    "desc": "Space for your own routine whether you train solo or with a partner."
+   }
+  ],
+  "cta": "Visit Evolve gym to learn about memberships and timings.",
+  "place_id": "ChIJl-1chd0DDTkRfxPO3UDwxgU",
+  "url": "https://imjarvissingh.github.io/samples/evolve-gym/"
+ },
+ {
+  "slug": "blends-and-brews-cafe",
+  "name": "Blends & Brews Cafe",
+  "category": "Cafe",
+  "phone": "099580 53013",
+  "address": "Shop 1, Blends & Brews Cafe, K-65, W.P Nagar, Block K, West Patel Nagar, Patel Nagar, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Blends+%26+Brews+Cafe/data=!4m7!3m6!1s0x390d03e85d7413a3:0x3a0e3911014f98d!8m2!3d28.6525758!4d77.1617801!16s%2Fg%2F11w9xz0pm9!19sChIJoxN0XegDDTkRjfkUEJHjoAM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 31.0,
+  "reviews": [],
+  "tagline": "Coffee, blends, and a calm cafe break.",
+  "intro": "Blends & Brews Cafe is a local cafe in Patel Nagar. Come for coffee, light bites, and a quiet place to catch up or work.",
+  "services": [
+   {
+    "name": "Coffee & Brews",
+    "desc": "Freshly prepared coffee and other hot and cold drinks."
+   },
+   {
+    "name": "Snacks & Light Meals",
+    "desc": "Simple cafe bites to pair with your favourite beverage."
+   },
+   {
+    "name": "Takeaway Orders",
+    "desc": "Grab your drink and snack to go when you are in a hurry."
+   },
+   {
+    "name": "Cafe Seating",
+    "desc": "A relaxed space to meet friends or take a short break."
+   }
+  ],
+  "cta": "Visit Blends & Brews Cafe in Patel Nagar for your next coffee stop.",
+  "place_id": "ChIJoxN0XegDDTkRjfkUEJHjoAM",
+  "url": "https://imjarvissingh.github.io/samples/blends-and-brews-cafe/"
+ },
+ {
+  "slug": "haircraft",
+  "name": "HAIRCRAFT",
+  "category": "Hairdresser",
+  "phone": "011 7968 0410",
+  "address": "Block 6A, HAIRCRAFT, 6A/63, opp. Hotel Sunstar Grand, Channa Market, Block 6A, WEA, Karol Bagh, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/HAIRCRAFT/data=!4m7!3m6!1s0x390d0299c94e4ef5:0x404328dfb2ac9ee1!8m2!3d28.6463943!4d77.1841938!16s%2Fg%2F11f2xy20jb!19sChIJ9U5OyZkCDTkR4Z6sst8oQ0A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 1253.0,
+  "reviews": [],
+  "tagline": "Crafted cuts and everyday hair care.",
+  "intro": "HAIRCRAFT is a hairdresser based in Karol Bagh. The salon focuses on clean cuts, styling, and practical hair care for regular visits.",
+  "services": [
+   {
+    "name": "Haircuts",
+    "desc": "Precision cuts for men and women suited to your face and lifestyle."
+   },
+   {
+    "name": "Hair Styling",
+    "desc": "Styling for daily wear, events, and polished finishes."
+   },
+   {
+    "name": "Colour & Highlights",
+    "desc": "Colour services to refresh or update your look."
+   },
+   {
+    "name": "Hair Care Treatments",
+    "desc": "Basic treatments to keep hair healthier and easier to manage."
+   }
+  ],
+  "cta": "Call HAIRCRAFT to book your next hair appointment.",
+  "place_id": "ChIJ9U5OyZkCDTkR4Z6sst8oQ0A",
+  "url": "https://imjarvissingh.github.io/samples/haircraft/"
+ },
+ {
+  "slug": "sheen-beauty-parlour",
+  "name": "Sheen",
+  "category": "Beauty Parlour",
+  "phone": "098183 76888",
+  "address": "Suite -B, Sheen, 15A/29, Block 15A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Sheen/data=!4m7!3m6!1s0x390d029928c3681d:0xe10221f9f9a2031a!8m2!3d28.6464312!4d77.1881355!16s%2Fg%2F11d_7swnf6!19sChIJHWjDKJkCDTkRGgOi-fkhAuE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 667.0,
+  "reviews": [],
+  "tagline": "Beauty care with a polished, personal touch.",
+  "intro": "Sheen is a beauty parlour serving clients in Karol Bagh. Expect everyday salon services for hair, skin, and grooming in a comfortable setting.",
+  "services": [
+   {
+    "name": "Hair Services",
+    "desc": "Cuts, styling, and finishing for a clean, refreshed look."
+   },
+   {
+    "name": "Facials & Skincare",
+    "desc": "Facial treatments aimed at cleaner, healthier-looking skin."
+   },
+   {
+    "name": "Threading & Grooming",
+    "desc": "Everyday grooming services for brows and facial care."
+   },
+   {
+    "name": "Bridal & Event Prep",
+    "desc": "Beauty support when you need to look ready for a special day."
+   }
+  ],
+  "cta": "Reach out to Sheen to schedule your salon visit.",
+  "place_id": "ChIJHWjDKJkCDTkRGgOi-fkhAuE",
+  "url": "https://imjarvissingh.github.io/samples/sheen-beauty-parlour/"
+ },
+ {
+  "slug": "evs-academy",
+  "name": "EVS Academy- An institute for UGC-NET/JRF",
+  "category": "Coaching Center",
+  "phone": "097188 37115",
+  "address": "13, 3rd Floor, EVS Academy- An institute for UGC-NET/JRF, In Kulhad Chai, Bada Bazar Rd, Old Rajender Nagar market, Block 55, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/EVS+Academy-+An+institute+for+UGC-NET%2FJRF/data=!4m7!3m6!1s0x390d1df41ccdf8f1:0x88eb51046ecc533!8m2!3d28.6415759!4d77.185099!16s%2Fg%2F11d_by3bl2!19sChIJ8fjNHPQdDTkRM8XsRhC1jgg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 236.0,
+  "reviews": [],
+  "tagline": "Focused coaching for UGC-NET and JRF aspirants.",
+  "intro": "EVS Academy is a coaching centre in Old Rajinder Nagar oriented toward UGC-NET/JRF preparation. Students can find structured academic support for their exam goals.",
+  "services": [
+   {
+    "name": "UGC-NET Coaching",
+    "desc": "Guided classes covering core topics for the UGC-NET exam."
+   },
+   {
+    "name": "JRF Preparation",
+    "desc": "Focused study support for Junior Research Fellowship aspirants."
+   },
+   {
+    "name": "Doubt Clearing",
+    "desc": "Sessions to revisit tough concepts and clarify questions."
+   },
+   {
+    "name": "Study Material Support",
+    "desc": "Organised notes and practice resources aligned with the syllabus."
+   }
+  ],
+  "cta": "Contact EVS Academy to ask about upcoming batches.",
+  "place_id": "ChIJ8fjNHPQdDTkRM8XsRhC1jgg",
+  "url": "https://imjarvissingh.github.io/samples/evs-academy/"
+ },
+ {
+  "slug": "fusion-dance-fitness",
+  "name": "FUSION dance and fitness studio",
+  "category": "Fitness center",
+  "phone": "099905 10156",
+  "address": "6/74, Shankar Rd, Block 5, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/FUSION+dance+and+fitness+studio/data=!4m7!3m6!1s0x390d03d0d5c2b7c1:0xa9fd5fb84fbfd715!8m2!3d28.6387777!4d77.1800586!16s%2Fg%2F11fk13s7qx!19sChIJwbfC1dADDTkRFde_T7hf_ak?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 115.0,
+  "reviews": [],
+  "tagline": "Dance, move, and stay active together.",
+  "intro": "FUSION dance and fitness studio brings dance and fitness classes to Old Rajinder Nagar. Join sessions designed to help you move better and stay energetic.",
+  "services": [
+   {
+    "name": "Dance Classes",
+    "desc": "Group dance sessions for beginners and regular practitioners."
+   },
+   {
+    "name": "Fitness Workouts",
+    "desc": "High-energy fitness routines that mix movement and conditioning."
+   },
+   {
+    "name": "Studio Sessions",
+    "desc": "Scheduled classes in a dedicated dance and fitness space."
+   },
+   {
+    "name": "Group Energy",
+    "desc": "A motivating environment to stay consistent with your practice."
+   }
+  ],
+  "cta": "Message FUSION dance and fitness studio to join a class.",
+  "place_id": "ChIJwbfC1dADDTkRFde_T7hf_ak",
+  "url": "https://imjarvissingh.github.io/samples/fusion-dance-fitness/"
+ },
+ {
+  "slug": "steppers-girls-gym",
+  "name": "STEPPERS DO THE STEPS - Girls Gym",
+  "category": "Aerobics Class",
+  "phone": "098118 87171",
+  "address": "5/32, Salwan School Rd, Block 5, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/STEPPERS+DO+THE+STEPS+-+Girls+Gym/data=!4m7!3m6!1s0x390d02bce0adc01f:0x78bcb7c1d0a308f3!8m2!3d28.638624!4d77.180688!16s%2Fg%2F11dybdwl67!19sChIJH8Ct4LwCDTkR8wij0MG3vHg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 69.0,
+  "reviews": [],
+  "tagline": "A girls-focused space to step into fitness.",
+  "intro": "STEPPERS DO THE STEPS is a girls gym and aerobics space in Old Rajinder Nagar. It offers a comfortable setting for women to train, dance, and build fitness habits.",
+  "services": [
+   {
+    "name": "Aerobics Classes",
+    "desc": "Energetic group aerobics to improve stamina and coordination."
+   },
+   {
+    "name": "Girls Gym Workouts",
+    "desc": "Strength and fitness sessions in a women-focused environment."
+   },
+   {
+    "name": "Step & Cardio",
+    "desc": "Step-based routines that keep workouts fun and effective."
+   },
+   {
+    "name": "Beginner Friendly",
+    "desc": "Supportive sessions suitable for those starting their fitness journey."
+   }
+  ],
+  "cta": "Contact STEPPERS to learn about class timings and membership.",
+  "place_id": "ChIJH8Ct4LwCDTkR8wij0MG3vHg",
+  "url": "https://imjarvissingh.github.io/samples/steppers-girls-gym/"
+ },
+ {
+  "slug": "sandunes-cafe",
+  "name": "sanDunes",
+  "category": "Cafe",
+  "phone": "087459 04822",
+  "address": "23/5, Block 18, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/sanDunes/data=!4m7!3m6!1s0x390d0367f2d76e0d:0xf08d86b3cfc94ab5!8m2!3d28.6449303!4d77.1737618!16s%2Fg%2F11vzmlbqv1!19sChIJDW7X8mcDDTkRtUrJz7OGjfA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 55.0,
+  "reviews": [],
+  "tagline": "A neighbourhood cafe for good food and conversation.",
+  "intro": "sanDunes is a cafe in Patel Nagar. Stop by for coffee, meals, and a laid-back place to meet friends or take a break.",
+  "services": [
+   {
+    "name": "Cafe Menu",
+    "desc": "Meals and snacks prepared for everyday cafe dining."
+   },
+   {
+    "name": "Coffee & Drinks",
+    "desc": "Hot and cold beverages to go with your meal or conversation."
+   },
+   {
+    "name": "Dine-In",
+    "desc": "Comfortable seating for a relaxed cafe experience."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Quick orders when you want cafe food on the go."
+   }
+  ],
+  "cta": "Visit sanDunes in Patel Nagar for your next cafe outing.",
+  "place_id": "ChIJDW7X8mcDDTkRtUrJz7OGjfA",
+  "url": "https://imjarvissingh.github.io/samples/sandunes-cafe/"
+ },
+ {
+  "slug": "p-academy-gym",
+  "name": "P-Academy Gym-Love Your Body",
+  "category": "Gym",
+  "phone": "099990 90596",
+  "address": "155, Pocket D, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/P-Academy+Gym-Love+Your+Body/data=!4m7!3m6!1s0x390d034bff0d3053:0xd54b54473d02359a!8m2!3d28.6371367!4d77.1819669!16s%2Fg%2F11st_xqhxm!19sChIJUzAN_0sDDTkRmjUCPUdUS9U?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 51.0,
+  "reviews": [],
+  "tagline": "Love your body. Train with purpose.",
+  "intro": "P-Academy Gym is a local gym in New Rajinder Nagar. Members can work on strength, conditioning, and personal fitness goals in a dedicated training space.",
+  "services": [
+   {
+    "name": "Gym Floor Training",
+    "desc": "Equipment for strength, hypertrophy, and general fitness."
+   },
+   {
+    "name": "Cardio Training",
+    "desc": "Cardio options to support endurance and fat-loss routines."
+   },
+   {
+    "name": "Guided Workouts",
+    "desc": "Help planning routines that match your current fitness level."
+   },
+   {
+    "name": "Member Support",
+    "desc": "A welcoming gym environment for consistent, sustainable progress."
+   }
+  ],
+  "cta": "Visit P-Academy Gym to discuss membership options.",
+  "place_id": "ChIJUzAN_0sDDTkRmjUCPUdUS9U",
+  "url": "https://imjarvissingh.github.io/samples/p-academy-gym/"
+ },
+ {
+  "slug": "the-himalayan-cafe",
+  "name": "The Himalayan Cafe",
+  "category": "Cafe",
+  "phone": "091253 03075",
+  "address": "behind Shiv mandir, Block 7, South Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/The+Himalayan+Cafe/data=!4m7!3m6!1s0x390d03b13e4536cd:0x915bea47009c674!8m2!3d28.6461218!4d77.1646139!16s%2Fg%2F11nb1b8p16!19sChIJzTZFPrEDDTkRdMYJcKS-FQk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 22.0,
+  "reviews": [],
+  "tagline": "Warm flavours and a calm cafe escape.",
+  "intro": "The Himalayan Cafe serves cafe food and drinks in Patel Nagar. Enjoy a relaxed meal inspired by comforting Himalayan-style hospitality.",
+  "services": [
+   {
+    "name": "Cafe Meals",
+    "desc": "Hearty plates and light bites for breakfast, lunch, or evening visits."
+   },
+   {
+    "name": "Hot Beverages",
+    "desc": "Tea, coffee, and warming drinks for a quiet break."
+   },
+   {
+    "name": "Vegetarian Options",
+    "desc": "Menu choices suitable for everyday vegetarian dining."
+   },
+   {
+    "name": "Casual Seating",
+    "desc": "A friendly spot to dine alone or with company."
+   }
+  ],
+  "cta": "Drop into The Himalayan Cafe in Patel Nagar sometime soon.",
+  "place_id": "ChIJzTZFPrEDDTkRdMYJcKS-FQk",
+  "url": "https://imjarvissingh.github.io/samples/the-himalayan-cafe/"
+ },
+ {
+  "slug": "hair-dream-salon",
+  "name": "Hair Dream Salon (Unisex Salon)",
+  "category": "Barber shop",
+  "phone": "087662 95519",
+  "address": "6A/69, Channa Market, Block 6A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Hair+Dream+Salon+%28Unisex+Salon%29/data=!4m7!3m6!1s0x390d03e1e4adcd53:0xa1e4e87f26d24bda!8m2!3d28.6466196!4d77.1847275!16s%2Fg%2F11kj_bm_kc!19sChIJU82t5OEDDTkR2kvSJn_o5KE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 13.0,
+  "reviews": [],
+  "tagline": "Unisex salon care for hair that looks fresh.",
+  "intro": "Hair Dream Salon is a unisex salon in Karol Bagh. It offers haircuts, styling, and everyday grooming for men and women.",
+  "services": [
+   {
+    "name": "Unisex Haircuts",
+    "desc": "Cuts and trims tailored for both men and women."
+   },
+   {
+    "name": "Hair Styling",
+    "desc": "Blow-dry and styling for a clean, finished look."
+   },
+   {
+    "name": "Colour Services",
+    "desc": "Hair colour updates for a refreshed appearance."
+   },
+   {
+    "name": "Grooming Basics",
+    "desc": "Everyday salon services to keep you looking neat and confident."
+   }
+  ],
+  "cta": "Call Hair Dream Salon to book your next appointment.",
+  "place_id": "ChIJU82t5OEDDTkR2kvSJn_o5KE",
+  "url": "https://imjarvissingh.github.io/samples/hair-dream-salon/"
+ },
+ {
+  "name": "Chaigadh",
+  "category": "Cafe",
+  "phone": "088282 73563",
+  "address": "Block k, Chaigadh, 127, Block E, West Patel Nagar, Patel Nagar, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Chaigadh/data=!4m7!3m6!1s0x390d03a5afb49e7d:0x6c58441dbb497c0c!8m2!3d28.651559!4d77.1639252!16s%2Fg%2F11kbrr6dcx!19sChIJfZ60r6UDDTkRDHxJux1EWGw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 9.0,
+  "tagline": "Chai and café favourites in West Patel Nagar",
+  "intro": "Chaigadh is a café in West Patel Nagar, Delhi, serving chai and everyday café bites in a neighbourhood setting. Stop by for a quick break or a relaxed catch-up with friends.",
+  "services": [
+   {
+    "name": "Chai & hot beverages",
+    "desc": "Fresh chai and hot drinks for a comforting everyday pause."
+   },
+   {
+    "name": "Snacks & light bites",
+    "desc": "Simple café snacks to go with your drink."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Grab your favourites to go when you are on the move."
+   },
+   {
+    "name": "Neighbourhood hangout",
+    "desc": "A casual spot for a short break in West Patel Nagar."
+   }
+  ],
+  "cta": "Visit Chaigadh or call to ask about today’s menu.",
+  "reviews": [],
+  "slug": "chaigadh",
+  "id": "ChIJfZ60r6UDDTkRDHxJux1EWGw",
+  "url": "https://imjarvissingh.github.io/samples/chaigadh/"
+ },
+ {
+  "name": "Iron curls, unisex gym",
+  "category": "Gym",
+  "phone": "097116 19739",
+  "address": "73, near popular fruit juice, Block 54, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Iron+curls,+unisex+gym/data=!4m7!3m6!1s0x390d030750ae116b:0x32b7aeaa5fabebbb!8m2!3d28.6406165!4d77.1844223!16s%2Fg%2F11yr120jxm!19sChIJaxGuUAcDDTkRu-urX6qutzI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 5.0,
+  "tagline": "Unisex gym training in Old Rajinder Nagar",
+  "intro": "Iron curls is a unisex gym in Old Rajinder Nagar, New Delhi, focused on everyday strength and fitness training. Locals can train in a straightforward neighbourhood gym setting.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Equipment and floor space for weights and resistance work."
+   },
+   {
+    "name": "Cardio workouts",
+    "desc": "Space and machines for cardio-focused sessions."
+   },
+   {
+    "name": "General fitness",
+    "desc": "Support for everyday fitness goals in a unisex environment."
+   },
+   {
+    "name": "Walk-in enquiry",
+    "desc": "Call or visit to learn about membership options."
+   }
+  ],
+  "cta": "Call or visit Iron curls to start training.",
+  "reviews": [],
+  "slug": "iron-curls-unisex-gym",
+  "id": "ChIJaxGuUAcDDTkRu-urX6qutzI",
+  "url": "https://imjarvissingh.github.io/samples/iron-curls-unisex-gym/"
+ },
+ {
+  "name": "Mom’s Cafe",
+  "category": "Cafe",
+  "phone": "098992 74838",
+  "address": "22/20, Block 22, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Mom%E2%80%99s+Cafe/data=!4m7!3m6!1s0x390d03e6dfbfb53b:0x643d036729d911a7!8m2!3d28.652518!4d77.1676279!16s%2Fg%2F11y67yv6tq!19sChIJO7W_3-YDDTkRpxHZKWcDPWQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 206.0,
+  "tagline": "Café dining in West Patel Nagar",
+  "intro": "Mom’s Cafe is a well-rated café in West Patel Nagar, Patel Nagar, New Delhi. Guests come for casual café meals and drinks in a familiar local spot.",
+  "services": [
+   {
+    "name": "Café meals",
+    "desc": "Everyday café dishes for breakfast, lunch, or a light dinner."
+   },
+   {
+    "name": "Beverages",
+    "desc": "Coffee, tea, and soft drinks to go with your meal."
+   },
+   {
+    "name": "Snacks & desserts",
+    "desc": "Light snacks and sweet treats for a quick visit."
+   },
+   {
+    "name": "Dine-in & takeaway",
+    "desc": "Eat in or take your order with you."
+   }
+  ],
+  "cta": "Drop by Mom’s Cafe or call ahead for details.",
+  "reviews": [],
+  "slug": "mom-s-cafe",
+  "id": "ChIJO7W_3-YDDTkRpxHZKWcDPWQ",
+  "url": "https://imjarvissingh.github.io/samples/mom-s-cafe/"
+ },
+ {
+  "name": "Two Bulls Gym",
+  "category": "Fitness center",
+  "phone": "098915 63737",
+  "address": "First Floor, Two Bulls Gym, 26/25, Block 26, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Two+Bulls+Gym/data=!4m7!3m6!1s0x390d030026c349f9:0xfca598dd5a517ed0!8m2!3d28.6394552!4d77.1838997!16s%2Fg%2F11m691_w4g!19sChIJ-UnDJgADDTkR0H5RWt2Ypfw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 146.0,
+  "tagline": "Fitness centre in Old Rajinder Nagar",
+  "intro": "Two Bulls Gym is a fitness centre on the first floor in Old Rajinder Nagar, New Delhi. Members use it for regular strength and cardio training in a local gym setting.",
+  "services": [
+   {
+    "name": "Gym floor & weights",
+    "desc": "Access to strength equipment for regular workouts."
+   },
+   {
+    "name": "Cardio training",
+    "desc": "Cardio options for endurance and daily fitness."
+   },
+   {
+    "name": "Membership plans",
+    "desc": "Enquire about plans that fit your schedule."
+   },
+   {
+    "name": "Local training space",
+    "desc": "A neighbourhood fitness centre for Old Rajinder Nagar."
+   }
+  ],
+  "cta": "Call Two Bulls Gym to enquire about joining.",
+  "reviews": [],
+  "slug": "two-bulls-gym",
+  "id": "ChIJ-UnDJgADDTkR0H5RWt2Ypfw",
+  "url": "https://imjarvissingh.github.io/samples/two-bulls-gym/"
+ },
+ {
+  "name": "Maya's Luxury Unisex Salon",
+  "category": "Beauty Parlour",
+  "phone": "084484 33635",
+  "address": "65/3, New Rohtak Rd, Block 65, Karol Bagh, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Maya%27s+Luxury+Unisex+Salon/data=!4m7!3m6!1s0x390cfd7872406799:0xd7d41601f908bd7!8m2!3d28.6590332!4d77.1923596!16s%2Fg%2F11kpt6skjg!19sChIJmWdAcnj9DDkR14uQH2BBfQ0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 91.0,
+  "tagline": "Unisex salon services on New Rohtak Road, Karol Bagh",
+  "intro": "Maya's Luxury Unisex Salon is a beauty parlour on New Rohtak Road in Karol Bagh, Delhi. The salon offers unisex hair and beauty services for everyday grooming.",
+  "services": [
+   {
+    "name": "Haircuts & styling",
+    "desc": "Cuts and styling for everyday looks."
+   },
+   {
+    "name": "Hair colour & treatments",
+    "desc": "Colouring and basic hair care treatments."
+   },
+   {
+    "name": "Grooming services",
+    "desc": "Unisex grooming for a clean, polished finish."
+   },
+   {
+    "name": "Appointments",
+    "desc": "Call to book a convenient time."
+   }
+  ],
+  "cta": "Book your visit at Maya's Luxury Unisex Salon.",
+  "reviews": [],
+  "slug": "maya-s-luxury-unisex-salon",
+  "id": "ChIJmWdAcnj9DDkR14uQH2BBfQ0",
+  "url": "https://imjarvissingh.github.io/samples/maya-s-luxury-unisex-salon/"
+ },
+ {
+  "name": "The Clinic",
+  "category": "Dental clinic",
+  "phone": "011 4263 7355",
+  "address": "10/7, Gobind Chailani Marg, Block 10 B, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/The+Clinic/data=!4m7!3m6!1s0x390d02a3636998cf:0x83c5856760cb280b!8m2!3d28.637565!4d77.1856399!16s%2Fg%2F11r8dwz81!19sChIJz5hpY6MCDTkRCyjLYGeFxYM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 90.0,
+  "tagline": "Dental care in Old Rajinder Nagar",
+  "intro": "The Clinic is a dental clinic in Old Rajinder Nagar, Rajinder Nagar, New Delhi. Patients visit for routine dental check-ups and common dental treatments in a local clinic setting.",
+  "services": [
+   {
+    "name": "Dental check-ups",
+    "desc": "Routine oral examinations and advice."
+   },
+   {
+    "name": "Cleaning & preventive care",
+    "desc": "Professional cleaning and basic preventive dental care."
+   },
+   {
+    "name": "General dental treatments",
+    "desc": "Common procedures for everyday dental needs."
+   },
+   {
+    "name": "Appointment booking",
+    "desc": "Call the clinic to schedule a visit."
+   }
+  ],
+  "cta": "Call The Clinic to book a dental appointment.",
+  "reviews": [],
+  "slug": "the-clinic",
+  "id": "ChIJz5hpY6MCDTkRCyjLYGeFxYM",
+  "url": "https://imjarvissingh.github.io/samples/the-clinic/"
+ },
+ {
+  "name": "Hair Demand Unisex Saloon",
+  "category": "Beauty Parlour",
+  "phone": "088263 60686",
+  "address": "9A, Hair Demand Unisex Saloon, 33, Block 9A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Hair+Demand+Unisex+Saloon/data=!4m7!3m6!1s0x390d034e233c6ca5:0xe6d1ed42929e2202!8m2!3d28.6454855!4d77.1851312!16s%2Fg%2F11rstghvrl!19sChIJpWw8I04DDTkRAiKekkLt0eY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 36.0,
+  "tagline": "Unisex hair and beauty in Karol Bagh",
+  "intro": "Hair Demand Unisex Saloon is a beauty parlour in WEA, Karol Bagh, New Delhi. The salon provides unisex hair and grooming services for local clients.",
+  "services": [
+   {
+    "name": "Haircuts",
+    "desc": "Men’s and women’s cuts for everyday styles."
+   },
+   {
+    "name": "Styling & blow-dry",
+    "desc": "Styling for work, events, or a refresh."
+   },
+   {
+    "name": "Hair colour",
+    "desc": "Colour services to update or maintain your look."
+   },
+   {
+    "name": "Walk-in & bookings",
+    "desc": "Call ahead or visit to check availability."
+   }
+  ],
+  "cta": "Visit Hair Demand or call to book.",
+  "reviews": [],
+  "slug": "hair-demand-unisex-saloon",
+  "id": "ChIJpWw8I04DDTkRAiKekkLt0eY",
+  "url": "https://imjarvissingh.github.io/samples/hair-demand-unisex-saloon/"
+ },
+ {
+  "name": "CHAI CHAUPAL CAFE",
+  "category": "Cafe",
+  "phone": "094145 26843",
+  "address": "Shop No 125, CHAI CHAUPAL CAFE, W.P Nagar, Block J, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/CHAI+CHAUPAL+CAFE/data=!4m7!3m6!1s0x390d030d719d2603:0x1365d109d7887889!8m2!3d28.6520217!4d77.1618727!16s%2Fg%2F11ltsk2gkp!19sChIJAyadcQ0DDTkRiXiI1wnRZRM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 24.0,
+  "tagline": "Chai café in West Patel Nagar",
+  "intro": "CHAI CHAUPAL CAFE is a café in West Patel Nagar, Patel Nagar, New Delhi. It is a local spot for chai and casual café time in the neighbourhood.",
+  "services": [
+   {
+    "name": "Chai specialties",
+    "desc": "Classic chai and hot drinks for a daily break."
+   },
+   {
+    "name": "Café snacks",
+    "desc": "Light bites to enjoy with your drink."
+   },
+   {
+    "name": "Casual seating",
+    "desc": "A simple place to sit and catch up."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Order to go when you need something quick."
+   }
+  ],
+  "cta": "Stop by CHAI CHAUPAL CAFE for chai.",
+  "reviews": [],
+  "slug": "chai-chaupal-cafe",
+  "id": "ChIJAyadcQ0DDTkRiXiI1wnRZRM",
+  "url": "https://imjarvissingh.github.io/samples/chai-chaupal-cafe/"
+ },
+ {
+  "name": "FUZION THE SALON MAKEUP STUDIO AND ACADEMY",
+  "category": "Beauty Parlour",
+  "phone": "096439 25756",
+  "address": "9/6703, Pyare Lal Rd, Raigar Pura, Dev Nagar, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/FUZION+THE+SALON+MAKEUP+STUDIO+AND+ACADEMY/data=!4m7!3m6!1s0x390d03c9eacee2d3:0xe0eb1b2b42bc083f!8m2!3d28.6555111!4d77.1854839!16s%2Fg%2F11rtx5qwy4!19sChIJ0-LO6skDDTkRPwi8Qisb6-A?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 21.0,
+  "tagline": "Salon, makeup studio and academy in Karol Bagh",
+  "intro": "FUZION THE SALON MAKEUP STUDIO AND ACADEMY is a beauty parlour on Pyare Lal Road in Karol Bagh, New Delhi. The studio offers salon and makeup services for everyday and occasion looks.",
+  "services": [
+   {
+    "name": "Salon hair services",
+    "desc": "Cuts, styling, and hair care for clients."
+   },
+   {
+    "name": "Makeup studio",
+    "desc": "Makeup for events and everyday finishes."
+   },
+   {
+    "name": "Beauty services",
+    "desc": "Basic beauty treatments in a studio setting."
+   },
+   {
+    "name": "Academy enquiry",
+    "desc": "Ask about training or academy offerings when you call."
+   }
+  ],
+  "cta": "Call FUZION to book salon or makeup services.",
+  "reviews": [],
+  "slug": "fuzion-the-salon-makeup-studio-and-academy",
+  "id": "ChIJ0-LO6skDDTkRPwi8Qisb6-A",
+  "url": "https://imjarvissingh.github.io/samples/fuzion-the-salon-makeup-studio-and-academy/"
+ },
+ {
+  "name": "TREE HOUSE CAFE",
+  "category": "Cafe",
+  "phone": "088009 69646",
+  "address": "Shop no-35, Tree house Cafe, near shubhash jellweres, Block X, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Tree+house+Cafe/data=!4m7!3m6!1s0x390d0310341af4cb:0x182757b7d5912b88!8m2!3d28.6500084!4d77.1647451!16s%2Fg%2F11zg1f2ykq!19sChIJy_QaNBADDTkRiCuR1bdXJxg?authuser=0&hl=en&rclk=1",
+  "rating": 4.6,
+  "count": 30,
+  "tagline": "Café vibes in West Patel Nagar",
+  "intro": "Tree house Cafe is a well-rated café in West Patel Nagar, Patel Nagar, New Delhi. Guests come for coffee, snacks, and a relaxed neighbourhood setting near Subhash Jewellers.",
+  "services": [
+   {
+    "name": "Coffee & beverages",
+    "desc": "Hot and cold drinks for a morning start or an afternoon pause."
+   },
+   {
+    "name": "Snacks & light meals",
+    "desc": "Simple café food to enjoy with your drink."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Order to go when you need something quick."
+   },
+   {
+    "name": "Casual seating",
+    "desc": "A friendly spot to catch up in West Patel Nagar."
+   }
+  ],
+  "cta": "Drop by Tree house Cafe or call for today’s offerings.",
+  "reviews": [],
+  "slug": "tree-house-cafe",
+  "id": "ChIJy_QaNBADDTkRiCuR1bdXJxg",
+  "url": "https://imjarvissingh.github.io/samples/tree-house-cafe/"
+ },
+ {
+  "name": "Le winkies",
+  "category": "Cafe",
+  "phone": "074285 75123",
+  "address": "SHOP NO. 1, Le winkies, 14/32, Block 14, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Le+winkies/data=!4m7!3m6!1s0x390d03cde0038f0f:0xbeef623e61138ef1!8m2!3d28.6459368!4d77.1719808!16s%2Fg%2F11fl5gd0w7!19sChIJD48D4M0DDTkR8Y4TYT5i774?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 458.0,
+  "tagline": "Café in East Patel Nagar",
+  "intro": "Le winkies is a café in East Patel Nagar, Patel Nagar, New Delhi. It serves café food and drinks for locals looking for a casual place nearby.",
+  "services": [
+   {
+    "name": "Café food",
+    "desc": "Everyday café dishes for a casual meal."
+   },
+   {
+    "name": "Drinks",
+    "desc": "Coffee, shakes, and other beverages."
+   },
+   {
+    "name": "Snacks",
+    "desc": "Light snacks for a short visit."
+   },
+   {
+    "name": "Dine-in",
+    "desc": "Sit in and enjoy your order on site."
+   }
+  ],
+  "cta": "Call or visit Le winkies in East Patel Nagar.",
+  "reviews": [],
+  "slug": "le-winkies",
+  "id": "ChIJD48D4M0DDTkR8Y4TYT5i774",
+  "url": "https://imjarvissingh.github.io/samples/le-winkies/"
+ },
+ {
+  "name": "Sarayu Clinics",
+  "category": "Medical clinic",
+  "phone": "097727 89244",
+  "address": "C 124, Raman Lamba Marg, Pocket H, Rajender Nagar Part 1, New Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Sarayu+Clinics/data=!4m7!3m6!1s0x390d02bb71676e47:0xbaaf3d7d59ded37e!8m2!3d28.6359654!4d77.1805944!16s%2Fg%2F11c20nvg4p!19sChIJR25ncbsCDTkRftPeWX09r7o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 337.0,
+  "tagline": "Medical clinic in New Rajinder Nagar",
+  "intro": "Sarayu Clinics is a medical clinic in New Rajinder Nagar, Delhi. Patients visit for general clinic consultations and everyday healthcare needs in the neighbourhood.",
+  "services": [
+   {
+    "name": "General consultations",
+    "desc": "Clinic visits for common health concerns."
+   },
+   {
+    "name": "Follow-up care",
+    "desc": "Support for ongoing check-ins as advised by the clinic."
+   },
+   {
+    "name": "Basic clinic services",
+    "desc": "Everyday outpatient care in a local setting."
+   },
+   {
+    "name": "Appointments",
+    "desc": "Call to confirm timings and book a visit."
+   }
+  ],
+  "cta": "Call Sarayu Clinics to book an appointment.",
+  "reviews": [],
+  "slug": "sarayu-clinics",
+  "id": "ChIJR25ncbsCDTkRftPeWX09r7o",
+  "url": "https://imjarvissingh.github.io/samples/sarayu-clinics/"
+ },
+ {
+  "name": "Posh Spa krolbagh",
+  "category": "Spa",
+  "phone": "088105 21440",
+  "address": "block 6, Posh Spa krolbagh, 17a/53 first floor, Gurudwara Rd, above RBL bank, Karol Bagh, New Delhi, Delhi 110005",
+  "link": "https://www.google.com/maps/place/Posh+Spa+krolbagh/data=!4m7!3m6!1s0x390d03b94dd3751b:0x9a93f661500c152b!8m2!3d28.6459299!4d77.1907182!16s%2Fg%2F11h2c36l71!19sChIJG3XTTbkDDTkRKxUMUGH2k5o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 92.0,
+  "tagline": "Spa on Gurudwara Road, Karol Bagh",
+  "intro": "Posh Spa krolbagh is a spa on Gurudwara Road in Karol Bagh, New Delhi, above RBL Bank. Guests visit for relaxation and spa treatments in a local Karol Bagh location.",
+  "services": [
+   {
+    "name": "Massage therapy",
+    "desc": "Relaxing massage sessions for stress relief."
+   },
+   {
+    "name": "Spa treatments",
+    "desc": "Standard spa therapies for body and mind."
+   },
+   {
+    "name": "Wellness break",
+    "desc": "Quiet time for rest and recovery."
+   },
+   {
+    "name": "Bookings",
+    "desc": "Call ahead to reserve a slot."
+   }
+  ],
+  "cta": "Book your spa visit at Posh Spa Karol Bagh.",
+  "reviews": [],
+  "slug": "posh-spa-krolbagh",
+  "id": "ChIJG3XTTbkDDTkRKxUMUGH2k5o",
+  "url": "https://imjarvissingh.github.io/samples/posh-spa-krolbagh/"
+ },
+ {
+  "name": "Woodland Cafe",
+  "category": "Cafe",
+  "phone": "095993 36285",
+  "address": "ground floor, Woodland Cafe, Block 37j, 2168, Gurudwara Rd, opp. Post, Block 37J, Beadonpura, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Woodland+Cafe/data=!4m7!3m6!1s0x390d03bcbb56a40b:0x6433d4a6333be4a0!8m2!3d28.6499932!4d77.1944652!16s%2Fg%2F11vdlf2w3f!19sChIJC6RWu7wDDTkRoOQ7M6bUM2Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 87.0,
+  "tagline": "Café on Gurudwara Road, Karol Bagh",
+  "intro": "Woodland Cafe is a café on Gurudwara Road in Beadonpura, Karol Bagh, New Delhi. It is a local spot for café meals and drinks near the post office stretch.",
+  "services": [
+   {
+    "name": "Café meals",
+    "desc": "Casual food for breakfast, lunch, or a snack."
+   },
+   {
+    "name": "Hot & cold drinks",
+    "desc": "Coffee, tea, and coolers through the day."
+   },
+   {
+    "name": "Desserts & bites",
+    "desc": "Sweet and savoury options for a quick visit."
+   },
+   {
+    "name": "Dine-in & takeaway",
+    "desc": "Eat in or take your order with you."
+   }
+  ],
+  "cta": "Visit Woodland Cafe on Gurudwara Road.",
+  "reviews": [],
+  "slug": "woodland-cafe",
+  "id": "ChIJC6RWu7wDDTkRoOQ7M6bUM2Q",
+  "url": "https://imjarvissingh.github.io/samples/woodland-cafe/"
+ },
+ {
+  "name": "MFM Holistic Touch Clinic",
+  "category": "Physiotherapist",
+  "phone": "088006 40007",
+  "address": "10/18, Block 10 B, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/MFM+Holistic+Touch+Clinic/data=!4m7!3m6!1s0x390d02a2f03f966b:0xda2a4aad7bdc5e3e!8m2!3d28.6375326!4d77.1854504!16s%2Fg%2F11jygnkvd0!19sChIJa5Y_8KICDTkRPl7ce61KKto?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 44.0,
+  "tagline": "Physiotherapy clinic in Old Rajinder Nagar",
+  "intro": "MFM Holistic Touch Clinic is a physiotherapy clinic in Old Rajinder Nagar, New Delhi. Clients visit for physiotherapy support and recovery-focused care in a neighbourhood clinic.",
+  "services": [
+   {
+    "name": "Physiotherapy sessions",
+    "desc": "Guided sessions for mobility and recovery needs."
+   },
+   {
+    "name": "Pain management support",
+    "desc": "Clinic-based care for common musculoskeletal concerns."
+   },
+   {
+    "name": "Rehab guidance",
+    "desc": "Exercises and advice as part of your visit plan."
+   },
+   {
+    "name": "Appointments",
+    "desc": "Call to schedule a physiotherapy visit."
+   }
+  ],
+  "cta": "Call MFM Holistic Touch Clinic to book.",
+  "reviews": [],
+  "slug": "mfm-holistic-touch-clinic",
+  "id": "ChIJa5Y_8KICDTkRPl7ce61KKto",
+  "url": "https://imjarvissingh.github.io/samples/mfm-holistic-touch-clinic/"
+ },
+ {
+  "slug": "crochet-by-nishu",
+  "name": "Crochet by Nishu",
+  "category": "@crochet_by_nishu_",
+  "url": "https://imjarvissingh.github.io/samples/crochet-by-nishu/"
+ },
+ {
+  "slug": "mystivia-in",
+  "name": "Mystivia",
+  "category": "@mystivia.in",
+  "url": "https://imjarvissingh.github.io/samples/mystivia-in/"
+ },
+ {
+  "slug": "pashminaluxe-co",
+  "name": "Pashmina Luxe",
+  "category": "@pashminaluxe_co",
+  "url": "https://imjarvissingh.github.io/samples/pashminaluxe-co/"
+ },
+ {
+  "slug": "lun-orastudio",
+  "name": "Lunora Studio",
+  "category": "@lun_orastudio",
+  "url": "https://imjarvissingh.github.io/samples/lun-orastudio/"
+ },
+ {
+  "slug": "she-loves-to-crochet",
+  "name": "She Loves to Crochet",
+  "category": "@she_loves_to_crochet",
+  "url": "https://imjarvissingh.github.io/samples/she-loves-to-crochet/"
+ },
+ {
+  "slug": "sweetbeadscafe",
+  "name": "Sweet Beads Cafe",
+  "category": "@sweetbeadscafe",
+  "url": "https://imjarvissingh.github.io/samples/sweetbeadscafe/"
+ },
+ {
+  "slug": "shop-the-aesthetiques",
+  "name": "The Aesthetiques",
+  "category": "@shop.the.aesthetiques",
+  "url": "https://imjarvissingh.github.io/samples/shop-the-aesthetiques/"
+ },
+ {
+  "slug": "yarnytones",
+  "name": "Yarnytones",
+  "category": "@yarnytones",
+  "url": "https://imjarvissingh.github.io/samples/yarnytones/"
+ },
+ {
+  "slug": "tulikas-art",
+  "name": "Tulika's Art",
+  "category": "@tulikas_art",
+  "url": "https://imjarvissingh.github.io/samples/tulikas-art/"
+ },
+ {
+  "slug": "flaire-india",
+  "name": "Flairé India",
+  "category": "@flaire_india",
+  "url": "https://imjarvissingh.github.io/samples/flaire-india/"
+ },
+ {
+  "slug": "tara-luxe-in",
+  "name": "Tara Luxe",
+  "category": "@tara.luxe.in",
+  "url": "https://imjarvissingh.github.io/samples/tara-luxe-in/"
+ },
+ {
+  "slug": "the-aw-archive",
+  "name": "AW Archive",
+  "category": "@the.aw.archive",
+  "url": "https://imjarvissingh.github.io/samples/the-aw-archive/"
+ },
+ {
+  "slug": "amoha-in",
+  "name": "Amoha",
+  "category": "@amoha.in_",
+  "url": "https://imjarvissingh.github.io/samples/amoha-in/"
+ },
+ {
+  "slug": "twistingthreads4u",
+  "name": "Twisting Threads",
+  "category": "@twistingthreads4u",
+  "url": "https://imjarvissingh.github.io/samples/twistingthreads4u/"
+ },
+ {
+  "slug": "varshacrochet",
+  "name": "Varshacrochet",
+  "category": "@varshacrochet",
+  "url": "https://imjarvissingh.github.io/samples/varshacrochet/"
+ },
+ {
+  "slug": "mirra-threads01",
+  "name": "Mirra Threads",
+  "category": "@mirra_threads01",
+  "url": "https://imjarvissingh.github.io/samples/mirra-threads01/"
+ },
+ {
+  "slug": "mukul-fashion-designer",
+  "name": "Mukul Fashion Boutique",
+  "category": "@mukul_fashion_designer",
+  "url": "https://imjarvissingh.github.io/samples/mukul-fashion-designer/"
+ },
+ {
+  "slug": "naziyastitchstudio",
+  "name": "Naziya Stitch Studio",
+  "category": "@naziyastitchstudio",
+  "url": "https://imjarvissingh.github.io/samples/naziyastitchstudio/"
+ },
+ {
+  "slug": "thelabelruchikka",
+  "name": "The Label Ruchikka",
+  "category": "@thelabelruchikka",
+  "url": "https://imjarvissingh.github.io/samples/thelabelruchikka/"
+ },
+ {
+  "slug": "theboutiquebyshakeela",
+  "name": "The Boutique by Shakeela",
+  "category": "@theboutiquebyshakeela",
+  "url": "https://imjarvissingh.github.io/samples/theboutiquebyshakeela/"
+ },
+ {
+  "slug": "mehra-boutiques",
+  "name": "Mehra Boutique",
+  "category": "@mehra_boutiques",
+  "url": "https://imjarvissingh.github.io/samples/mehra-boutiques/"
+ },
+ {
+  "slug": "radzbyraadhika",
+  "name": "Radz by Raadhika",
+  "category": "@radzbyraadhika",
+  "url": "https://imjarvissingh.github.io/samples/radzbyraadhika/"
+ },
+ {
+  "slug": "anu-kakkar",
+  "name": "Anu Kakkar",
+  "category": "@anu.kakkar",
+  "url": "https://imjarvissingh.github.io/samples/anu-kakkar/"
+ },
+ {
+  "slug": "aaradhyaboutique2026",
+  "name": "Aaradhya Boutique",
+  "category": "@aaradhyaboutique2026",
+  "url": "https://imjarvissingh.github.io/samples/aaradhyaboutique2026/"
+ },
+ {
+  "slug": "shopvasthraa",
+  "name": "Vasthraa",
+  "category": "@shopvasthraa",
+  "url": "https://imjarvissingh.github.io/samples/shopvasthraa/"
+ },
+ {
+  "slug": "prajapati-ji-ki-bahu",
+  "name": "Vastra Villa",
+  "category": "@prajapati_ji_ki_bahu",
+  "url": "https://imjarvissingh.github.io/samples/prajapati-ji-ki-bahu/"
+ },
+ {
+  "slug": "ashianand13",
+  "name": "Ashi Anand",
+  "category": "@_ashianand13",
+  "url": "https://imjarvissingh.github.io/samples/ashianand13/"
+ },
+ {
+  "slug": "samairasboutique",
+  "name": "Samaira's Boutique",
+  "category": "@samairasboutique",
+  "url": "https://imjarvissingh.github.io/samples/samairasboutique/"
+ },
+ {
+  "slug": "craftedcorner-1",
+  "name": "Crafted Corner",
+  "category": "@craftedcorner_1",
+  "url": "https://imjarvissingh.github.io/samples/craftedcorner-1/"
+ },
+ {
+  "slug": "sk-bakery",
+  "name": "SK Bakery",
+  "category": "@_sk.bakery_",
+  "url": "https://imjarvissingh.github.io/samples/sk-bakery/"
+ },
+ {
+  "slug": "vish-stitch",
+  "name": "Vish.Stitch",
+  "category": "@vish.stitch",
+  "url": "https://imjarvissingh.github.io/samples/vish-stitch/"
+ },
+ {
+  "name": "The Coffee Coop",
+  "category": "Cafe",
+  "phone": "084918 89265",
+  "address": "Shop no 89, The Coffee Coop, Bada Bazar Rd, Block 59, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/The+Coffee+Coop/data=!4m7!3m6!1s0x390d033d305ba635:0x94da3d64c4b1d98f!8m2!3d28.6408064!4d77.1849244!16s%2Fg%2F11t_r2sr7z!19sChIJNaZbMD0DDTkRj9mxxGQ92pQ?authuser=0&hl=en&rclk=1",
+  "rating": 4.6,
+  "count": 39,
+  "tagline": "Neighbourhood café on Bada Bazar Road, Old Rajinder Nagar",
+  "intro": "The Coffee Coop is a café in Old Rajinder Nagar, New Delhi, with a 4.6 rating from local Google reviewers. Stop by for coffee, café bites, and a casual hangout near Bada Bazar Road.",
+  "services": [
+   {
+    "name": "Coffee & hot drinks",
+    "desc": "Everyday brews and hot beverages for a quick break or a longer sit."
+   },
+   {
+    "name": "Café snacks",
+    "desc": "Light bites to go with your drink."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Grab your favourites when you are on the move."
+   },
+   {
+    "name": "Local hangout",
+    "desc": "A casual spot for friends and neighbours in Old Rajinder Nagar."
+   }
+  ],
+  "cta": "Visit The Coffee Coop or call to ask about today’s menu.",
+  "reviews": [],
+  "slug": "the-coffee-coop",
+  "id": "ChIJNaZbMD0DDTkRj9mxxGQ92pQ",
+  "url": "https://imjarvissingh.github.io/samples/the-coffee-coop/"
+ },
+ {
+  "name": "Dripping Dose",
+  "category": "Patisserie",
+  "phone": "093551 55150",
+  "address": "28/7, next to Gud Price Bazar, Block 28, East Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Dripping+Dose/data=!4m7!3m6!1s0x390d01f75e9f557f:0xf9612132739c4775!8m2!3d28.646481!4d77.1730678!16s%2Fg%2F11t6lgyl_8!19sChIJf1WfXvcBDTkRdUecczIhYfk?authuser=0&hl=en&rclk=1",
+  "rating": 4.5,
+  "count": 940,
+  "tagline": "Patisserie treats in East Patel Nagar",
+  "intro": "Dripping Dose is a patisserie in East Patel Nagar, New Delhi, with hundreds of Google reviews. Guests visit for cakes, desserts, and sweet café favourites next to Gud Price Bazar.",
+  "services": [
+   {
+    "name": "Cakes & desserts",
+    "desc": "Sweet treats from the patisserie counter."
+   },
+   {
+    "name": "Pastries & baked goods",
+    "desc": "Everyday bakery picks for tea time or celebrations."
+   },
+   {
+    "name": "Café seating",
+    "desc": "Sit in and enjoy something sweet with a drink."
+   },
+   {
+    "name": "Takeaway boxes",
+    "desc": "Pick up desserts to share at home or the office."
+   }
+  ],
+  "cta": "Visit Dripping Dose or call to ask about today’s desserts.",
+  "reviews": [],
+  "slug": "dripping-dose",
+  "id": "ChIJf1WfXvcBDTkRdUecczIhYfk",
+  "url": "https://imjarvissingh.github.io/samples/dripping-dose/"
+ },
+ {
+  "name": "Intensity Gym & Fitness Studio",
+  "category": "Gym",
+  "phone": "098731 19775",
+  "address": "35/1, Shankar Rd, Rajendra Park, Block 35, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi 110060",
+  "link": "https://www.google.com/maps/place/Intensity+Gym+%26+Fitness+Studio/data=!4m7!3m6!1s0x390d02bc3540e821:0x37f75d47f5ece0f2!8m2!3d28.6395717!4d77.178531!16s%2Fg%2F11bx9pld0_!19sChIJIehANbwCDTkR8uDs9Udd9zc?authuser=0&hl=en&rclk=1",
+  "rating": 4.5,
+  "count": 89,
+  "tagline": "Gym & fitness studio on Shankar Road, Old Rajinder Nagar",
+  "intro": "Intensity Gym & Fitness Studio is a neighbourhood gym in Old Rajinder Nagar, New Delhi, rated 4.5 on Google. Train for strength, cardio, and everyday fitness on Shankar Road.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Weights and resistance work for building strength."
+   },
+   {
+    "name": "Cardio sessions",
+    "desc": "Cardio-focused workouts for stamina and conditioning."
+   },
+   {
+    "name": "General fitness",
+    "desc": "Support for everyday fitness goals in a studio setting."
+   },
+   {
+    "name": "Membership enquiry",
+    "desc": "Call or visit to learn about joining options."
+   }
+  ],
+  "cta": "Call or visit Intensity Gym to start training.",
+  "reviews": [],
+  "slug": "intensity-gym-fitness-studio",
+  "id": "ChIJIehANbwCDTkR8uDs9Udd9zc",
+  "url": "https://imjarvissingh.github.io/samples/intensity-gym-fitness-studio/"
+ },
+ {
+  "name": "RampUp Gaming Café",
+  "category": "Video arcade",
+  "phone": "098716 79266",
+  "address": "Basement, RampUp Gaming Café, 5/16, Block 5, East Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/RampUp+Gaming+Caf%C3%A9/data=!4m7!3m6!1s0x390d03c19cdabe2b:0x52b42605b7ad5cef!8m2!3d28.6465323!4d77.1704846!16s%2Fg%2F11wwbq8h7s!19sChIJK77anMEDDTkR71yttwUmtFI?authuser=0&hl=en&rclk=1",
+  "rating": 4.5,
+  "count": 32,
+  "tagline": "Gaming café in East Patel Nagar",
+  "intro": "RampUp Gaming Café is a video arcade and gaming café in the basement at Block 5, East Patel Nagar, New Delhi. Locals come for games, hangouts, and a casual café vibe with friends.",
+  "services": [
+   {
+    "name": "PC & console gaming",
+    "desc": "Play sessions in a dedicated gaming space."
+   },
+   {
+    "name": "Arcade & multiplayer",
+    "desc": "Hang out and compete with friends."
+   },
+   {
+    "name": "Café refreshments",
+    "desc": "Drinks and light bites while you play."
+   },
+   {
+    "name": "Group bookings",
+    "desc": "Call ahead for slots with your crew."
+   }
+  ],
+  "cta": "Visit RampUp Gaming Café or call to check availability.",
+  "reviews": [],
+  "slug": "rampup-gaming-cafe",
+  "id": "ChIJK77anMEDDTkR71yttwUmtFI",
+  "url": "https://imjarvissingh.github.io/samples/rampup-gaming-cafe/"
+ },
+ {
+  "name": "New Look Unisex Salon",
+  "category": "Barber shop",
+  "phone": "096277 32948",
+  "address": "8A 37, Channa Market, Channa Market, Block 7A, WEA, Karol Bagh, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/New+Look+Unisex+Salon/data=!4m7!3m6!1s0x390d037b8be0a731:0x809ac52b616a6726!8m2!3d28.6453519!4d77.1840395!16s%2Fg%2F11zgl1n_qn!19sChIJMafgi3sDDTkRJmdqYSvFmoA?authuser=0&hl=en&rclk=1",
+  "rating": 4.5,
+  "count": 2,
+  "tagline": "Unisex salon in Channa Market, Karol Bagh",
+  "intro": "New Look Unisex Salon is a barber shop and salon in Channa Market, Karol Bagh, Delhi. Walk in for everyday haircuts and grooming in a neighbourhood setting.",
+  "services": [
+   {
+    "name": "Haircuts",
+    "desc": "Everyday cuts for men and women."
+   },
+   {
+    "name": "Grooming",
+    "desc": "Basic grooming and styling for a fresh look."
+   },
+   {
+    "name": "Unisex services",
+    "desc": "A welcoming space for all clients."
+   },
+   {
+    "name": "Walk-in friendly",
+    "desc": "Call or visit Channa Market for an appointment."
+   }
+  ],
+  "cta": "Call or visit New Look Unisex Salon in Karol Bagh.",
+  "reviews": [],
+  "slug": "new-look-unisex-salon",
+  "id": "ChIJMafgi3sDDTkRJmdqYSvFmoA",
+  "url": "https://imjarvissingh.github.io/samples/new-look-unisex-salon/"
+ },
+ {
+  "name": "Dr. Deepali Seth's Imaging Centre",
+  "category": "Medical diagnostic imaging center",
+  "phone": "011 4509 7107",
+  "address": "130, Shankar Rd Market, Pocket F, Rajender Nagar Part 2, New Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Dr.+Deepali+Seth%27s+Imaging+Centre/data=!4m7!3m6!1s0x390d02bc9a9c3f79:0x86615cae463d0bd3!8m2!3d28.6382378!4d77.1801017!16s%2Fg%2F11bwp629jy!19sChIJeT-cmrwCDTkR0ws9Rq5cYYY?authuser=0&hl=en&rclk=1",
+  "rating": 4.4,
+  "count": 112,
+  "tagline": "Diagnostic imaging on Shankar Road Market, New Rajinder Nagar",
+  "intro": "Dr. Deepali Seth's Imaging Centre is a medical diagnostic imaging centre in New Rajinder Nagar, New Delhi, with over a hundred Google reviews. Patients visit for imaging and diagnostic support near Shankar Road Market.",
+  "services": [
+   {
+    "name": "Diagnostic imaging",
+    "desc": "Imaging services to support clinical diagnosis."
+   },
+   {
+    "name": "Scan & report support",
+    "desc": "Help understanding the process from booking to reports."
+   },
+   {
+    "name": "Neighbourhood centre",
+    "desc": "A local imaging option in New Rajinder Nagar."
+   },
+   {
+    "name": "Appointment enquiry",
+    "desc": "Call to ask about timings and available tests."
+   }
+  ],
+  "cta": "Call Dr. Deepali Seth's Imaging Centre to enquire about appointments.",
+  "reviews": [],
+  "slug": "dr-deepali-seth-imaging-centre",
+  "id": "ChIJeT-cmrwCDTkR0ws9Rq5cYYY",
+  "url": "https://imjarvissingh.github.io/samples/dr-deepali-seth-imaging-centre/"
+ },
+ {
+  "name": "Arcadia superspeciality clinic",
+  "category": "Medical clinic",
+  "phone": "011 2874 4422",
+  "address": "J-354, Near Blind School, New Rajinder Nagar, New Delhi, Delhi 110060",
+  "link": "https://www.google.com/maps/place/Arcadia+superspeciality+clinic/data=!4m7!3m6!1s0x390d02bc0a88f991:0xa119a53fa81012f4!8m2!3d28.6369205!4d77.178554!16s%2Fg%2F11bzs_xfpc!19sChIJkfmICrwCDTkR9BIQqD-lGaE?authuser=0&hl=en&rclk=1",
+  "rating": 4.4,
+  "count": 21,
+  "tagline": "Superspeciality clinic in New Rajinder Nagar",
+  "intro": "Arcadia superspeciality clinic is a medical clinic in New Rajinder Nagar, New Delhi, near Blind School. Patients come for superspeciality consultation and care in a neighbourhood clinic setting.",
+  "services": [
+   {
+    "name": "Specialist consultation",
+    "desc": "Clinic visits for medical advice and follow-up."
+   },
+   {
+    "name": "Superspeciality care",
+    "desc": "Focused clinical support for specialised needs."
+   },
+   {
+    "name": "Local clinic access",
+    "desc": "A nearby option for residents of New Rajinder Nagar."
+   },
+   {
+    "name": "Appointment booking",
+    "desc": "Call to check timings and book a visit."
+   }
+  ],
+  "cta": "Call Arcadia superspeciality clinic to book an appointment.",
+  "reviews": [],
+  "slug": "arcadia-superspeciality-clinic",
+  "id": "ChIJkfmICrwCDTkR9BIQqD-lGaE",
+  "url": "https://imjarvissingh.github.io/samples/arcadia-superspeciality-clinic/"
+ },
+ {
+  "name": "Nagori Tea point",
+  "category": "Coffee shop",
+  "phone": "080871 91654",
+  "address": "Shop No-2753, Nagori Tea point, 13, Patel Rd, near Metro Pillar Number 206, Ranjeet Nagar, New Delhi, Delhi, 110008",
+  "link": "https://www.google.com/maps/place/Nagori+Tea+point/data=!4m7!3m6!1s0x390d034438207765:0xd921dd6b289280a5!8m2!3d28.647604!4d77.1646891!16s%2Fg%2F11trlvjlls!19sChIJZXcgOEQDDTkRpYCSKGvdIdk?authuser=0&hl=en&rclk=1",
+  "rating": 4.3,
+  "count": 100,
+  "tagline": "Tea and coffee on Patel Road, Ranjeet Nagar",
+  "intro": "Nagori Tea point is a coffee shop on Patel Road near Metro Pillar 206 in Ranjeet Nagar, New Delhi, with a hundred Google reviews. Locals stop by for chai, coffee, and a quick neighbourhood break.",
+  "services": [
+   {
+    "name": "Chai & tea",
+    "desc": "Classic tea for an everyday pause."
+   },
+   {
+    "name": "Coffee",
+    "desc": "Hot coffee for mornings and late-day boosts."
+   },
+   {
+    "name": "Quick snacks",
+    "desc": "Light bites to go with your drink."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Grab a cup near the metro and continue your day."
+   }
+  ],
+  "cta": "Visit Nagori Tea point or call for today’s menu.",
+  "reviews": [],
+  "slug": "nagori-tea-point",
+  "id": "ChIJZXcgOEQDDTkRpYCSKGvdIdk",
+  "url": "https://imjarvissingh.github.io/samples/nagori-tea-point/"
+ },
+ {
+  "name": "Madhaw Clinic, ENT & Vertigo",
+  "category": "ENT Specialist",
+  "phone": "092122 46416",
+  "address": "24/11, Block 24, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Madhaw+Clinic,+ENT+%26+Vertigo/data=!4m7!3m6!1s0x390d02a304489be7:0x6ecaf2718cf726c8!8m2!3d28.6390706!4d77.1855174!16s%2Fg%2F11hbk5lk6l!19sChIJ55tIBKMCDTkRyCb3jHHyym4?authuser=0&hl=en&rclk=1",
+  "rating": 4.3,
+  "count": 98,
+  "tagline": "ENT & vertigo clinic in Old Rajinder Nagar",
+  "intro": "Madhaw Clinic, ENT & Vertigo is an ENT specialist clinic in Old Rajinder Nagar, New Delhi, with nearly a hundred Google reviews. Patients visit for ear, nose, throat, and vertigo-related consultation.",
+  "services": [
+   {
+    "name": "ENT consultation",
+    "desc": "Clinical visits for ear, nose, and throat concerns."
+   },
+   {
+    "name": "Vertigo care",
+    "desc": "Support for dizziness and balance-related issues."
+   },
+   {
+    "name": "Follow-up visits",
+    "desc": "Ongoing care after your first consultation."
+   },
+   {
+    "name": "Appointment enquiry",
+    "desc": "Call to ask about timings and booking."
+   }
+  ],
+  "cta": "Call Madhaw Clinic to enquire about an ENT appointment.",
+  "reviews": [],
+  "slug": "madhaw-clinic-ent-vertigo",
+  "id": "ChIJ55tIBKMCDTkRyCb3jHHyym4",
+  "url": "https://imjarvissingh.github.io/samples/madhaw-clinic-ent-vertigo/"
+ },
+ {
+  "name": "NEET SURE - NEET | ऐम्स",
+  "category": "Educational institution",
+  "phone": "096545 02020",
+  "address": "1/116, Shankar Rd, Block 1, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/NEET+SURE+-+NEET+%7C+%E0%A4%90%E0%A4%AE%E0%A5%8D%E0%A4%B8+%7C/data=!4m7!3m6!1s0x390d03e2f2975b3b:0x210217e4bc1e51b0!8m2!3d28.6361213!4d77.1847722!16s%2Fg%2F11f9zjwy6b!19sChIJO1uX8uIDDTkRsFEevOQXAiE?authuser=0&hl=en&rclk=1",
+  "rating": 4.3,
+  "count": 93,
+  "tagline": "NEET preparation coaching on Shankar Road, Old Rajinder Nagar",
+  "intro": "NEET SURE is an educational institution in Old Rajinder Nagar, New Delhi, focused on NEET preparation. Students and parents can enquire about classes and guidance on Shankar Road.",
+  "services": [
+   {
+    "name": "NEET coaching",
+    "desc": "Structured preparation support for NEET aspirants."
+   },
+   {
+    "name": "Subject guidance",
+    "desc": "Help with core medical entrance subjects."
+   },
+   {
+    "name": "Doubt & revision support",
+    "desc": "Space to clear doubts and revise key topics."
+   },
+   {
+    "name": "Admission enquiry",
+    "desc": "Call to learn about batches and joining."
+   }
+  ],
+  "cta": "Call NEET SURE to enquire about coaching batches.",
+  "reviews": [],
+  "slug": "neet-sure",
+  "id": "ChIJO1uX8uIDDTkRsFEevOQXAiE",
+  "url": "https://imjarvissingh.github.io/samples/neet-sure/"
+ },
+ {
+  "name": "Josie's Coffee House",
+  "category": "Restaurant",
+  "phone": "096677 79071",
+  "address": "Shop No. 3, Ground Floor, Josie's Coffee House, Central, beside La Pino's Pizza, Old Rajender Nagar market, Block 55, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Josie%27s+Coffee+House/data=!4m7!3m6!1s0x390d03295c656cab:0xc932eb8a70668def!8m2!3d28.6417586!4d77.1853622!16s%2Fg%2F11h_ftcn_b!19sChIJq2xlXCkDDTkR741mcIrrMsk?authuser=0&hl=en&rclk=1",
+  "rating": 4.2,
+  "count": 768,
+  "tagline": "Coffee house in Old Rajender Nagar market",
+  "intro": "Josie's Coffee House is a restaurant and coffee spot in Old Rajender Nagar market, New Delhi, with hundreds of Google reviews. Guests visit for coffee, café meals, and a casual sit-down beside La Pino's Pizza.",
+  "services": [
+   {
+    "name": "Coffee & beverages",
+    "desc": "Brews and drinks for mornings and evenings."
+   },
+   {
+    "name": "Café meals",
+    "desc": "Casual restaurant food in a coffee-house setting."
+   },
+   {
+    "name": "Dine-in",
+    "desc": "A place to sit with friends in the market."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Pick up favourites when you are short on time."
+   }
+  ],
+  "cta": "Visit Josie's Coffee House or call about today’s menu.",
+  "reviews": [],
+  "slug": "josies-coffee-house",
+  "id": "ChIJq2xlXCkDDTkR741mcIrrMsk",
+  "url": "https://imjarvissingh.github.io/samples/josies-coffee-house/"
+ },
+ {
+  "name": "The New Body Temple",
+  "category": "Gym",
+  "phone": "098110 34248",
+  "address": "12-a/14, Saraswati Marg, Block 12A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/The+New+Body+Temple/data=!4m7!3m6!1s0x390d029c4eb2b1f5:0x38933f0b4434686!8m2!3d28.646899!4d77.187169!16s%2Fg%2F1wg5wd30!19sChIJ9bGyTpwCDTkRhkZDtPAziQM?authuser=0&hl=en&rclk=1",
+  "rating": 4.2,
+  "count": 118,
+  "tagline": "Gym on Saraswati Marg, Karol Bagh",
+  "intro": "The New Body Temple is a gym in Karol Bagh, New Delhi, on Saraswati Marg, with over a hundred Google reviews. Train for strength, conditioning, and everyday fitness in a local gym setting.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Weights and resistance for building strength."
+   },
+   {
+    "name": "Cardio workouts",
+    "desc": "Sessions focused on stamina and conditioning."
+   },
+   {
+    "name": "General fitness",
+    "desc": "Support for regular training goals."
+   },
+   {
+    "name": "Membership enquiry",
+    "desc": "Call or visit to ask about joining."
+   }
+  ],
+  "cta": "Call or visit The New Body Temple to start training.",
+  "reviews": [],
+  "slug": "the-new-body-temple",
+  "id": "ChIJ9bGyTpwCDTkRhkZDtPAziQM",
+  "url": "https://imjarvissingh.github.io/samples/the-new-body-temple/"
+ },
+ {
+  "name": "Panther Cafe & Lounge",
+  "category": "Restaurant",
+  "phone": "080762 12154",
+  "address": "block 18 3rd floor, Panther Cafe & Lounge, 18/40, near by 24 seven, Block 18, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Panther+Cafe+%26+Lounge/data=!4m7!3m6!1s0x390d03ccadb02059:0x657baf48ca1eb991!8m2!3d28.6456839!4d77.1732356!16s%2Fg%2F11qnt6brq7!19sChIJWSCwrcwDDTkRkbkeykive2U?authuser=0&hl=en&rclk=1",
+  "rating": 4.2,
+  "count": 66,
+  "tagline": "Café & lounge in East Patel Nagar",
+  "intro": "Panther Cafe & Lounge is a restaurant on the 3rd floor at Block 18, East Patel Nagar, New Delhi, near 24 Seven. Guests come for café meals, drinks, and a lounge-style hangout with friends.",
+  "services": [
+   {
+    "name": "Café dining",
+    "desc": "Casual restaurant meals in a lounge setting."
+   },
+   {
+    "name": "Drinks & refreshments",
+    "desc": "Beverages to go with your meal or meet-up."
+   },
+   {
+    "name": "Group hangouts",
+    "desc": "A spot for friends to sit and catch up."
+   },
+   {
+    "name": "Reservations enquiry",
+    "desc": "Call ahead if you are planning a larger group."
+   }
+  ],
+  "cta": "Visit Panther Cafe & Lounge or call to enquire.",
+  "reviews": [],
+  "slug": "panther-cafe-lounge",
+  "id": "ChIJWSCwrcwDDTkRkbkeykive2U",
+  "url": "https://imjarvissingh.github.io/samples/panther-cafe-lounge/"
+ },
+ {
+  "name": "Qbic cafe",
+  "category": "Cafe",
+  "phone": "097173 23014",
+  "address": "1/6, Patel Rd, Block 1, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Qbic+cafe/data=!4m7!3m6!1s0x390d03f806d71cc5:0x4676eccddaa43b45!8m2!3d28.6444547!4d77.1705468!16s%2Fg%2F11fjwzty7d!19sChIJxRzXBvgDDTkRRTuk2s3sdkY?authuser=0&hl=en&rclk=1",
+  "rating": 4.1,
+  "count": 1811,
+  "tagline": "Popular café on Patel Road, East Patel Nagar",
+  "intro": "Qbic cafe is a café on Patel Road in East Patel Nagar, New Delhi, with over 1,800 Google reviews. Locals visit for coffee, café food, and a familiar neighbourhood hangout.",
+  "services": [
+   {
+    "name": "Coffee & drinks",
+    "desc": "Everyday brews and beverages."
+   },
+   {
+    "name": "Café meals",
+    "desc": "Casual food for breakfast, lunch, or an evening sit."
+   },
+   {
+    "name": "Dine-in",
+    "desc": "A busy local spot to meet friends."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Grab favourites when you are on the go."
+   }
+  ],
+  "cta": "Visit Qbic cafe or call about today’s menu.",
+  "reviews": [],
+  "slug": "qbic-cafe",
+  "id": "ChIJxRzXBvgDDTkRRTuk2s3sdkY",
+  "url": "https://imjarvissingh.github.io/samples/qbic-cafe/"
+ },
+ {
+  "name": "Tadow Cafe",
+  "category": "Cafe",
+  "phone": "078382 43837",
+  "address": "3rd Floor, Plot 68, Tadow Cafe, Block 8, South Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Tadow+Cafe/data=!4m7!3m6!1s0x390d032d3cfff407:0xb26877a8570020dc!8m2!3d28.6441497!4d77.1702609!16s%2Fg%2F11ykqq991x!19sChIJB_T_PC0DDTkR3CAAV6h3aLI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 13,
+  "tagline": "A third-floor café hangout in South Patel Nagar, rated 5.0 on Google",
+  "intro": "Tadow Cafe is a café on the third floor of Plot 68, Block 8, South Patel Nagar. Guests who have reviewed it on Google give it a perfect 5.0. Come up for coffee, café food and an easy evening with friends.",
+  "services": [
+   {
+    "name": "Coffee & drinks",
+    "desc": "Hot and cold drinks to sip slowly or grab on the way."
+   },
+   {
+    "name": "Café food",
+    "desc": "Bites and plates to share at the table."
+   },
+   {
+    "name": "Catch-ups & hangouts",
+    "desc": "A relaxed upstairs spot for friends, dates and study breaks."
+   },
+   {
+    "name": "Call before you visit",
+    "desc": "Ring us to check today’s menu and timings."
+   }
+  ],
+  "cta": "Come up to Tadow Cafe, or call to check today’s menu.",
+  "reviews": [],
+  "slug": "tadow-cafe",
+  "id": "ChIJB_T_PC0DDTkR3CAAV6h3aLI",
+  "url": "https://imjarvissingh.github.io/samples/tadow-cafe/"
+ },
+ {
+  "name": "Divaa Fitness",
+  "category": "Fitness center",
+  "phone": "088820 55064",
+  "address": "H-308 Pocket H Rajinder Nagar, Bajaj Rd, Rajender Nagar Part 1, New Rajinder Nagar, New Delhi, Delhi 110060",
+  "link": "https://www.google.com/maps/place/Divaa+Fitness+Rajinder+Nagar/data=!4m7!3m6!1s0x390d03ee6b581aa5:0xe9bcdd53c09e10f5!8m2!3d28.6353203!4d77.1808674!16s%2Fg%2F11z15rx9zq!19sChIJpRpYa-4DDTkR9RCewFPdvOk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 5.0,
+  "count": 4,
+  "tagline": "Fitness and dance studio on Bajaj Road, Rajinder Nagar",
+  "intro": "Divaa Fitness is a fitness and dance studio at H-308, Pocket H, Bajaj Road in Rajinder Nagar, with a 5.0 rating on Google. Come in to work out, dance and build confidence, or book the studio when you need a space to practise.",
+  "services": [
+   {
+    "name": "Fitness sessions",
+    "desc": "Workouts that build strength, stamina and confidence."
+   },
+   {
+    "name": "Dance",
+    "desc": "Move to the music and have fun while you get fitter."
+   },
+   {
+    "name": "Studio space",
+    "desc": "Need a space to dance, practise or create? Ask us about booking the studio."
+   },
+   {
+    "name": "Batches & timings",
+    "desc": "Call or WhatsApp to find a slot that suits you."
+   }
+  ],
+  "cta": "Start your fitness journey at Divaa Fitness. Call or WhatsApp to ask about batches.",
+  "reviews": [],
+  "slug": "divaa-fitness-rajinder-nagar",
+  "id": "ChIJpRpYa-4DDTkR9RCewFPdvOk",
+  "loc": "Rajinder Nagar",
+  "url": "https://imjarvissingh.github.io/samples/divaa-fitness-rajinder-nagar/"
+ },
+ {
+  "name": "Nobby's Cafe",
+  "category": "Cafe",
+  "phone": "096549 57587",
+  "address": "Ground Floor, Nobby's Cafe, 9/29, Block 9, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Nobby%27s+Cafe/data=!4m7!3m6!1s0x390d03b94f3f9e17:0xb39824b626ba5da6!8m2!3d28.64289!4d77.175175!16s%2Fg%2F11wvb3_2qq!19sChIJF54_T7kDDTkRpl26JrYkmLM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 742,
+  "tagline": "Coffee, comfort food and good company in East Patel Nagar",
+  "intro": "Nobby's Cafe is a ground-floor café at 9/29, Block 9, East Patel Nagar, rated 4.8 from more than 740 Google reviews. Their Instagram is full of what keeps people coming back: burgers, baked nachos and freshly poured coffee with latte art.",
+  "services": [
+   {
+    "name": "Coffee & latte art",
+    "desc": "Freshly made coffees, poured with care."
+   },
+   {
+    "name": "Burgers & bites",
+    "desc": "Hearty café food for lunch, dinner or a snack."
+   },
+   {
+    "name": "Baked nachos & sharers",
+    "desc": "Plates made for sharing with the table."
+   },
+   {
+    "name": "Meet-ups",
+    "desc": "A friendly spot for friends, family and work breaks."
+   }
+  ],
+  "cta": "Drop in at Nobby's Cafe, or call to ask about today’s menu.",
+  "reviews": [],
+  "slug": "nobbys-cafe",
+  "id": "ChIJF54_T7kDDTkRpl26JrYkmLM",
+  "url": "https://imjarvissingh.github.io/samples/nobbys-cafe/"
+ },
+ {
+  "name": "Hardcore Fitness Gym",
+  "category": "Fitness center",
+  "phone": "087429 95351",
+  "address": "7A/45, Hardcore Fitness Gym, Channa Market, Channa Market, Block 7A, WEA, Karol Bagh, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Hardcore+Fitness+Gym/data=!4m7!3m6!1s0x390cfd370fdf853d:0x6be8869703b76279!8m2!3d28.6456158!4d77.1837945!16s%2Fg%2F11thgb7c2w!19sChIJPYXfDzf9DDkReWK3A5eG6Gs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 471,
+  "tagline": "Serious training at Channa Market, Karol Bagh",
+  "intro": "Hardcore Fitness Gym is at 7A/45, Channa Market in Karol Bagh, rated 4.8 from 471 Google reviews. It’s a place to lift, build muscle and push yourself, with a crowd that takes training seriously.",
+  "services": [
+   {
+    "name": "Weight training",
+    "desc": "Free weights and machines for every muscle group."
+   },
+   {
+    "name": "Muscle building",
+    "desc": "Train consistently and build real strength."
+   },
+   {
+    "name": "Fat loss & conditioning",
+    "desc": "Workouts that help you get leaner and fitter."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Ready to train? Visit Hardcore Fitness Gym or call to ask about joining.",
+  "reviews": [],
+  "slug": "hardcore-fitness-gym",
+  "id": "ChIJPYXfDzf9DDkReWK3A5eG6Gs",
+  "url": "https://imjarvissingh.github.io/samples/hardcore-fitness-gym/"
+ },
+ {
+  "name": "Your Fitness Point Gym",
+  "category": "Gym",
+  "phone": "093540 48808",
+  "address": "Shop no-58, Basement, Your Fitness Point Gym, near Batra Medical Corner, Old Rajender Nagar market, Block 54, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Your+Fitness+Point+Gym/data=!4m7!3m6!1s0x390d03852d6c45cf:0x98faf1e7d90b0056!8m2!3d28.6411556!4d77.1848849!16s%2Fg%2F11wmhznqv5!19sChIJz0VsLYUDDTkRVgAL2efx-pg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 38,
+  "tagline": "Your neighbourhood gym, rated 4.8 on Google",
+  "intro": "Your Fitness Point Gym is a basement gym at Shop No. 58, near Batra Medical Corner in Old Rajinder Nagar Market, rated 4.8 by its Google reviewers. Whether you are starting out or getting back on track, it’s a straightforward place to train close to home.",
+  "services": [
+   {
+    "name": "Weight training",
+    "desc": "Build strength with free weights and machines."
+   },
+   {
+    "name": "Cardio & conditioning",
+    "desc": "Improve stamina and burn calories."
+   },
+   {
+    "name": "Fitness goals",
+    "desc": "Train for fat loss, muscle gain or general fitness."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Start training at Your Fitness Point Gym. Call to ask about joining.",
+  "reviews": [],
+  "slug": "your-fitness-point-gym",
+  "id": "ChIJz0VsLYUDDTkRVgAL2efx-pg",
+  "loc": "Old Rajinder Nagar",
+  "url": "https://imjarvissingh.github.io/samples/your-fitness-point-gym/"
+ },
+ {
+  "name": "Glamour Salon by Arpita MUA",
+  "category": "Beauty Parlour",
+  "phone": "088102 36103",
+  "address": "Block 7A, 7A, Glamour Salon By Arpita MUA, 77, Channa Market, Channa Market, Block 7A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Glamour+Salon+By+Arpita+MUA/data=!4m7!3m6!1s0x390d03762a87c8a5:0x697e9debe80e278d!8m2!3d28.6458744!4d77.1830529!16s%2Fg%2F11sdpx2x0x!19sChIJpciHKnYDDTkRjScO6Oudfmk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 72,
+  "tagline": "Makeup and beauty by Arpita at Channa Market, Karol Bagh",
+  "intro": "Glamour Salon by Arpita MUA is a beauty parlour at 77, Block 7A, Channa Market, Karol Bagh, led by makeup artist Arpita. Clients rate it 4.7 from 72 Google reviews.",
+  "services": [
+   {
+    "name": "Makeup by Arpita",
+    "desc": "Makeup for your big days and special occasions."
+   },
+   {
+    "name": "Hair styling",
+    "desc": "Styles that finish the look."
+   },
+   {
+    "name": "Skin care",
+    "desc": "Facials and care to help your skin glow."
+   },
+   {
+    "name": "Book a slot",
+    "desc": "Call or WhatsApp to check availability."
+   }
+  ],
+  "cta": "Book your look with Arpita. Call or WhatsApp to check availability.",
+  "reviews": [],
+  "slug": "glamour-salon-by-arpita-mua",
+  "id": "ChIJpciHKnYDDTkRjScO6Oudfmk",
+  "url": "https://imjarvissingh.github.io/samples/glamour-salon-by-arpita-mua/"
+ },
+ {
+  "name": "Cafe Neobaa",
+  "category": "Cocktail bar",
+  "phone": "085869 99281",
+  "address": "2/8, Pusa Rd, opposite Metro Pillar No.165, Block 2, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Cafe+Neobaa/data=!4m7!3m6!1s0x390d03f7d0250df7:0x13396494616d36c2!8m2!3d28.6428686!4d77.1734139!16s%2Fg%2F11nk0193h1!19sChIJ9w0l0PcDDTkRwjZtYZRkORM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.4,
+  "count": 64,
+  "tagline": "Dimsums, good food and evenings out on Pusa Road",
+  "intro": "Cafe Neobaa is on Pusa Road, opposite Metro Pillar No. 165 in East Patel Nagar, with a 4.4 rating on Google. Their Instagram shows steaming dimsums, plated food and friends out for the evening.",
+  "services": [
+   {
+    "name": "Dimsums",
+    "desc": "Steamed and served hot, a favourite on their feed."
+   },
+   {
+    "name": "Food to share",
+    "desc": "Plates made for the whole table."
+   },
+   {
+    "name": "Drinks",
+    "desc": "Something to sip while you catch up."
+   },
+   {
+    "name": "Get-togethers",
+    "desc": "A cosy spot for friends, dates and celebrations."
+   }
+  ],
+  "cta": "Find Cafe Neobaa opposite Metro Pillar 165, or call to book a table.",
+  "reviews": [],
+  "slug": "cafe-neobaa",
+  "id": "ChIJ9w0l0PcDDTkRwjZtYZRkORM",
+  "url": "https://imjarvissingh.github.io/samples/cafe-neobaa/"
+ },
+ {
+  "name": "Muscle Junkie - Pusa Road",
+  "category": "Gym",
+  "phone": "073030 86654",
+  "address": "metro piller no 116,117, Muscle Junkie - Pusa Road, 2nd Floor, 25B, Pusa Rd, Karol Bagh, New Delhi, Delhi 110005",
+  "link": "https://www.google.com/maps/place/Muscle+Junkie+-+Pusa+Road/data=!4m7!3m6!1s0x390d03c3a94bd099:0xabdfe5cde39e64a4!8m2!3d28.6434279!4d77.1858089!16s%2Fg%2F11lgsfvjtj!19sChIJmdBLqcMDDTkRpGSe483l36s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.1,
+  "count": 111,
+  "tagline": "A second-floor gym on Pusa Road, by Metro Pillar 116–117",
+  "intro": "Muscle Junkie on Pusa Road is a gym on the second floor near Metro Pillars 116 and 117, rated 4.1 from 111 Google reviews. Come in to build strength, lose weight or just get moving.",
+  "services": [
+   {
+    "name": "Weight training",
+    "desc": "Free weights and machines for full-body training."
+   },
+   {
+    "name": "Cardio",
+    "desc": "Stamina and fat-burning workouts."
+   },
+   {
+    "name": "Strength goals",
+    "desc": "Build muscle and track your progress."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Train at Muscle Junkie on Pusa Road. Call to ask about joining.",
+  "reviews": [],
+  "slug": "muscle-junkie-pusa-road",
+  "id": "ChIJmdBLqcMDDTkRpGSe483l36s",
+  "url": "https://imjarvissingh.github.io/samples/muscle-junkie-pusa-road/"
+ },
+ {
+  "name": "Taneja Dental Care",
+  "category": "Dental clinic",
+  "phone": "098100 09118",
+  "address": "Shop No. 65 (Ground Floor), Old Rajinder Nagar Market,, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Taneja+Dental+Care/data=!4m7!3m6!1s0x390d02a2e7b37ac5:0x35ef6a28972ab753!8m2!3d28.6408324!4d77.1846459!16s%2Fg%2F1vcq5_62!19sChIJxXqz56ICDTkRU7cqlyhq7zU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.1,
+  "count": 41,
+  "tagline": "Your dental clinic in Old Rajinder Nagar Market",
+  "intro": "Taneja Dental Care is a dental clinic at Shop No. 65 on the ground floor of Old Rajinder Nagar Market, rated 4.1 from 41 Google reviews. Visit for check-ups and treatment close to home.",
+  "services": [
+   {
+    "name": "Dental check-ups",
+    "desc": "Regular examinations to keep your teeth healthy."
+   },
+   {
+    "name": "Cleaning",
+    "desc": "Professional cleaning for a fresher smile."
+   },
+   {
+    "name": "Fillings & repairs",
+    "desc": "Treatment for cavities and damaged teeth."
+   },
+   {
+    "name": "Book a visit",
+    "desc": "Call to ask about timings and appointments."
+   }
+  ],
+  "cta": "Call Taneja Dental Care to book your visit.",
+  "reviews": [],
+  "slug": "taneja-dental-care",
+  "id": "ChIJxXqz56ICDTkRU7cqlyhq7zU",
+  "url": "https://imjarvissingh.github.io/samples/taneja-dental-care/"
+ },
+ {
+  "name": "Bohéme Cafe Bar",
+  "category": "Bar",
+  "phone": "099100 89416",
+  "address": "Shikha Rd, Block 7, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Boh%C3%A9me+Cafe+Bar/data=!4m7!3m6!1s0x390d0298e7622711:0xf467e557e496dd2f!8m2!3d28.6458408!4d77.1873113!16s%2Fg%2F11bx4bj_l8!19sChIJESdi55gCDTkRL92W5FflZ_Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.0,
+  "count": 748,
+  "tagline": "A popular café bar on Shikha Road, Karol Bagh",
+  "intro": "Bohéme Cafe Bar is on Shikha Road in Block 7, WEA, Karol Bagh. With 748 Google reviews and a 4.0 rating, it’s a well-known spot for food, drinks and nights out with friends.",
+  "services": [
+   {
+    "name": "Food",
+    "desc": "Plates and bites to share with the table."
+   },
+   {
+    "name": "Drinks",
+    "desc": "Something for every mood."
+   },
+   {
+    "name": "Nights out",
+    "desc": "A lively place to meet friends."
+   },
+   {
+    "name": "Reservations",
+    "desc": "Call ahead to book a table for your group."
+   }
+  ],
+  "cta": "Planning a night out? Call Bohéme Cafe Bar to book a table.",
+  "reviews": [],
+  "slug": "boheme-cafe-bar",
+  "id": "ChIJESdi55gCDTkRL92W5FflZ_Q",
+  "url": "https://imjarvissingh.github.io/samples/boheme-cafe-bar/"
+ },
+ {
+  "name": "CABOOSE X",
+  "category": "Chinese restaurant",
+  "phone": "011 4110 2786",
+  "address": "No. 18/31, Block 31, East Patel Nagar Rd, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/CABOOSE+X/data=!4m7!3m6!1s0x390d0294e77b4031:0x7de07e9e39d63c3a!8m2!3d28.6454375!4d77.1727689!16s%2Fg%2F11cm_f254g!19sChIJMUB755QCDTkROjzWOZ5-4H0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.0,
+  "count": 238,
+  "tagline": "Chinese food in East Patel Nagar, rated by 238 Google reviewers",
+  "intro": "CABOOSE X is a Chinese restaurant at 18/31, Block 31, East Patel Nagar Road. It holds a 4.0 rating from 238 Google reviews. Come by for your Chinese favourites, or call to order.",
+  "services": [
+   {
+    "name": "Chinese favourites",
+    "desc": "Classic dishes cooked fresh."
+   },
+   {
+    "name": "Dine in",
+    "desc": "Sit down with friends and family."
+   },
+   {
+    "name": "Order by phone",
+    "desc": "Call to place an order or ask about the menu."
+   },
+   {
+    "name": "Group meals",
+    "desc": "Bring the whole gang and share."
+   }
+  ],
+  "cta": "Hungry? Call CABOOSE X to order or visit us in East Patel Nagar.",
+  "reviews": [],
+  "slug": "caboose-x",
+  "id": "ChIJMUB755QCDTkROjzWOZ5-4H0",
+  "loc": "East Patel Nagar",
+  "url": "https://imjarvissingh.github.io/samples/caboose-x/"
+ },
+ {
+  "name": "Shisha",
+  "category": "Cafe",
+  "phone": "099999 62430",
+  "address": "14/36, Patel Rd, Block 12, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Shisha/data=!4m7!3m6!1s0x390d029505070ee7:0x8b8d5d0bf05ccc87!8m2!3d28.6444374!4d77.1738515!16s%2Fg%2F11c2k7k2vn!19sChIJ5w4HBZUCDTkRh8xc8AtdjYs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.0,
+  "count": 70,
+  "tagline": "A café hangout on Patel Road, East Patel Nagar",
+  "intro": "Shisha is a café at 14/36, Patel Road in East Patel Nagar, rated 4.0 from 70 Google reviews. It’s a laid-back spot to sit back with friends.",
+  "services": [
+   {
+    "name": "Drinks",
+    "desc": "Hot and cold drinks to enjoy at the table."
+   },
+   {
+    "name": "Café bites",
+    "desc": "Snacks and food to share."
+   },
+   {
+    "name": "Hangouts",
+    "desc": "A relaxed place to meet friends."
+   },
+   {
+    "name": "Call ahead",
+    "desc": "Ring us to check the menu and timings."
+   }
+  ],
+  "cta": "Visit Shisha on Patel Road, or call to check today’s menu.",
+  "reviews": [],
+  "slug": "shisha-cafe-patel-nagar",
+  "id": "ChIJ5w4HBZUCDTkRh8xc8AtdjYs",
+  "url": "https://imjarvissingh.github.io/samples/shisha-cafe-patel-nagar/"
+ },
+ {
+  "name": "Saxena Clinic",
+  "category": "Medical clinic",
+  "phone": "079824 67902",
+  "address": "4D, Saxena clinic, 16, Block 11A, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Saxena+clinic/data=!4m7!3m6!1s0x390d0346210a493f:0x8c8d11cd419e1fb1!8m2!3d28.637622!4d77.1845464!16s%2Fg%2F11rd9gqphb!19sChIJP0kKIUYDDTkRsR-eQc0RjYw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.0,
+  "count": 1,
+  "tagline": "A neighbourhood medical clinic in Old Rajinder Nagar",
+  "intro": "Saxena Clinic is a medical clinic at 4D, 16, Block 11A, Old Rajinder Nagar. Visit for consultations and everyday health concerns close to home.",
+  "services": [
+   {
+    "name": "Consultations",
+    "desc": "See the doctor about your health concerns."
+   },
+   {
+    "name": "Everyday illnesses",
+    "desc": "Help with fever, cough, cold and other common problems."
+   },
+   {
+    "name": "Follow-ups",
+    "desc": "Come back to review your progress."
+   },
+   {
+    "name": "Clinic timings",
+    "desc": "Call to check when the doctor is available."
+   }
+  ],
+  "cta": "Call Saxena Clinic to check the doctor’s timings.",
+  "reviews": [],
+  "slug": "saxena-clinic",
+  "id": "ChIJP0kKIUYDDTkRsR-eQc0RjYw",
+  "url": "https://imjarvissingh.github.io/samples/saxena-clinic/"
+ },
+ {
+  "name": "Dr Amit Seth's Clinic",
+  "category": "Dermatologist",
+  "phone": "098105 60507",
+  "address": "Shopping Center, 130, Shankar Rd, Block E, Rajender Nagar Part 2, New Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Dr+Amit+Seth%27s/data=!4m7!3m6!1s0x390d02a4f75c9fd5:0x24f23be675f19e4c!8m2!3d28.6382493!4d77.1800778!16s%2Fg%2F1hjgk6t98!19sChIJ1Z9c96QCDTkRTJ7xdeY78iQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 3.9,
+  "count": 177,
+  "tagline": "Dermatologist on Shankar Road, Rajinder Nagar",
+  "intro": "Dr Amit Seth's clinic is a dermatology practice at the Shopping Center, 130, Shankar Road, Block E, Rajinder Nagar, with 177 Google reviews. Visit for help with skin, hair and scalp concerns.",
+  "services": [
+   {
+    "name": "Skin consultations",
+    "desc": "Assessment and treatment advice for skin problems."
+   },
+   {
+    "name": "Acne & pigmentation",
+    "desc": "Care for common skin concerns."
+   },
+   {
+    "name": "Hair & scalp",
+    "desc": "Help with hair fall and scalp conditions."
+   },
+   {
+    "name": "Appointments",
+    "desc": "Call to ask about the doctor’s timings."
+   }
+  ],
+  "cta": "Call Dr Amit Seth's clinic to book a consultation.",
+  "reviews": [],
+  "slug": "dr-amit-seths-clinic",
+  "id": "ChIJ1Z9c96QCDTkRTJ7xdeY78iQ",
+  "url": "https://imjarvissingh.github.io/samples/dr-amit-seths-clinic/"
+ },
+ {
+  "name": "Flex 50",
+  "category": "Fitness center",
+  "phone": "+91 78276 87702",
+  "address": "27/15, near Jogger's park, Block 16, East Patel Nagar, Patel Nagar, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Flex+50+%28+aman+singh%29/data=!4m7!3m6!1s0x390d03ff3d2e974d:0x495349aa58e68a78!8m2!3d28.6467659!4d77.1722278!16s%2Fg%2F11ss6rrpn9!19sChIJTZcuPf8DDTkReIrmWKpJU0k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": "5.0",
+  "count": 92,
+  "tagline": "A neighbourhood gym near Jogger’s Park, East Patel Nagar, rated 5.0 on Google",
+  "intro": "Flex 50 is a fitness centre at 27/15, Block 16, East Patel Nagar, close to Jogger’s Park. Its Google reviewers rate it a full 5.0. Come in to lift, get fitter and build a routine you can stick to, right in your own neighbourhood.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Weights and machines to build muscle and power."
+   },
+   {
+    "name": "Personal training",
+    "desc": "Ask about one-on-one guidance for your goals."
+   },
+   {
+    "name": "Fat loss & conditioning",
+    "desc": "Workouts that help you get leaner and fitter."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Ready to start? Visit Flex 50 or call to ask about joining.",
+  "reviews": [],
+  "slug": "flex-50",
+  "id": "ChIJTZcuPf8DDTkReIrmWKpJU0k",
+  "loc": "East Patel Nagar",
+  "kind": "gym",
+  "images": [
+   "1534438327276-14e5300c3a48",
+   "1583454110551-21f2fa2afe61",
+   "1574680096145-d05b474e2155",
+   "1581009146145-b5ef050c2e1e",
+   "1605296867304-46d5465a13f1",
+   "1593079831268-3381b0db4a77"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/flex-50/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Stay Fit Yoga",
+  "category": "Yoga studio",
+  "phone": "+91 99992 62298",
+  "address": "11813, Gali No.7, Nehru Nagar, Sat Nagar, Karol Bagh, Delhi, 110005, India",
+  "link": "https://www.google.com/maps/place/Stay+fit+yoga/data=!4m7!3m6!1s0x390d0299e764f9cf:0x5f773c7ff9365edd!8m2!3d28.6481705!4d77.1836388!16s%2Fg%2F11f4z99qc0!19sChIJz_lk55kCDTkR3V42-X88d18?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": "5.0",
+  "count": 89,
+  "tagline": "Yoga in Sat Nagar, Karol Bagh, rated 5.0 on Google",
+  "intro": "Stay Fit Yoga is a yoga studio in Gali No. 7, Nehru Nagar, Sat Nagar, Karol Bagh, rated a perfect 5.0 by its Google reviewers. Roll out a mat, breathe and move, and build strength, flexibility and calm close to home.",
+  "services": [
+   {
+    "name": "Yoga classes",
+    "desc": "Guided sessions for flexibility, strength and balance."
+   },
+   {
+    "name": "Zumba & fitness",
+    "desc": "Upbeat sessions to move and have fun."
+   },
+   {
+    "name": "Weight-loss focus",
+    "desc": "Classes that help you get active and feel lighter."
+   },
+   {
+    "name": "Join a batch",
+    "desc": "Call or WhatsApp to ask about class timings."
+   }
+  ],
+  "cta": "Start your practice: call Stay Fit Yoga to ask about the next batch.",
+  "reviews": [],
+  "slug": "stay-fit-yoga",
+  "id": "ChIJz_lk55kCDTkR3V42-X88d18",
+  "loc": "Sat Nagar, Karol Bagh",
+  "kind": "yoga",
+  "images": [
+   "1544367567-0f2fcb009e0b",
+   "1575052814086-f385e2e2ad1b",
+   "1588286840104-8957b019727f",
+   "1603988363607-e1e4a66962c6",
+   "1566501206188-5dd0cf160a0e",
+   "1506126613408-eca07ce68773"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/stay-fit-yoga/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Rep Max Gym",
+  "category": "Fitness center",
+  "phone": "+91 93543 77171",
+  "address": "6/15, Block 6, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Rep+Max+Gym/data=!4m7!3m6!1s0x390d032f9338a05f:0xc5a15b7f6af0c678!8m2!3d28.6475437!4d77.1669423!16s%2Fg%2F11xct7qxx8!19sChIJX6A4ky8DDTkReMbwan9bocU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 127,
+  "tagline": "Strength training in West Patel Nagar, rated 4.9 from 127 Google reviews",
+  "intro": "Rep Max Gym is a fitness centre at 6/15, Block 6, West Patel Nagar, rated 4.9 from 127 Google reviews. Built for people who want to get stronger, it’s a focused place to train, rep after rep.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Free weights and machines for every muscle group."
+   },
+   {
+    "name": "Muscle building",
+    "desc": "Train consistently and build real strength."
+   },
+   {
+    "name": "Cardio & conditioning",
+    "desc": "Improve stamina and stay fit."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Chasing a new max? Visit Rep Max Gym or call to ask about joining.",
+  "reviews": [],
+  "slug": "rep-max-gym",
+  "id": "ChIJX6A4ky8DDTkReMbwan9bocU",
+  "loc": "West Patel Nagar",
+  "kind": "gym",
+  "images": [
+   "1534438327276-14e5300c3a48",
+   "1540497077202-7c8a3999166f",
+   "1599058917212-d750089bc07e",
+   "1517836357463-d25dfeac3438",
+   "1571019613454-1cb2f99b2d8b",
+   "1583454110551-21f2fa2afe61"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/rep-max-gym/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "S.K Fitness Gym",
+  "category": "Gym",
+  "phone": "+91 88262 64771",
+  "address": "T29/8B, S.K Fitness Gym, near Road Number 20, Baljeet nagar, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/S.K+Fitness+Gym/data=!4m7!3m6!1s0x390d03aa6743a37f:0xcfda6ce746dba7af!8m2!3d28.656815!4d77.1644135!16s%2Fg%2F11rnrzbf8j!19sChIJf6NDZ6oDDTkRr6fbRuds2s8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 112,
+  "tagline": "Your local gym in Baljeet Nagar, West Patel Nagar, rated 4.9 on Google",
+  "intro": "S.K Fitness Gym is at T29/8B near Road Number 20, Baljeet Nagar, West Patel Nagar. With a 4.9 rating from 112 Google reviews, it’s a friendly neighbourhood place to work out and get into shape.",
+  "services": [
+   {
+    "name": "Weight training",
+    "desc": "Free weights and machines to build strength."
+   },
+   {
+    "name": "Fat loss & fitness",
+    "desc": "Workouts that help you get leaner and fitter."
+   },
+   {
+    "name": "Beginner friendly",
+    "desc": "New to the gym? Ask for help getting started."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Start training at S.K Fitness Gym: call to ask about joining.",
+  "reviews": [],
+  "slug": "sk-fitness-gym",
+  "id": "ChIJf6NDZ6oDDTkRr6fbRuds2s8",
+  "loc": "Baljeet Nagar",
+  "kind": "gym",
+  "images": [
+   "1540497077202-7c8a3999166f",
+   "1574680096145-d05b474e2155",
+   "1581009146145-b5ef050c2e1e",
+   "1605296867304-46d5465a13f1",
+   "1593079831268-3381b0db4a77",
+   "1532029837206-abbe2b7620e3"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/sk-fitness-gym/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Galactus Gym",
+  "category": "Gym",
+  "phone": "+91 96507 18460",
+  "address": "13, Doctor Ln, Sector 3, DIZ Area, Gole Market, New Delhi, Delhi 110001, India",
+  "link": "https://www.google.com/maps/place/Galactus+Gym/data=!4m7!3m6!1s0x390cfd27d32b14e1:0x15b64f51a4914591!8m2!3d28.6342305!4d77.206389!16s%2Fg%2F11hzvx22fb!19sChIJ4RQr0yf9DDkRkUWRpFFPthU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 333,
+  "tagline": "Train near Gole Market, rated 4.8 from 333 Google reviews",
+  "intro": "Galactus Gym is at 13, Doctor Lane, Sector 3, Gole Market in central New Delhi. More than 330 Google reviewers rate it 4.8. It’s a place to lift, build fitness and train with purpose, in the heart of the city.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Weights and machines for every muscle group."
+   },
+   {
+    "name": "Personal training",
+    "desc": "Ask about one-on-one coaching for your goals."
+   },
+   {
+    "name": "Cardio & conditioning",
+    "desc": "Build stamina and stay in shape."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Train in central Delhi: visit Galactus Gym or call to ask about joining.",
+  "reviews": [],
+  "slug": "galactus-gym",
+  "id": "ChIJ4RQr0yf9DDkRkUWRpFFPthU",
+  "loc": "Gole Market",
+  "kind": "gym",
+  "images": [
+   "1540497077202-7c8a3999166f",
+   "1574680096145-d05b474e2155",
+   "1581009146145-b5ef050c2e1e",
+   "1605296867304-46d5465a13f1",
+   "1593079831268-3381b0db4a77",
+   "1532029837206-abbe2b7620e3"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/galactus-gym/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Cosmodent India",
+  "category": "Dentist",
+  "phone": "+91 88105 68558",
+  "address": "7/46, Shankar Rd, Block 7, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/Cosmodent+India/data=!4m7!3m6!1s0x390d034e8b626c73:0x5e3f4be2d8748a3c!8m2!3d28.6392198!4d77.1790604!16s%2Fg%2F11fhtyd6ch!19sChIJc2xii04DDTkRPIp02OJLP14?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 231,
+  "tagline": "Dental care on Shankar Road, Old Rajinder Nagar, rated 4.8 on Google",
+  "intro": "Cosmodent India is a dental clinic at 7/46, Shankar Road, Old Rajinder Nagar, rated 4.8 from 231 Google reviews. From check-ups to treatment, book a visit and talk to the clinic about what your teeth need.",
+  "services": [
+   {
+    "name": "Dental check-ups",
+    "desc": "Routine examination and advice for healthy teeth."
+   },
+   {
+    "name": "Root canal treatment",
+    "desc": "Treatment to save an infected or painful tooth."
+   },
+   {
+    "name": "Crowns",
+    "desc": "Restore damaged teeth with a crown."
+   },
+   {
+    "name": "Extractions",
+    "desc": "Tooth removal when it’s needed."
+   }
+  ],
+  "cta": "Book your dental visit at Cosmodent India: call or WhatsApp.",
+  "reviews": [],
+  "slug": "cosmodent-india",
+  "id": "ChIJc2xii04DDTkRPIp02OJLP14",
+  "loc": "Old Rajinder Nagar",
+  "kind": "dental",
+  "images": [
+   "1629909613654-28e377c37b09",
+   "1598256989800-fe5f95da9787",
+   "1606811971618-4486d14f3f99",
+   "1609840114035-3c981b782dfe",
+   "1606265752439-1f18756aa5fc",
+   "1588776814546-1ffcf47267a5"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/cosmodent-india/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Fit Square Gym",
+  "category": "Gym",
+  "phone": "+91 95820 40064",
+  "address": "Cottage 5a, Fit Square Gym, Metro Station Shadipur, Basement, Balraj Khanna Marg, near Shadipur, Block P, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Fit+Square+Gym/data=!4m7!3m6!1s0x390d03492acfcc87:0xb65e046c7d0e029b!8m2!3d28.6521242!4d77.1588221!16s%2Fg%2F11q4c86glb!19sChIJh8zPKkkDDTkRmwIOfWwEXrY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 158,
+  "tagline": "A gym by Shadipur Metro, rated 4.8 from 158 Google reviews",
+  "intro": "Fit Square Gym is in the basement at Cottage 5A, Balraj Khanna Marg, near Shadipur Metro Station in West Patel Nagar. Rated 4.8 from 158 Google reviews, it’s an easy place to fit a workout into your day.",
+  "services": [
+   {
+    "name": "Weight training",
+    "desc": "Free weights and machines to build strength."
+   },
+   {
+    "name": "Cardio",
+    "desc": "Get your heart rate up and build stamina."
+   },
+   {
+    "name": "Fat loss & fitness",
+    "desc": "Workouts that help you get leaner and fitter."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Close to the metro: visit Fit Square Gym or call to ask about joining.",
+  "reviews": [],
+  "slug": "fit-square-gym",
+  "id": "ChIJh8zPKkkDDTkRmwIOfWwEXrY",
+  "loc": "Shadipur",
+  "kind": "gym",
+  "images": [
+   "1540497077202-7c8a3999166f",
+   "1534438327276-14e5300c3a48",
+   "1599058917212-d750089bc07e",
+   "1517836357463-d25dfeac3438",
+   "1571019613454-1cb2f99b2d8b",
+   "1583454110551-21f2fa2afe61"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/fit-square-gym/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Power Zone Gym",
+  "category": "Fitness center",
+  "phone": "+91 95993 31928",
+  "address": "8/21, Block 8, South Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+  "link": "https://www.google.com/maps/place/Power+Zone+Gym/data=!4m7!3m6!1s0x390d0389d3c408e9:0x80193d4534fdbfed!8m2!3d28.6442323!4d77.1693454!16s%2Fg%2F11pcfqfdw8!19sChIJ6QjE04kDDTkR7b_9NEU9GYA?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 123,
+  "tagline": "Get stronger in South Patel Nagar, rated 4.8 on Google",
+  "intro": "Power Zone Gym is a fitness centre at 8/21, Block 8, South Patel Nagar, rated 4.8 from 123 Google reviews. Step into the zone to lift, sweat and build the strength you’re after.",
+  "services": [
+   {
+    "name": "Strength training",
+    "desc": "Weights and machines for every muscle group."
+   },
+   {
+    "name": "Trainer guidance",
+    "desc": "Ask the trainers for help with form and routines."
+   },
+   {
+    "name": "Cardio & conditioning",
+    "desc": "Build stamina and stay in shape."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Power up: visit Power Zone Gym or call to ask about joining.",
+  "reviews": [],
+  "slug": "power-zone-gym",
+  "id": "ChIJ6QjE04kDDTkR7b_9NEU9GYA",
+  "loc": "South Patel Nagar",
+  "kind": "gym",
+  "images": [
+   "1599058917212-d750089bc07e",
+   "1517836357463-d25dfeac3438",
+   "1571019613454-1cb2f99b2d8b",
+   "1583454110551-21f2fa2afe61",
+   "1574680096145-d05b474e2155",
+   "1581009146145-b5ef050c2e1e"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/power-zone-gym/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Carbon Culture Fitness",
+  "category": "Fitness center",
+  "phone": "+91 81303 90304",
+  "address": "1/9 basement floor, Carbon Culture Fitness, opposite piller number:- 203, near Golden Grand Hotel, Block 1, West Patel Nagar, Patel Nagar, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Carbon+Culture+Fitness/data=!4m7!3m6!1s0x390d03d15228309b:0x4bbd36196a58620!8m2!3d28.6474367!4d77.165335!16s%2Fg%2F11krhvctp4!19sChIJmzAoUtEDDTkRIIallmHTuwQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 108,
+  "tagline": "A fitness centre opposite Pillar 203, West Patel Nagar, rated 4.8 on Google",
+  "intro": "Carbon Culture Fitness is in the basement at 1/9, Block 1, West Patel Nagar, opposite metro Pillar 203 near Golden Grand Hotel. Rated 4.8 from 108 Google reviews, it’s a place to train, stretch and build a fitness habit.",
+  "services": [
+   {
+    "name": "Gym training",
+    "desc": "Weights and machines to build strength."
+   },
+   {
+    "name": "Yoga",
+    "desc": "Ask about yoga sessions for flexibility and balance."
+   },
+   {
+    "name": "Personal training",
+    "desc": "Ask about one-on-one guidance for your goals."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Join the culture: visit Carbon Culture Fitness or call to ask about joining.",
+  "reviews": [],
+  "slug": "carbon-culture-fitness",
+  "id": "ChIJmzAoUtEDDTkRIIallmHTuwQ",
+  "loc": "West Patel Nagar",
+  "kind": "gym",
+  "images": [
+   "1599058917212-d750089bc07e",
+   "1517836357463-d25dfeac3438",
+   "1571019613454-1cb2f99b2d8b",
+   "1583454110551-21f2fa2afe61",
+   "1574680096145-d05b474e2155",
+   "1581009146145-b5ef050c2e1e"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/carbon-culture-fitness/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Dr Mithilesh Kumar Mishra",
+  "category": "Pain management physician",
+  "phone": "+91 98910 69190",
+  "address": "5th Floor, SSRB, Department Of Anaesthesia SIR GANGA RAM HOSPITAL Central, Old Rajinder Nagar, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/Dr+Mithilesh+Kumar+Mishra-+Best+Pain+Specialist+in+Delhi,+Headache+Treatment,+Back+Pain%2FKnee%2FJoint+Pain+Doctor,+Fibromyalgia/data=!4m7!3m6!1s0x390d02a146b67ab1:0x71541b3ed8aee058!8m2!3d28.6384582!4d77.1895559!16s%2Fg%2F11dy_k3jkk!19sChIJsXq2RqECDTkRWOCu2D4bVHE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 93,
+  "tagline": "Pain management at Sir Ganga Ram Hospital, rated 4.8 on Google",
+  "intro": "Dr Mithilesh Kumar Mishra is a pain management physician at the Department of Anaesthesia, 5th Floor, SSRB, Sir Ganga Ram Hospital, Old Rajinder Nagar. Rated 4.8 from 93 Google reviews, he sees patients for long-standing and everyday pain.",
+  "services": [
+   {
+    "name": "Headache",
+    "desc": "Assessment and treatment for recurring headaches."
+   },
+   {
+    "name": "Back pain",
+    "desc": "Care for lower and upper back pain."
+   },
+   {
+    "name": "Knee & joint pain",
+    "desc": "Treatment options for painful knees and joints."
+   },
+   {
+    "name": "Fibromyalgia & nerve pain",
+    "desc": "Help managing chronic and nerve-related pain."
+   }
+  ],
+  "cta": "Living with pain? Call to book a consultation with Dr Mithilesh Kumar Mishra.",
+  "reviews": [],
+  "slug": "dr-mithilesh-kumar-mishra",
+  "id": "ChIJsXq2RqECDTkRWOCu2D4bVHE",
+  "loc": "Old Rajinder Nagar",
+  "kind": "pain",
+  "images": [
+   "1559757175-5700dde675bc",
+   "1631815589968-fdb09a223b1e",
+   "1519494026892-80bbd2d6fd0d",
+   "1538108149393-fbbd81895907",
+   "1579684385127-1ef15d508118",
+   "1584515933487-779824d29309"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/dr-mithilesh-kumar-mishra/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Dr Vijender Kumar",
+  "category": "Doctor",
+  "phone": "+91 95825 00546",
+  "address": "5A/11010, F.F, Sat Nagar, Karol Bagh, Delhi, 110005, India",
+  "link": "https://www.google.com/maps/place/Dr+Vijender+Kumar/data=!4m7!3m6!1s0x390d03d1849569f5:0x415df9eb6e1def83!8m2!3d28.6475107!4d77.1852395!16s%2Fg%2F11x25j470x!19sChIJ9WmVhNEDDTkRg-8dbuv5XUE?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 52,
+  "tagline": "Your neighbourhood doctor in Sat Nagar, Karol Bagh, rated 4.8 on Google",
+  "intro": "Dr Vijender Kumar’s clinic is on the first floor of 5A/11010, Sat Nagar, Karol Bagh. Rated 4.8 from 52 Google reviews, it’s a local clinic to visit when you or your family feel unwell.",
+  "services": [
+   {
+    "name": "General consultation",
+    "desc": "See the doctor for everyday illness and health concerns."
+   },
+   {
+    "name": "Fever, cold & infections",
+    "desc": "Diagnosis and treatment for common illnesses."
+   },
+   {
+    "name": "Family health",
+    "desc": "Care for family members of all ages."
+   },
+   {
+    "name": "Book a visit",
+    "desc": "Call or WhatsApp to ask about timings."
+   }
+  ],
+  "cta": "Not feeling well? Call Dr Vijender Kumar’s clinic to book a visit.",
+  "reviews": [],
+  "slug": "dr-vijender-kumar",
+  "id": "ChIJ9WmVhNEDDTkRg-8dbuv5XUE",
+  "loc": "Sat Nagar, Karol Bagh",
+  "kind": "clinic",
+  "images": [
+   "1631815589968-fdb09a223b1e",
+   "1538108149393-fbbd81895907",
+   "1584515933487-779824d29309",
+   "1666214280557-f1b5022eb634",
+   "1579684385127-1ef15d508118",
+   "1519494026892-80bbd2d6fd0d"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/dr-vijender-kumar/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "KONICA Imaging & Diagnostic Center",
+  "category": "Diagnostic center",
+  "phone": "+91 98188 70532",
+  "address": "Medicos, 1/67, Sir Ganga Ram Hospital Marg, above New Delhi, near HOTEL ROYAL PALACE, Block 1, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/KONICA+Imaging+%26+Diagnostic+Center/data=!4m7!3m6!1s0x390d036b362ba603:0x3960bf83d36d5c22!8m2!3d28.6359129!4d77.1857694!16s%2Fg%2F11rycgjtz7!19sChIJA6YrNmsDDTkRIlxt04O_YDk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 69,
+  "tagline": "Imaging and diagnostics on Sir Ganga Ram Hospital Marg, rated 4.7 on Google",
+  "intro": "KONICA Imaging & Diagnostic Center is at Medicos, 1/67, Sir Ganga Ram Hospital Marg, near Hotel Royal Palace in Old Rajinder Nagar. Rated 4.7 from 69 Google reviews, it handles diagnostic tests and imaging, with home sample collection too.",
+  "services": [
+   {
+    "name": "Diagnostic tests",
+    "desc": "Lab tests to help your doctor understand your health."
+   },
+   {
+    "name": "Imaging",
+    "desc": "Scans and imaging at the centre."
+   },
+   {
+    "name": "Home sample collection",
+    "desc": "Ask about having samples collected at home."
+   },
+   {
+    "name": "Book a test",
+    "desc": "Call or WhatsApp to ask about tests and timings."
+   }
+  ],
+  "cta": "Need a test? Call KONICA Imaging & Diagnostic Center to book.",
+  "reviews": [],
+  "slug": "konica-imaging-diagnostic-center",
+  "id": "ChIJA6YrNmsDDTkRIlxt04O_YDk",
+  "loc": "Old Rajinder Nagar",
+  "kind": "diag",
+  "images": [
+   "1516549655169-df83a0774514",
+   "1576086213369-97a306d36557",
+   "1579154204601-01588f351e67",
+   "1530497610245-94d3c16cda28",
+   "1582719471384-894fbb16e074",
+   "1666214280391-8ff5bd3c0bf0"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/konica-imaging-diagnostic-center/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Great Gym",
+  "category": "Gym",
+  "phone": "+91 78386 18162",
+  "address": "24, Munshi Ram Sethi Marg, Block 24, West Patel Nagar, Patel Nagar, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Great+Gym/data=!4m7!3m6!1s0x390d02edc2eadcf5:0x4777415fd5777c67!8m2!3d28.6513514!4d77.1666432!16s%2Fg%2F11bwfly57d!19sChIJ9dzqwu0CDTkRZ3x31V9Bd0c?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 116,
+  "tagline": "A gym on Munshi Ram Sethi Marg, West Patel Nagar, rated 4.6 on Google",
+  "intro": "Great Gym is at 24, Munshi Ram Sethi Marg, Block 24, West Patel Nagar, rated 4.6 from 116 Google reviews. Whether you’re a beginner or a regular, it’s a local place to train and get fitter.",
+  "services": [
+   {
+    "name": "Weight training",
+    "desc": "Free weights and machines to build strength."
+   },
+   {
+    "name": "Beginner coaching",
+    "desc": "New to lifting? Ask for help getting started."
+   },
+   {
+    "name": "Fat loss & fitness",
+    "desc": "Workouts that help you get leaner and fitter."
+   },
+   {
+    "name": "Memberships",
+    "desc": "Call or WhatsApp to ask about joining and timings."
+   }
+  ],
+  "cta": "Start your fitness journey: visit Great Gym or call to ask about joining.",
+  "reviews": [],
+  "slug": "great-gym",
+  "id": "ChIJ9dzqwu0CDTkRZ3x31V9Bd0c",
+  "loc": "West Patel Nagar",
+  "kind": "gym",
+  "images": [
+   "1540497077202-7c8a3999166f",
+   "1534438327276-14e5300c3a48",
+   "1599058917212-d750089bc07e",
+   "1517836357463-d25dfeac3438",
+   "1571019613454-1cb2f99b2d8b",
+   "1583454110551-21f2fa2afe61"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/great-gym/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Dr. Pooja Khosla Clinic",
+  "category": "Doctor",
+  "phone": "088609 99364",
+  "address": "20/4, Salwan School Rd, Block 20, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Dr.+Pooja+Khosla+Clinic/data=!4m7!3m6!1s0x390d0357280f63f3:0x977ab0bf2aab597!8m2!3d28.6401579!4d77.181829!16s%2Fg%2F11h5nmqql4!19sChIJ82MPKFcDDTkRl7Wq8gurdwk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 3.9,
+  "count": 94,
+  "tagline": "A doctor’s clinic on Salwan School Road, Old Rajinder Nagar",
+  "intro": "Dr. Pooja Khosla Clinic is at 20/4, Salwan School Road, Block 20, Old Rajinder Nagar. Call ahead to check timings and book a consultation at this neighbourhood clinic.",
+  "services": [
+   {
+    "name": "Consultation",
+    "desc": "See the doctor about your health concerns."
+   },
+   {
+    "name": "Check-ups",
+    "desc": "Routine health checks and advice."
+   },
+   {
+    "name": "Follow-up visits",
+    "desc": "Return visits to review your progress."
+   },
+   {
+    "name": "Book a visit",
+    "desc": "Call or WhatsApp to ask about timings."
+   }
+  ],
+  "cta": "Call Dr. Pooja Khosla Clinic to book your consultation.",
+  "reviews": [],
+  "slug": "dr-pooja-khosla-clinic",
+  "id": "ChIJ82MPKFcDDTkRl7Wq8gurdwk",
+  "loc": "Old Rajinder Nagar",
+  "kind": "clinic",
+  "images": [
+   "1519494026892-80bbd2d6fd0d",
+   "1579684385127-1ef15d508118",
+   "1538108149393-fbbd81895907",
+   "1631815589968-fdb09a223b1e",
+   "1584515933487-779824d29309",
+   "1666214280557-f1b5022eb634"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/dr-pooja-khosla-clinic/",
+  "added": "2026-10-21"
+ },
+ {
+  "name": "Swag Cafe",
+  "category": "Cafe",
+  "phone": "099539 68985",
+  "address": "12/20, Opp. Hari Gokal, East Patel Nagar, New Delhi, Delhi 110008",
+  "link": "https://www.google.com/maps/place/Swag+Cafe/data=!4m7!3m6!1s0x390d0294cb7d62db:0xc8da43190e298ee!8m2!3d28.6446187!4d77.1736156!16s%2Fg%2F11g6nt1gxd!19sChIJ22J9y5QCDTkR7pjikDGkjQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 3.9,
+  "count": 64,
+  "tagline": "A café hangout in East Patel Nagar, opposite Hari Gokal",
+  "intro": "Swag Cafe is at 12/20, East Patel Nagar, opposite Hari Gokal. Drop in for a drink and a bite, catch up with friends, or call ahead to check what’s on the menu today.",
+  "services": [
+   {
+    "name": "Coffee & drinks",
+    "desc": "Hot and cold drinks to sip slowly or grab on the go."
+   },
+   {
+    "name": "Café food",
+    "desc": "Bites and plates to share at the table."
+   },
+   {
+    "name": "Hangouts",
+    "desc": "A relaxed spot for friends and catch-ups."
+   },
+   {
+    "name": "Call before you visit",
+    "desc": "Ring us to check today’s menu and timings."
+   }
+  ],
+  "cta": "Drop in to Swag Cafe, or call to check today’s menu.",
+  "reviews": [],
+  "slug": "swag-cafe",
+  "id": "ChIJ22J9y5QCDTkR7pjikDGkjQw",
+  "loc": "East Patel Nagar",
+  "kind": "cafe",
+  "images": [
+   "1559925393-8be0ec4767c8",
+   "1554118811-1e0d58224f24",
+   "1453614512568-c4024d13c247",
+   "1501339847302-ac426a4a7cbb",
+   "1517248135467-4c7edcad34c4",
+   "1495474472287-4d71bcdd2085"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/swag-cafe/",
+  "added": "2026-10-21"
+ }
+]
