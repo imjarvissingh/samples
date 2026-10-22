@@ -3359,5 +3359,695 @@
   "whatsapp": true,
   "url": "https://imjarvissingh.github.io/samples/swag-cafe/",
   "added": "2026-10-21"
+ },
+ {
+  "name": "KJs Luxury Salon",
+  "category": "Hairdresser",
+  "phone": "+91 96439 12691",
+  "address": "Upper Ground Floor, KJs Luxury Salon, Y/13, near Manchanda shop, Block X, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/KJs+Luxury+Salon/data=!4m7!3m6!1s0x390d03b74f8e26f3:0x1ba8794e5c2851cb!8m2!3d28.6493871!4d77.164873!16s%2Fg%2F11zc4swjzb!19sChIJ8yaOT7cDDTkRy1EoXE55qBs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": "5.0",
+  "count": 96,
+  "tagline": "A luxury hair salon in West Patel Nagar, rated a perfect 5.0 on Google",
+  "intro": "KJs Luxury Salon is on the upper ground floor at Y/13, Block X, West Patel Nagar, near Manchanda shop. With a full 5.0 rating from 96 Google reviews, it’s a place to settle into the chair and leave with hair that feels like you.",
+  "services": [
+   {
+    "name": "Haircuts & styling",
+    "desc": "Fresh cuts, trims and blow-dries, styled to suit you."
+   },
+   {
+    "name": "Hair colour",
+    "desc": "Global colour, highlights and touch-ups."
+   },
+   {
+    "name": "Hair treatments",
+    "desc": "Care treatments that help hair look and feel healthier."
+   },
+   {
+    "name": "Book a slot",
+    "desc": "Call or WhatsApp to ask about services and timings."
+   }
+  ],
+  "cta": "Treat yourself: book your visit to KJs Luxury Salon.",
+  "reviews": [],
+  "slug": "kjs-luxury-salon",
+  "id": "ChIJ8yaOT7cDDTkRy1EoXE55qBs",
+  "loc": "West Patel Nagar",
+  "kind": "luxe",
+  "images": [
+   "1633681926022-84c23e8cb2d6",
+   "1605497788044-5a32c7078486",
+   "1522337360788-8b13dee7a37e",
+   "1527799820374-dcf8d9d4a388",
+   "1570172619644-dfd03ed5d881",
+   "1600948836101-f9ffda59d250"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/kjs-luxury-salon/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Pushpanju",
+  "category": "Beauty salon",
+  "phone": "+91 88265 83284",
+  "address": "F, Pushpanju, 47, opposite Shiv Mandir, Block F, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Pushpanju/data=!4m7!3m6!1s0x390d0393d2d38755:0x682068817d76fe55!8m2!3d28.6524675!4d77.1634505!16s%2Fg%2F11s8k_rvnl!19sChIJVYfT0pMDDTkRVf52fYFoIGg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": "5.0",
+  "count": 93,
+  "tagline": "A beauty salon opposite Shiv Mandir, West Patel Nagar, rated 5.0 on Google",
+  "intro": "Pushpanju is a beauty salon at 47, Block F, West Patel Nagar, opposite Shiv Mandir. Its 93 Google reviews add up to a perfect 5.0. Drop in for everyday grooming, or plan a little extra care before a big day.",
+  "services": [
+   {
+    "name": "Facials & skin care",
+    "desc": "Cleanups and facials to refresh your skin."
+   },
+   {
+    "name": "Waxing & threading",
+    "desc": "Neat, gentle hair removal and brow shaping."
+   },
+   {
+    "name": "Hair care",
+    "desc": "Cuts, styling and nourishing hair treatments."
+   },
+   {
+    "name": "Party & occasion looks",
+    "desc": "Makeup and styling for functions and celebrations."
+   }
+  ],
+  "cta": "Book your beauty session at Pushpanju today.",
+  "reviews": [],
+  "slug": "pushpanju",
+  "id": "ChIJVYfT0pMDDTkRVf52fYFoIGg",
+  "loc": "West Patel Nagar",
+  "kind": "salon",
+  "images": [
+   "1521590832167-7bcbfaa6381f",
+   "1487412947147-5cebf100ffc2",
+   "1516975080664-ed2fc6a32937",
+   "1570172619644-dfd03ed5d881",
+   "1527799820374-dcf8d9d4a388",
+   "1560066984-138dadb4c035"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/pushpanju/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "The Glamour studio",
+  "category": "Beauty salon",
+  "phone": "+91 85870 64332",
+  "address": "Block G47, near Lili dhaba, West Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+  "link": "https://www.google.com/maps/place/The+Glamour+studio/data=!4m7!3m6!1s0x390d038f4831df29:0xf7fbcc164a73cdb!8m2!3d28.6517146!4d77.1629117!16s%2Fg%2F11sby01q9j!19sChIJKd8xSI8DDTkR2zynZMG8fw8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 321,
+  "tagline": "A beauty studio near Lili Dhaba, West Patel Nagar, rated 4.9 from 321 Google reviews",
+  "intro": "The Glamour studio is at Block G47, West Patel Nagar, near Lili Dhaba. With a 4.9 rating from 321 Google reviews, it’s a go-to for neighbourhood beauty care, from a quick cleanup to getting ready for a celebration.",
+  "services": [
+   {
+    "name": "Makeup",
+    "desc": "Party, engagement and occasion makeup."
+   },
+   {
+    "name": "Skin care",
+    "desc": "Facials and cleanups for a fresh glow."
+   },
+   {
+    "name": "Hair styling",
+    "desc": "Blow-dries, curls and updos for any event."
+   },
+   {
+    "name": "Grooming essentials",
+    "desc": "Threading, waxing and manicure-pedicure."
+   }
+  ],
+  "cta": "Getting ready for something special? Book The Glamour studio.",
+  "reviews": [],
+  "slug": "the-glamour-studio",
+  "id": "ChIJKd8xSI8DDTkR2zynZMG8fw8",
+  "loc": "West Patel Nagar",
+  "kind": "bridal",
+  "images": [
+   "1516975080664-ed2fc6a32937",
+   "1596462502278-27bfdc403348",
+   "1503236823255-94609f598e71",
+   "1515688594390-b649af70d282",
+   "1595476108010-b4d1f102b1b1",
+   "1617627143750-d86bc21e42bb"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/the-glamour-studio/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Angel Beauty Parlour",
+  "category": "Beauty salon",
+  "phone": "+91 88514 68378",
+  "address": "4B/2, Block 4B, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/Angel+Beauty+Parlour/data=!4m7!3m6!1s0x390d0302228c2ba1:0xa7a03359c78b2e8b!8m2!3d28.6388494!4d77.1817894!16s%2Fg%2F11t7fdn_2h!19sChIJoSuMIgIDDTkRiy6Lx1kzoKc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 146,
+  "tagline": "A neighbourhood beauty parlour in Old Rajinder Nagar, rated 4.9 on Google",
+  "intro": "Angel Beauty Parlour is at 4B/2, Block 4B, Old Rajinder Nagar. Rated 4.9 from 146 Google reviews, it’s a friendly local parlour for regular grooming and for looking your best on special days.",
+  "services": [
+   {
+    "name": "Threading & waxing",
+    "desc": "Quick, neat brow shaping and hair removal."
+   },
+   {
+    "name": "Facials & cleanups",
+    "desc": "Skin care to refresh and brighten."
+   },
+   {
+    "name": "Hair care",
+    "desc": "Haircuts, styling and treatments."
+   },
+   {
+    "name": "Occasion makeup",
+    "desc": "Makeup for parties and family functions."
+   }
+  ],
+  "cta": "Call Angel Beauty Parlour to book your appointment.",
+  "reviews": [],
+  "slug": "angel-beauty-parlour",
+  "id": "ChIJoSuMIgIDDTkRiy6Lx1kzoKc",
+  "loc": "Old Rajinder Nagar",
+  "kind": "salon",
+  "images": [
+   "1521590832167-7bcbfaa6381f",
+   "1633681926022-84c23e8cb2d6",
+   "1600948836101-f9ffda59d250",
+   "1562322140-8baeececf3df",
+   "1522337360788-8b13dee7a37e",
+   "1487412947147-5cebf100ffc2"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/angel-beauty-parlour/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Bharti Makeup & Styling Studio",
+  "category": "Make-up artist",
+  "phone": "+91 98181 07155",
+  "address": "10/11, near Ganga Ram Hospital, Block 10 B, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/Bharti+Makeup+%26+Styling+Studio/data=!4m7!3m6!1s0x390d0346b2423eab:0x89c90030348a8bb9!8m2!3d28.6375431!4d77.1857022!16s%2Fg%2F11f5vb9b_q!19sChIJqz5CskYDDTkRuYuKNDAAyYk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 803,
+  "tagline": "Makeup and styling near Ganga Ram Hospital, rated 4.8 from 803 Google reviews",
+  "intro": "Bharti Makeup & Styling Studio is at 10/11, Block 10 B, Old Rajinder Nagar, near Ganga Ram Hospital. More than 800 Google reviewers rate it 4.8. Come here to get ready for your wedding, a family function or a night out.",
+  "services": [
+   {
+    "name": "Bridal makeup",
+    "desc": "Wedding-day looks planned around you and your outfit."
+   },
+   {
+    "name": "Party & engagement makeup",
+    "desc": "Polished looks for every celebration."
+   },
+   {
+    "name": "Hair styling",
+    "desc": "Buns, curls and draping-friendly styles."
+   },
+   {
+    "name": "Plan your look",
+    "desc": "Call or WhatsApp to discuss your date and booking."
+   }
+  ],
+  "cta": "Have a big day coming up? Talk to Bharti Makeup & Styling Studio.",
+  "reviews": [],
+  "slug": "bharti-makeup-styling-studio",
+  "id": "ChIJqz5CskYDDTkRuYuKNDAAyYk",
+  "loc": "Old Rajinder Nagar",
+  "kind": "bridal",
+  "images": [
+   "1487412947147-5cebf100ffc2",
+   "1522335789203-aabd1fc54bc9",
+   "1526045478516-99145907023c",
+   "1596462502278-27bfdc403348",
+   "1503236823255-94609f598e71",
+   "1515688594390-b649af70d282"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/bharti-makeup-styling-studio/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Anandam Psychiatry Centre",
+  "category": "Psychiatrist",
+  "phone": "+91 95825 82707",
+  "address": "Ground Floor, Anandam Psychiatry Centre, 3/11, Balraj Khanna Marg, Block 3, East Patel Nagar, Patel Nagar, New Delhi, Delhi 110008, India",
+  "link": "https://www.google.com/maps/place/Anandam+Psychiatry+Centre/data=!4m7!3m6!1s0x390d02953a3a0093:0x6ebabf1fa0c65bb!8m2!3d28.644956!4d77.170713!16s%2Fg%2F11dflk2pn6!19sChIJkwA6OpUCDTkRu2UM-vGr6wY?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 632,
+  "tagline": "Psychiatric care on Balraj Khanna Marg, East Patel Nagar, rated 4.8 from 632 Google reviews",
+  "intro": "Anandam Psychiatry Centre is on the ground floor at 3/11, Balraj Khanna Marg, East Patel Nagar. Rated 4.8 by 632 Google reviewers, it’s a place to talk openly about how you’re feeling and get professional support for your mental health.",
+  "services": [
+   {
+    "name": "Psychiatric consultation",
+    "desc": "A confidential conversation about what you’re going through."
+   },
+   {
+    "name": "Stress, anxiety & mood",
+    "desc": "Help with worry, low mood, sleep and everyday stress."
+   },
+   {
+    "name": "Ongoing care",
+    "desc": "Follow-up visits to review how you’re doing."
+   },
+   {
+    "name": "Book a consultation",
+    "desc": "Call or WhatsApp to ask about appointments and timings."
+   }
+  ],
+  "cta": "Taking the first step matters. Call Anandam Psychiatry Centre to book a consultation.",
+  "reviews": [],
+  "slug": "anandam-psychiatry-centre",
+  "id": "ChIJkwA6OpUCDTkRu2UM-vGr6wY",
+  "loc": "East Patel Nagar",
+  "kind": "mind",
+  "images": [
+   "1527137342181-19aab11a8ee8",
+   "1598901847919-b95dd0fabbb6",
+   "1544367567-0f2fcb009e0b",
+   "1552196563-55cd4e45efb3",
+   "1599901860904-17e6ed7083a0",
+   "1474418397713-7ede21d49118"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/anandam-psychiatry-centre/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Unity Healthcare Clinic",
+  "category": "Obstetrician-gynecologist",
+  "phone": "+91 88004 43314",
+  "address": "Unity Healthcare Clinic",
+  "link": "https://www.google.com/maps/place/Unity+Healthcare+Clinic/data=!4m7!3m6!1s0x390d0363627a12bf:0xadaf43f776b141dd!8m2!3d28.643732!4d77.1740109!16s%2Fg%2F11lg5_cx48!19sChIJvxJ6YmMDDTkR3UGxdvdDr60?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 137,
+  "tagline": "An obstetrics & gynaecology clinic rated 4.8 from 137 Google reviews",
+  "intro": "Unity Healthcare Clinic is an obstetrician-gynaecologist practice in Delhi, rated 4.8 by 137 Google reviewers. It’s a place for women to talk about their health in confidence, whether that’s a routine check-up or care during pregnancy.",
+  "services": [
+   {
+    "name": "Gynaecology consultation",
+    "desc": "Advice and care for women’s health concerns."
+   },
+   {
+    "name": "Pregnancy care",
+    "desc": "Check-ups and guidance through pregnancy."
+   },
+   {
+    "name": "Routine check-ups",
+    "desc": "Regular women’s health checks and follow-ups."
+   },
+   {
+    "name": "Book a visit",
+    "desc": "Call or WhatsApp to ask about timings and directions."
+   }
+  ],
+  "cta": "Call Unity Healthcare Clinic to book your appointment.",
+  "reviews": [],
+  "slug": "unity-healthcare-clinic",
+  "id": "ChIJvxJ6YmMDDTkR3UGxdvdDr60",
+  "loc": "Delhi",
+  "kind": "gyn",
+  "images": [
+   "1555252333-9f8e92e65df9",
+   "1493894473891-10fc1e5dbd22",
+   "1531983412531-1f49a365ffed",
+   "1544126592-807ade215a0b",
+   "1631217868264-e5b90bb7e133",
+   "1584515933487-779824d29309"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/unity-healthcare-clinic/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "LAVISH",
+  "category": "Beauty salon",
+  "phone": "+91 98106 85474",
+  "address": "Cottage 5, LAVISH, Block 1, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/LAVISH/data=!4m7!3m6!1s0x390d03393f3aa60b:0x8c8383c6143515d0!8m2!3d28.6510819!4d77.1605434!16s%2Fg%2F11h1dbzvpr!19sChIJC6Y6PzkDDTkR0BU1FMaDg4w?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 570,
+  "tagline": "A beauty salon in West Patel Nagar, rated 4.7 from 570 Google reviews",
+  "intro": "LAVISH is a beauty salon at Cottage 5, Block 1, West Patel Nagar. With 570 Google reviews and a 4.7 rating, it’s a well-loved local spot for hair, skin and getting ready for an occasion.",
+  "services": [
+   {
+    "name": "Hair cuts & colour",
+    "desc": "Cuts, styling and colour to refresh your look."
+   },
+   {
+    "name": "Skin & facials",
+    "desc": "Facials and cleanups for glowing skin."
+   },
+   {
+    "name": "Makeup",
+    "desc": "Party and occasion makeup."
+   },
+   {
+    "name": "Nails & grooming",
+    "desc": "Manicure, pedicure, waxing and threading."
+   }
+  ],
+  "cta": "Book your next salon visit at LAVISH.",
+  "reviews": [],
+  "slug": "lavish-beauty-salon",
+  "id": "ChIJC6Y6PzkDDTkR0BU1FMaDg4w",
+  "loc": "West Patel Nagar",
+  "kind": "luxe",
+  "images": [
+   "1521590832167-7bcbfaa6381f",
+   "1527799820374-dcf8d9d4a388",
+   "1570172619644-dfd03ed5d881",
+   "1600948836101-f9ffda59d250",
+   "1633681926022-84c23e8cb2d6",
+   "1560066984-138dadb4c035"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/lavish-beauty-salon/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Dr Pardeep Bageja",
+  "category": "Orthopedic surgeon",
+  "phone": "+91 98111 02009",
+  "address": "22/34 LGF WEST PATEL NAGAR OPPOSITE MOTHER DIARY 306, near BALKAR MOTORS, West Patel Nagar, New Delhi, Delhi 110008, India",
+  "link": "https://www.google.com/maps/place/Dr+Pardeep+Bageja/data=!4m7!3m6!1s0x390d02ec689fbab7:0xea0eb7338979af02!8m2!3d28.6517913!4d77.1676618!16s%2Fg%2F11by_f027b!19sChIJt7qfaOwCDTkRAq95iTO3Duo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 259,
+  "tagline": "An orthopaedic practice in West Patel Nagar, rated 4.7 from 259 Google reviews",
+  "intro": "Dr Pardeep Bageja’s orthopaedic clinic is at 22/34 LGF, West Patel Nagar, opposite Mother Dairy and near Balkar Motors. Rated 4.7 by 259 Google reviewers, it’s a local place to get bone, joint and muscle problems looked at.",
+  "services": [
+   {
+    "name": "Joint pain",
+    "desc": "Consultation for knee, hip, shoulder and other joint pain."
+   },
+   {
+    "name": "Back & neck pain",
+    "desc": "Assessment and advice for spine-related pain."
+   },
+   {
+    "name": "Injuries & fractures",
+    "desc": "Care for sprains, sports injuries and broken bones."
+   },
+   {
+    "name": "Book a consultation",
+    "desc": "Call or WhatsApp to ask about timings."
+   }
+  ],
+  "cta": "Living with pain? Call to book a consultation with Dr Pardeep Bageja.",
+  "reviews": [],
+  "slug": "dr-pardeep-bageja",
+  "id": "ChIJt7qfaOwCDTkRAq95iTO3Duo",
+  "loc": "West Patel Nagar",
+  "kind": "ortho",
+  "images": [
+   "1571772996211-2f02c9727629",
+   "1551076805-e1869033e561",
+   "1530497610245-94d3c16cda28",
+   "1551601651-2a8555f1a136",
+   "1538108149393-fbbd81895907",
+   "1576765608535-5f04d1e3f289"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/dr-pardeep-bageja/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Blixx Unisex Salon",
+  "category": "Hair salon",
+  "phone": "+91 99996 19997",
+  "address": "51 5, Block 51, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/Blixx+Unisex+Salon/data=!4m7!3m6!1s0x390d033c424bce3b:0xf9ce69ded2e44b8c!8m2!3d28.6413109!4d77.1878971!16s%2Fg%2F11ft000nvk!19sChIJO85LQjwDDTkRjEvk0t5pzvk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 246,
+  "tagline": "A unisex salon in Old Rajinder Nagar, rated 4.7 from 246 Google reviews",
+  "intro": "Blixx Unisex Salon is at 51/5, Block 51, Old Rajinder Nagar. Rated 4.7 from 246 Google reviews, it welcomes men and women for cuts, colour and grooming, right in the neighbourhood.",
+  "services": [
+   {
+    "name": "Haircuts for all",
+    "desc": "Cuts and styling for men and women."
+   },
+   {
+    "name": "Beard & grooming",
+    "desc": "Beard trims, shaves and shaping."
+   },
+   {
+    "name": "Hair colour & care",
+    "desc": "Colour, highlights and hair treatments."
+   },
+   {
+    "name": "Skin care",
+    "desc": "Facials and cleanups to refresh."
+   }
+  ],
+  "cta": "Walk in or call Blixx Unisex Salon to book your slot.",
+  "reviews": [],
+  "slug": "blixx-unisex-salon",
+  "id": "ChIJO85LQjwDDTkRjEvk0t5pzvk",
+  "loc": "Old Rajinder Nagar",
+  "kind": "salon",
+  "images": [
+   "1560066984-138dadb4c035",
+   "1522337360788-8b13dee7a37e",
+   "1487412947147-5cebf100ffc2",
+   "1516975080664-ed2fc6a32937",
+   "1570172619644-dfd03ed5d881",
+   "1527799820374-dcf8d9d4a388"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/blixx-unisex-salon/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Dream of Chef",
+  "category": "Cafe",
+  "phone": "+91 98734 22576",
+  "address": "26/25, Ground Floor, Bada, Bada Bazar Rd, Old Rajinder Nagar, New Delhi, Delhi 110060, India",
+  "link": "https://www.google.com/maps/place/Dream+of+Chef/data=!4m7!3m6!1s0x390d03f73ba31873:0xcc5b4437a352747!8m2!3d28.6394843!4d77.1838468!16s%2Fg%2F11q83bf1jn!19sChIJcxijO_cDDTkRRyc1ekO0xQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 101,
+  "tagline": "A café on Bada Bazar Road, Old Rajinder Nagar, rated 4.7 on Google",
+  "intro": "Dream of Chef is a café on the ground floor at 26/25, Bada Bazar Road, Old Rajinder Nagar. Rated 4.7 from 101 Google reviews, it’s a neighbourhood spot for a hearty meal, a snack between classes or a bite with friends.",
+  "services": [
+   {
+    "name": "Fresh meals",
+    "desc": "Freshly cooked plates for lunch and dinner."
+   },
+   {
+    "name": "Snacks & quick bites",
+    "desc": "Something tasty when you’re short on time."
+   },
+   {
+    "name": "Drinks",
+    "desc": "Hot and cold drinks to go with your food."
+   },
+   {
+    "name": "Call ahead",
+    "desc": "Ring us to check today’s menu and timings."
+   }
+  ],
+  "cta": "Hungry? Drop in to Dream of Chef or call to check today’s menu.",
+  "reviews": [],
+  "slug": "dream-of-chef",
+  "id": "ChIJcxijO_cDDTkRRyc1ekO0xQw",
+  "loc": "Old Rajinder Nagar",
+  "kind": "kitchen",
+  "images": [
+   "1504674900247-0877df9cc836",
+   "1585937421612-70a008356fbe",
+   "1567188040759-fb8a883dc6d8",
+   "1600565193348-f74bd3c7ccdf",
+   "1565299624946-b28f40a0ae38",
+   "1546069901-ba9599a7e63c"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/dream-of-chef/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Ginnie Makeovers Unisex Salon & Academy",
+  "category": "Make-up artist",
+  "phone": "+91 82858 00200",
+  "address": "F-37, near Mamta Juice Corner, Block F, West Patel Nagar, Patel Nagar, Delhi, 110008, India",
+  "link": "https://www.google.com/maps/place/Ginnie+Makeovers+Unisex+Salon+%26+Academy/data=!4m7!3m6!1s0x390d034da72d8e23:0xde178dc344e8b7e1!8m2!3d28.6527273!4d77.1636905!16s%2Fg%2F11tsgjwgjl!19sChIJI44tp00DDTkR4bfoRMONF94?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 328,
+  "tagline": "Makeup, salon and academy in West Patel Nagar, rated 4.6 from 328 Google reviews",
+  "intro": "Ginnie Makeovers Unisex Salon & Academy is at F-37, Block F, West Patel Nagar, near Mamta Juice Corner. Rated 4.6 from 328 Google reviews, it’s a makeup studio and unisex salon, and an academy for people who want to learn the craft.",
+  "services": [
+   {
+    "name": "Bridal & party makeup",
+    "desc": "Looks for weddings, engagements and functions."
+   },
+   {
+    "name": "Unisex salon",
+    "desc": "Haircuts, styling and grooming for men and women."
+   },
+   {
+    "name": "Skin & hair care",
+    "desc": "Facials, cleanups and hair treatments."
+   },
+   {
+    "name": "Makeup academy",
+    "desc": "Ask about courses if you want to learn makeup."
+   }
+  ],
+  "cta": "Call Ginnie Makeovers to book your makeover or ask about courses.",
+  "reviews": [],
+  "slug": "ginnie-makeovers",
+  "id": "ChIJI44tp00DDTkR4bfoRMONF94",
+  "loc": "West Patel Nagar",
+  "kind": "bridal",
+  "images": [
+   "1516975080664-ed2fc6a32937",
+   "1610030469983-98e550d6193c",
+   "1512496015851-a90fb38ba796",
+   "1522335789203-aabd1fc54bc9",
+   "1526045478516-99145907023c",
+   "1596462502278-27bfdc403348"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/ginnie-makeovers/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "High On Desserts",
+  "category": "Dessert restaurant",
+  "phone": "+91 83683 89111",
+  "address": "1/122, Shankar Rd, Block 1, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060, India",
+  "link": "https://www.google.com/maps/place/High+On+Desserts/data=!4m7!3m6!1s0x390d03ab851c2ca7:0x6acb6b76a3332dcf!8m2!3d28.6358416!4d77.1852292!16s%2Fg%2F11h5555brg!19sChIJpywchasDDTkRzy0zo3Zry2o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.3,
+  "count": 508,
+  "tagline": "A dessert spot on Shankar Road, Old Rajinder Nagar, with 508 Google reviews",
+  "intro": "High On Desserts is at 1/122, Shankar Road, Block 1, Old Rajinder Nagar. More than 500 people have reviewed it on Google. Come by when the sweet craving hits, or pick up something to share with friends and family.",
+  "services": [
+   {
+    "name": "Cakes & pastries",
+    "desc": "Slices and cakes for any craving."
+   },
+   {
+    "name": "Sweet treats",
+    "desc": "Desserts to enjoy in or take away."
+   },
+   {
+    "name": "Celebrations",
+    "desc": "Ask about desserts for birthdays and get-togethers."
+   },
+   {
+    "name": "Call ahead",
+    "desc": "Ring us to check what’s fresh today."
+   }
+  ],
+  "cta": "Craving something sweet? Visit High On Desserts on Shankar Road.",
+  "reviews": [],
+  "slug": "high-on-desserts",
+  "id": "ChIJpywchasDDTkRzy0zo3Zry2o",
+  "loc": "Old Rajinder Nagar",
+  "kind": "dessert",
+  "images": [
+   "1578985545062-69928b1d9587",
+   "1606313564200-e75d5e30476c",
+   "1558961363-fa8fdf82db35",
+   "1497034825429-c343d7c6a68f",
+   "1464349095431-e9a21285b5f3",
+   "1551024601-bec78aea704b"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/high-on-desserts/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Infinity Salon",
+  "category": "Beauty Parlour",
+  "phone": "086972 54368",
+  "address": "15A/60, Ajmal Khan Road WEA, Near Punjab Sweets, KArol Bagh W.E.A, Block 15A, Karol Bagh, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Infinity+Salon/data=!4m7!3m6!1s0x390d029ed318fe87:0xebf4ca9f35ed4d85!8m2!3d28.646845!4d77.188819!16s%2Fg%2F11cjj83309!19sChIJh_4Y054CDTkRhU3tNZ_K9Os?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 3.6,
+  "count": 40,
+  "tagline": "A beauty parlour on Ajmal Khan Road, Karol Bagh, near Punjab Sweets",
+  "intro": "Infinity Salon is a beauty parlour at 15A/60, Ajmal Khan Road, Block 15A, Karol Bagh, near Punjab Sweets. Pop in while you’re in the market for grooming, skin care or a fresh look.",
+  "services": [
+   {
+    "name": "Threading & waxing",
+    "desc": "Brow shaping and smooth hair removal."
+   },
+   {
+    "name": "Facials & cleanups",
+    "desc": "Skin care for a fresh, clean glow."
+   },
+   {
+    "name": "Hair cuts & styling",
+    "desc": "Trims, cuts and blow-dries."
+   },
+   {
+    "name": "Occasion makeup",
+    "desc": "Makeup for parties and functions."
+   }
+  ],
+  "cta": "Call Infinity Salon to book your appointment in Karol Bagh.",
+  "reviews": [],
+  "slug": "infinity-salon-karol-bagh",
+  "id": "ChIJh_4Y054CDTkRhU3tNZ_K9Os",
+  "loc": "Karol Bagh",
+  "kind": "salon",
+  "images": [
+   "1633681926022-84c23e8cb2d6",
+   "1516975080664-ed2fc6a32937",
+   "1570172619644-dfd03ed5d881",
+   "1527799820374-dcf8d9d4a388",
+   "1560066984-138dadb4c035",
+   "1521590832167-7bcbfaa6381f"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/infinity-salon-karol-bagh/",
+  "added": "2026-10-22"
+ },
+ {
+  "name": "Kanwal Gujral Clinic",
+  "category": "Medical clinic",
+  "phone": "098117 90562",
+  "address": "J5QM+M6C Kanwal Gujral Clinic, 18/22, Gobind Chailani Marg, Block 18, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Kanwal+Gujral+Clinic/data=!4m7!3m6!1s0x390d039a1a5959d1:0xcf21b5cddf4fe074!8m2!3d28.6392755!4d77.1830553!16s%2Fg%2F11fj9n2xxx!19sChIJ0VlZGpoDDTkRdOBP3821Ic8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 3.2,
+  "count": 38,
+  "tagline": "A medical clinic on Gobind Chailani Marg, Old Rajinder Nagar",
+  "intro": "Kanwal Gujral Clinic is at 18/22, Gobind Chailani Marg, Block 18, Old Rajinder Nagar. Call ahead to check timings and book a consultation at this neighbourhood clinic.",
+  "services": [
+   {
+    "name": "Consultation",
+    "desc": "See the doctor about your health concerns."
+   },
+   {
+    "name": "Check-ups",
+    "desc": "Routine health checks and advice."
+   },
+   {
+    "name": "Follow-up visits",
+    "desc": "Return visits to review your progress."
+   },
+   {
+    "name": "Book a visit",
+    "desc": "Call or WhatsApp to ask about timings."
+   }
+  ],
+  "cta": "Call Kanwal Gujral Clinic to book your consultation.",
+  "reviews": [],
+  "slug": "kanwal-gujral-clinic",
+  "id": "ChIJ0VlZGpoDDTkRdOBP3821Ic8",
+  "loc": "Old Rajinder Nagar",
+  "kind": "clinic",
+  "images": [
+   "1519494026892-80bbd2d6fd0d",
+   "1631217868264-e5b90bb7e133",
+   "1576091160399-112ba8d25d1d",
+   "1666214280557-f1b5022eb634",
+   "1579684385127-1ef15d508118",
+   "1612349317150-e413f6a5b16d"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/kanwal-gujral-clinic/",
+  "added": "2026-10-22"
  }
 ]
