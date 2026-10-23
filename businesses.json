@@ -1027,8 +1027,8 @@
   "link": "https://www.google.com/maps/place/Chaigadh/data=!4m7!3m6!1s0x390d03a5afb49e7d:0x6c58441dbb497c0c!8m2!3d28.651559!4d77.1639252!16s%2Fg%2F11kbrr6dcx!19sChIJfZ60r6UDDTkRDHxJux1EWGw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.8,
   "count": 9.0,
-  "tagline": "Chai and café favourites in West Patel Nagar",
-  "intro": "Chaigadh is a café in West Patel Nagar, Delhi, serving chai and everyday café bites in a neighbourhood setting. Stop by for a quick break or a relaxed catch-up with friends.",
+  "tagline": "Chai and caf\u00e9 favourites in West Patel Nagar",
+  "intro": "Chaigadh is a caf\u00e9 in West Patel Nagar, Delhi, serving chai and everyday caf\u00e9 bites in a neighbourhood setting. Stop by for a quick break or a relaxed catch-up with friends.",
   "services": [
    {
     "name": "Chai & hot beverages",
@@ -1036,7 +1036,7 @@
    },
    {
     "name": "Snacks & light bites",
-    "desc": "Simple café snacks to go with your drink."
+    "desc": "Simple caf\u00e9 snacks to go with your drink."
    },
    {
     "name": "Takeaway",
@@ -1047,7 +1047,7 @@
     "desc": "A casual spot for a short break in West Patel Nagar."
    }
   ],
-  "cta": "Visit Chaigadh or call to ask about today’s menu.",
+  "cta": "Visit Chaigadh or call to ask about today\u2019s menu.",
   "reviews": [],
   "slug": "chaigadh",
   "id": "ChIJfZ60r6UDDTkRDHxJux1EWGw",
@@ -1088,19 +1088,19 @@
   "url": "https://imjarvissingh.github.io/samples/iron-curls-unisex-gym/"
  },
  {
-  "name": "Mom’s Cafe",
+  "name": "Mom\u2019s Cafe",
   "category": "Cafe",
   "phone": "098992 74838",
   "address": "22/20, Block 22, West Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
   "link": "https://www.google.com/maps/place/Mom%E2%80%99s+Cafe/data=!4m7!3m6!1s0x390d03e6dfbfb53b:0x643d036729d911a7!8m2!3d28.652518!4d77.1676279!16s%2Fg%2F11y67yv6tq!19sChIJO7W_3-YDDTkRpxHZKWcDPWQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.7,
   "count": 206.0,
-  "tagline": "Café dining in West Patel Nagar",
-  "intro": "Mom’s Cafe is a well-rated café in West Patel Nagar, Patel Nagar, New Delhi. Guests come for casual café meals and drinks in a familiar local spot.",
+  "tagline": "Caf\u00e9 dining in West Patel Nagar",
+  "intro": "Mom\u2019s Cafe is a well-rated caf\u00e9 in West Patel Nagar, Patel Nagar, New Delhi. Guests come for casual caf\u00e9 meals and drinks in a familiar local spot.",
   "services": [
    {
-    "name": "Café meals",
-    "desc": "Everyday café dishes for breakfast, lunch, or a light dinner."
+    "name": "Caf\u00e9 meals",
+    "desc": "Everyday caf\u00e9 dishes for breakfast, lunch, or a light dinner."
    },
    {
     "name": "Beverages",
@@ -1115,7 +1115,7 @@
     "desc": "Eat in or take your order with you."
    }
   ],
-  "cta": "Drop by Mom’s Cafe or call ahead for details.",
+  "cta": "Drop by Mom\u2019s Cafe or call ahead for details.",
   "reviews": [],
   "slug": "mom-s-cafe",
   "id": "ChIJO7W_3-YDDTkRpxHZKWcDPWQ",
@@ -1236,7 +1236,7 @@
   "services": [
    {
     "name": "Haircuts",
-    "desc": "Men’s and women’s cuts for everyday styles."
+    "desc": "Men\u2019s and women\u2019s cuts for everyday styles."
    },
    {
     "name": "Styling & blow-dry",
@@ -1265,15 +1265,15 @@
   "link": "https://www.google.com/maps/place/CHAI+CHAUPAL+CAFE/data=!4m7!3m6!1s0x390d030d719d2603:0x1365d109d7887889!8m2!3d28.6520217!4d77.1618727!16s%2Fg%2F11ltsk2gkp!19sChIJAyadcQ0DDTkRiXiI1wnRZRM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.7,
   "count": 24.0,
-  "tagline": "Chai café in West Patel Nagar",
-  "intro": "CHAI CHAUPAL CAFE is a café in West Patel Nagar, Patel Nagar, New Delhi. It is a local spot for chai and casual café time in the neighbourhood.",
+  "tagline": "Chai caf\u00e9 in West Patel Nagar",
+  "intro": "CHAI CHAUPAL CAFE is a caf\u00e9 in West Patel Nagar, Patel Nagar, New Delhi. It is a local spot for chai and casual caf\u00e9 time in the neighbourhood.",
   "services": [
    {
     "name": "Chai specialties",
     "desc": "Classic chai and hot drinks for a daily break."
    },
    {
-    "name": "Café snacks",
+    "name": "Caf\u00e9 snacks",
     "desc": "Light bites to enjoy with your drink."
    },
    {
@@ -1333,8 +1333,8 @@
   "link": "https://www.google.com/maps/place/Tree+house+Cafe/data=!4m7!3m6!1s0x390d0310341af4cb:0x182757b7d5912b88!8m2!3d28.6500084!4d77.1647451!16s%2Fg%2F11zg1f2ykq!19sChIJy_QaNBADDTkRiCuR1bdXJxg?authuser=0&hl=en&rclk=1",
   "rating": 4.6,
   "count": 30,
-  "tagline": "Café vibes in West Patel Nagar",
-  "intro": "Tree house Cafe is a well-rated café in West Patel Nagar, Patel Nagar, New Delhi. Guests come for coffee, snacks, and a relaxed neighbourhood setting near Subhash Jewellers.",
+  "tagline": "Caf\u00e9 vibes in West Patel Nagar",
+  "intro": "Tree house Cafe is a well-rated caf\u00e9 in West Patel Nagar, Patel Nagar, New Delhi. Guests come for coffee, snacks, and a relaxed neighbourhood setting near Subhash Jewellers.",
   "services": [
    {
     "name": "Coffee & beverages",
@@ -1342,7 +1342,7 @@
    },
    {
     "name": "Snacks & light meals",
-    "desc": "Simple café food to enjoy with your drink."
+    "desc": "Simple caf\u00e9 food to enjoy with your drink."
    },
    {
     "name": "Takeaway",
@@ -1353,7 +1353,7 @@
     "desc": "A friendly spot to catch up in West Patel Nagar."
    }
   ],
-  "cta": "Drop by Tree house Cafe or call for today’s offerings.",
+  "cta": "Drop by Tree house Cafe or call for today\u2019s offerings.",
   "reviews": [],
   "slug": "tree-house-cafe",
   "id": "ChIJy_QaNBADDTkRiCuR1bdXJxg",
@@ -1367,12 +1367,12 @@
   "link": "https://www.google.com/maps/place/Le+winkies/data=!4m7!3m6!1s0x390d03cde0038f0f:0xbeef623e61138ef1!8m2!3d28.6459368!4d77.1719808!16s%2Fg%2F11fl5gd0w7!19sChIJD48D4M0DDTkR8Y4TYT5i774?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.6,
   "count": 458.0,
-  "tagline": "Café in East Patel Nagar",
-  "intro": "Le winkies is a café in East Patel Nagar, Patel Nagar, New Delhi. It serves café food and drinks for locals looking for a casual place nearby.",
+  "tagline": "Caf\u00e9 in East Patel Nagar",
+  "intro": "Le winkies is a caf\u00e9 in East Patel Nagar, Patel Nagar, New Delhi. It serves caf\u00e9 food and drinks for locals looking for a casual place nearby.",
   "services": [
    {
-    "name": "Café food",
-    "desc": "Everyday café dishes for a casual meal."
+    "name": "Caf\u00e9 food",
+    "desc": "Everyday caf\u00e9 dishes for a casual meal."
    },
    {
     "name": "Drinks",
@@ -1469,11 +1469,11 @@
   "link": "https://www.google.com/maps/place/Woodland+Cafe/data=!4m7!3m6!1s0x390d03bcbb56a40b:0x6433d4a6333be4a0!8m2!3d28.6499932!4d77.1944652!16s%2Fg%2F11vdlf2w3f!19sChIJC6RWu7wDDTkRoOQ7M6bUM2Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.6,
   "count": 87.0,
-  "tagline": "Café on Gurudwara Road, Karol Bagh",
-  "intro": "Woodland Cafe is a café on Gurudwara Road in Beadonpura, Karol Bagh, New Delhi. It is a local spot for café meals and drinks near the post office stretch.",
+  "tagline": "Caf\u00e9 on Gurudwara Road, Karol Bagh",
+  "intro": "Woodland Cafe is a caf\u00e9 on Gurudwara Road in Beadonpura, Karol Bagh, New Delhi. It is a local spot for caf\u00e9 meals and drinks near the post office stretch.",
   "services": [
    {
-    "name": "Café meals",
+    "name": "Caf\u00e9 meals",
     "desc": "Casual food for breakfast, lunch, or a snack."
    },
    {
@@ -1585,7 +1585,7 @@
  },
  {
   "slug": "flaire-india",
-  "name": "Flairé India",
+  "name": "Flair\u00e9 India",
   "category": "@flaire_india",
   "url": "https://imjarvissingh.github.io/samples/flaire-india/"
  },
@@ -1723,15 +1723,15 @@
   "link": "https://www.google.com/maps/place/The+Coffee+Coop/data=!4m7!3m6!1s0x390d033d305ba635:0x94da3d64c4b1d98f!8m2!3d28.6408064!4d77.1849244!16s%2Fg%2F11t_r2sr7z!19sChIJNaZbMD0DDTkRj9mxxGQ92pQ?authuser=0&hl=en&rclk=1",
   "rating": 4.6,
   "count": 39,
-  "tagline": "Neighbourhood café on Bada Bazar Road, Old Rajinder Nagar",
-  "intro": "The Coffee Coop is a café in Old Rajinder Nagar, New Delhi, with a 4.6 rating from local Google reviewers. Stop by for coffee, café bites, and a casual hangout near Bada Bazar Road.",
+  "tagline": "Neighbourhood caf\u00e9 on Bada Bazar Road, Old Rajinder Nagar",
+  "intro": "The Coffee Coop is a caf\u00e9 in Old Rajinder Nagar, New Delhi, with a 4.6 rating from local Google reviewers. Stop by for coffee, caf\u00e9 bites, and a casual hangout near Bada Bazar Road.",
   "services": [
    {
     "name": "Coffee & hot drinks",
     "desc": "Everyday brews and hot beverages for a quick break or a longer sit."
    },
    {
-    "name": "Café snacks",
+    "name": "Caf\u00e9 snacks",
     "desc": "Light bites to go with your drink."
    },
    {
@@ -1743,7 +1743,7 @@
     "desc": "A casual spot for friends and neighbours in Old Rajinder Nagar."
    }
   ],
-  "cta": "Visit The Coffee Coop or call to ask about today’s menu.",
+  "cta": "Visit The Coffee Coop or call to ask about today\u2019s menu.",
   "reviews": [],
   "slug": "the-coffee-coop",
   "id": "ChIJNaZbMD0DDTkRj9mxxGQ92pQ",
@@ -1758,7 +1758,7 @@
   "rating": 4.5,
   "count": 940,
   "tagline": "Patisserie treats in East Patel Nagar",
-  "intro": "Dripping Dose is a patisserie in East Patel Nagar, New Delhi, with hundreds of Google reviews. Guests visit for cakes, desserts, and sweet café favourites next to Gud Price Bazar.",
+  "intro": "Dripping Dose is a patisserie in East Patel Nagar, New Delhi, with hundreds of Google reviews. Guests visit for cakes, desserts, and sweet caf\u00e9 favourites next to Gud Price Bazar.",
   "services": [
    {
     "name": "Cakes & desserts",
@@ -1769,7 +1769,7 @@
     "desc": "Everyday bakery picks for tea time or celebrations."
    },
    {
-    "name": "Café seating",
+    "name": "Caf\u00e9 seating",
     "desc": "Sit in and enjoy something sweet with a drink."
    },
    {
@@ -1777,7 +1777,7 @@
     "desc": "Pick up desserts to share at home or the office."
    }
   ],
-  "cta": "Visit Dripping Dose or call to ask about today’s desserts.",
+  "cta": "Visit Dripping Dose or call to ask about today\u2019s desserts.",
   "reviews": [],
   "slug": "dripping-dose",
   "id": "ChIJf1WfXvcBDTkRdUecczIhYfk",
@@ -1818,15 +1818,15 @@
   "url": "https://imjarvissingh.github.io/samples/intensity-gym-fitness-studio/"
  },
  {
-  "name": "RampUp Gaming Café",
+  "name": "RampUp Gaming Caf\u00e9",
   "category": "Video arcade",
   "phone": "098716 79266",
-  "address": "Basement, RampUp Gaming Café, 5/16, Block 5, East Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+  "address": "Basement, RampUp Gaming Caf\u00e9, 5/16, Block 5, East Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
   "link": "https://www.google.com/maps/place/RampUp+Gaming+Caf%C3%A9/data=!4m7!3m6!1s0x390d03c19cdabe2b:0x52b42605b7ad5cef!8m2!3d28.6465323!4d77.1704846!16s%2Fg%2F11wwbq8h7s!19sChIJK77anMEDDTkR71yttwUmtFI?authuser=0&hl=en&rclk=1",
   "rating": 4.5,
   "count": 32,
-  "tagline": "Gaming café in East Patel Nagar",
-  "intro": "RampUp Gaming Café is a video arcade and gaming café in the basement at Block 5, East Patel Nagar, New Delhi. Locals come for games, hangouts, and a casual café vibe with friends.",
+  "tagline": "Gaming caf\u00e9 in East Patel Nagar",
+  "intro": "RampUp Gaming Caf\u00e9 is a video arcade and gaming caf\u00e9 in the basement at Block 5, East Patel Nagar, New Delhi. Locals come for games, hangouts, and a casual caf\u00e9 vibe with friends.",
   "services": [
    {
     "name": "PC & console gaming",
@@ -1837,7 +1837,7 @@
     "desc": "Hang out and compete with friends."
    },
    {
-    "name": "Café refreshments",
+    "name": "Caf\u00e9 refreshments",
     "desc": "Drinks and light bites while you play."
    },
    {
@@ -1845,7 +1845,7 @@
     "desc": "Call ahead for slots with your crew."
    }
   ],
-  "cta": "Visit RampUp Gaming Café or call to check availability.",
+  "cta": "Visit RampUp Gaming Caf\u00e9 or call to check availability.",
   "reviews": [],
   "slug": "rampup-gaming-cafe",
   "id": "ChIJK77anMEDDTkR71yttwUmtFI",
@@ -1981,7 +1981,7 @@
     "desc": "Grab a cup near the metro and continue your day."
    }
   ],
-  "cta": "Visit Nagori Tea point or call for today’s menu.",
+  "cta": "Visit Nagori Tea point or call for today\u2019s menu.",
   "reviews": [],
   "slug": "nagori-tea-point",
   "id": "ChIJZXcgOEQDDTkRpYCSKGvdIdk",
@@ -2022,7 +2022,7 @@
   "url": "https://imjarvissingh.github.io/samples/madhaw-clinic-ent-vertigo/"
  },
  {
-  "name": "NEET SURE - NEET | ऐम्स",
+  "name": "NEET SURE - NEET | \u0910\u092e\u094d\u0938",
   "category": "Educational institution",
   "phone": "096545 02020",
   "address": "1/116, Shankar Rd, Block 1, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
@@ -2064,14 +2064,14 @@
   "rating": 4.2,
   "count": 768,
   "tagline": "Coffee house in Old Rajender Nagar market",
-  "intro": "Josie's Coffee House is a restaurant and coffee spot in Old Rajender Nagar market, New Delhi, with hundreds of Google reviews. Guests visit for coffee, café meals, and a casual sit-down beside La Pino's Pizza.",
+  "intro": "Josie's Coffee House is a restaurant and coffee spot in Old Rajender Nagar market, New Delhi, with hundreds of Google reviews. Guests visit for coffee, caf\u00e9 meals, and a casual sit-down beside La Pino's Pizza.",
   "services": [
    {
     "name": "Coffee & beverages",
     "desc": "Brews and drinks for mornings and evenings."
    },
    {
-    "name": "Café meals",
+    "name": "Caf\u00e9 meals",
     "desc": "Casual restaurant food in a coffee-house setting."
    },
    {
@@ -2083,7 +2083,7 @@
     "desc": "Pick up favourites when you are short on time."
    }
   ],
-  "cta": "Visit Josie's Coffee House or call about today’s menu.",
+  "cta": "Visit Josie's Coffee House or call about today\u2019s menu.",
   "reviews": [],
   "slug": "josies-coffee-house",
   "id": "ChIJq2xlXCkDDTkR741mcIrrMsk",
@@ -2131,11 +2131,11 @@
   "link": "https://www.google.com/maps/place/Panther+Cafe+%26+Lounge/data=!4m7!3m6!1s0x390d03ccadb02059:0x657baf48ca1eb991!8m2!3d28.6456839!4d77.1732356!16s%2Fg%2F11qnt6brq7!19sChIJWSCwrcwDDTkRkbkeykive2U?authuser=0&hl=en&rclk=1",
   "rating": 4.2,
   "count": 66,
-  "tagline": "Café & lounge in East Patel Nagar",
-  "intro": "Panther Cafe & Lounge is a restaurant on the 3rd floor at Block 18, East Patel Nagar, New Delhi, near 24 Seven. Guests come for café meals, drinks, and a lounge-style hangout with friends.",
+  "tagline": "Caf\u00e9 & lounge in East Patel Nagar",
+  "intro": "Panther Cafe & Lounge is a restaurant on the 3rd floor at Block 18, East Patel Nagar, New Delhi, near 24 Seven. Guests come for caf\u00e9 meals, drinks, and a lounge-style hangout with friends.",
   "services": [
    {
-    "name": "Café dining",
+    "name": "Caf\u00e9 dining",
     "desc": "Casual restaurant meals in a lounge setting."
    },
    {
@@ -2165,15 +2165,15 @@
   "link": "https://www.google.com/maps/place/Qbic+cafe/data=!4m7!3m6!1s0x390d03f806d71cc5:0x4676eccddaa43b45!8m2!3d28.6444547!4d77.1705468!16s%2Fg%2F11fjwzty7d!19sChIJxRzXBvgDDTkRRTuk2s3sdkY?authuser=0&hl=en&rclk=1",
   "rating": 4.1,
   "count": 1811,
-  "tagline": "Popular café on Patel Road, East Patel Nagar",
-  "intro": "Qbic cafe is a café on Patel Road in East Patel Nagar, New Delhi, with over 1,800 Google reviews. Locals visit for coffee, café food, and a familiar neighbourhood hangout.",
+  "tagline": "Popular caf\u00e9 on Patel Road, East Patel Nagar",
+  "intro": "Qbic cafe is a caf\u00e9 on Patel Road in East Patel Nagar, New Delhi, with over 1,800 Google reviews. Locals visit for coffee, caf\u00e9 food, and a familiar neighbourhood hangout.",
   "services": [
    {
     "name": "Coffee & drinks",
     "desc": "Everyday brews and beverages."
    },
    {
-    "name": "Café meals",
+    "name": "Caf\u00e9 meals",
     "desc": "Casual food for breakfast, lunch, or an evening sit."
    },
    {
@@ -2185,7 +2185,7 @@
     "desc": "Grab favourites when you are on the go."
    }
   ],
-  "cta": "Visit Qbic cafe or call about today’s menu.",
+  "cta": "Visit Qbic cafe or call about today\u2019s menu.",
   "reviews": [],
   "slug": "qbic-cafe",
   "id": "ChIJxRzXBvgDDTkRRTuk2s3sdkY",
@@ -2199,15 +2199,15 @@
   "link": "https://www.google.com/maps/place/Tadow+Cafe/data=!4m7!3m6!1s0x390d032d3cfff407:0xb26877a8570020dc!8m2!3d28.6441497!4d77.1702609!16s%2Fg%2F11ykqq991x!19sChIJB_T_PC0DDTkR3CAAV6h3aLI?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 5.0,
   "count": 13,
-  "tagline": "A third-floor café hangout in South Patel Nagar, rated 5.0 on Google",
-  "intro": "Tadow Cafe is a café on the third floor of Plot 68, Block 8, South Patel Nagar. Guests who have reviewed it on Google give it a perfect 5.0. Come up for coffee, café food and an easy evening with friends.",
+  "tagline": "A third-floor caf\u00e9 hangout in South Patel Nagar, rated 5.0 on Google",
+  "intro": "Tadow Cafe is a caf\u00e9 on the third floor of Plot 68, Block 8, South Patel Nagar. Guests who have reviewed it on Google give it a perfect 5.0. Come up for coffee, caf\u00e9 food and an easy evening with friends.",
   "services": [
    {
     "name": "Coffee & drinks",
     "desc": "Hot and cold drinks to sip slowly or grab on the way."
    },
    {
-    "name": "Café food",
+    "name": "Caf\u00e9 food",
     "desc": "Bites and plates to share at the table."
    },
    {
@@ -2216,10 +2216,10 @@
    },
    {
     "name": "Call before you visit",
-    "desc": "Ring us to check today’s menu and timings."
+    "desc": "Ring us to check today\u2019s menu and timings."
    }
   ],
-  "cta": "Come up to Tadow Cafe, or call to check today’s menu.",
+  "cta": "Come up to Tadow Cafe, or call to check today\u2019s menu.",
   "reviews": [],
   "slug": "tadow-cafe",
   "id": "ChIJB_T_PC0DDTkR3CAAV6h3aLI",
@@ -2269,7 +2269,7 @@
   "rating": 4.8,
   "count": 742,
   "tagline": "Coffee, comfort food and good company in East Patel Nagar",
-  "intro": "Nobby's Cafe is a ground-floor café at 9/29, Block 9, East Patel Nagar, rated 4.8 from more than 740 Google reviews. Their Instagram is full of what keeps people coming back: burgers, baked nachos and freshly poured coffee with latte art.",
+  "intro": "Nobby's Cafe is a ground-floor caf\u00e9 at 9/29, Block 9, East Patel Nagar, rated 4.8 from more than 740 Google reviews. Their Instagram is full of what keeps people coming back: burgers, baked nachos and freshly poured coffee with latte art.",
   "services": [
    {
     "name": "Coffee & latte art",
@@ -2277,7 +2277,7 @@
    },
    {
     "name": "Burgers & bites",
-    "desc": "Hearty café food for lunch, dinner or a snack."
+    "desc": "Hearty caf\u00e9 food for lunch, dinner or a snack."
    },
    {
     "name": "Baked nachos & sharers",
@@ -2288,7 +2288,7 @@
     "desc": "A friendly spot for friends, family and work breaks."
    }
   ],
-  "cta": "Drop in at Nobby's Cafe, or call to ask about today’s menu.",
+  "cta": "Drop in at Nobby's Cafe, or call to ask about today\u2019s menu.",
   "reviews": [],
   "slug": "nobbys-cafe",
   "id": "ChIJF54_T7kDDTkRpl26JrYkmLM",
@@ -2303,7 +2303,7 @@
   "rating": 4.8,
   "count": 471,
   "tagline": "Serious training at Channa Market, Karol Bagh",
-  "intro": "Hardcore Fitness Gym is at 7A/45, Channa Market in Karol Bagh, rated 4.8 from 471 Google reviews. It’s a place to lift, build muscle and push yourself, with a crowd that takes training seriously.",
+  "intro": "Hardcore Fitness Gym is at 7A/45, Channa Market in Karol Bagh, rated 4.8 from 471 Google reviews. It\u2019s a place to lift, build muscle and push yourself, with a crowd that takes training seriously.",
   "services": [
    {
     "name": "Weight training",
@@ -2337,7 +2337,7 @@
   "rating": 4.8,
   "count": 38,
   "tagline": "Your neighbourhood gym, rated 4.8 on Google",
-  "intro": "Your Fitness Point Gym is a basement gym at Shop No. 58, near Batra Medical Corner in Old Rajinder Nagar Market, rated 4.8 by its Google reviewers. Whether you are starting out or getting back on track, it’s a straightforward place to train close to home.",
+  "intro": "Your Fitness Point Gym is a basement gym at Shop No. 58, near Batra Medical Corner in Old Rajinder Nagar Market, rated 4.8 by its Google reviewers. Whether you are starting out or getting back on track, it\u2019s a straightforward place to train close to home.",
   "services": [
    {
     "name": "Weight training",
@@ -2439,7 +2439,7 @@
   "link": "https://www.google.com/maps/place/Muscle+Junkie+-+Pusa+Road/data=!4m7!3m6!1s0x390d03c3a94bd099:0xabdfe5cde39e64a4!8m2!3d28.6434279!4d77.1858089!16s%2Fg%2F11lgsfvjtj!19sChIJmdBLqcMDDTkRpGSe483l36s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.1,
   "count": 111,
-  "tagline": "A second-floor gym on Pusa Road, by Metro Pillar 116–117",
+  "tagline": "A second-floor gym on Pusa Road, by Metro Pillar 116\u2013117",
   "intro": "Muscle Junkie on Pusa Road is a gym on the second floor near Metro Pillars 116 and 117, rated 4.1 from 111 Google reviews. Come in to build strength, lose weight or just get moving.",
   "services": [
    {
@@ -2500,15 +2500,15 @@
   "url": "https://imjarvissingh.github.io/samples/taneja-dental-care/"
  },
  {
-  "name": "Bohéme Cafe Bar",
+  "name": "Boh\u00e9me Cafe Bar",
   "category": "Bar",
   "phone": "099100 89416",
   "address": "Shikha Rd, Block 7, WEA, Karol Bagh, New Delhi, Delhi, 110005",
   "link": "https://www.google.com/maps/place/Boh%C3%A9me+Cafe+Bar/data=!4m7!3m6!1s0x390d0298e7622711:0xf467e557e496dd2f!8m2!3d28.6458408!4d77.1873113!16s%2Fg%2F11bx4bj_l8!19sChIJESdi55gCDTkRL92W5FflZ_Q?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.0,
   "count": 748,
-  "tagline": "A popular café bar on Shikha Road, Karol Bagh",
-  "intro": "Bohéme Cafe Bar is on Shikha Road in Block 7, WEA, Karol Bagh. With 748 Google reviews and a 4.0 rating, it’s a well-known spot for food, drinks and nights out with friends.",
+  "tagline": "A popular caf\u00e9 bar on Shikha Road, Karol Bagh",
+  "intro": "Boh\u00e9me Cafe Bar is on Shikha Road in Block 7, WEA, Karol Bagh. With 748 Google reviews and a 4.0 rating, it\u2019s a well-known spot for food, drinks and nights out with friends.",
   "services": [
    {
     "name": "Food",
@@ -2527,7 +2527,7 @@
     "desc": "Call ahead to book a table for your group."
    }
   ],
-  "cta": "Planning a night out? Call Bohéme Cafe Bar to book a table.",
+  "cta": "Planning a night out? Call Boh\u00e9me Cafe Bar to book a table.",
   "reviews": [],
   "slug": "boheme-cafe-bar",
   "id": "ChIJESdi55gCDTkRL92W5FflZ_Q",
@@ -2576,15 +2576,15 @@
   "link": "https://www.google.com/maps/place/Shisha/data=!4m7!3m6!1s0x390d029505070ee7:0x8b8d5d0bf05ccc87!8m2!3d28.6444374!4d77.1738515!16s%2Fg%2F11c2k7k2vn!19sChIJ5w4HBZUCDTkRh8xc8AtdjYs?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.0,
   "count": 70,
-  "tagline": "A café hangout on Patel Road, East Patel Nagar",
-  "intro": "Shisha is a café at 14/36, Patel Road in East Patel Nagar, rated 4.0 from 70 Google reviews. It’s a laid-back spot to sit back with friends.",
+  "tagline": "A caf\u00e9 hangout on Patel Road, East Patel Nagar",
+  "intro": "Shisha is a caf\u00e9 at 14/36, Patel Road in East Patel Nagar, rated 4.0 from 70 Google reviews. It\u2019s a laid-back spot to sit back with friends.",
   "services": [
    {
     "name": "Drinks",
     "desc": "Hot and cold drinks to enjoy at the table."
    },
    {
-    "name": "Café bites",
+    "name": "Caf\u00e9 bites",
     "desc": "Snacks and food to share."
    },
    {
@@ -2596,7 +2596,7 @@
     "desc": "Ring us to check the menu and timings."
    }
   ],
-  "cta": "Visit Shisha on Patel Road, or call to check today’s menu.",
+  "cta": "Visit Shisha on Patel Road, or call to check today\u2019s menu.",
   "reviews": [],
   "slug": "shisha-cafe-patel-nagar",
   "id": "ChIJ5w4HBZUCDTkRh8xc8AtdjYs",
@@ -2630,7 +2630,7 @@
     "desc": "Call to check when the doctor is available."
    }
   ],
-  "cta": "Call Saxena Clinic to check the doctor’s timings.",
+  "cta": "Call Saxena Clinic to check the doctor\u2019s timings.",
   "reviews": [],
   "slug": "saxena-clinic",
   "id": "ChIJP0kKIUYDDTkRsR-eQc0RjYw",
@@ -2661,7 +2661,7 @@
    },
    {
     "name": "Appointments",
-    "desc": "Call to ask about the doctor’s timings."
+    "desc": "Call to ask about the doctor\u2019s timings."
    }
   ],
   "cta": "Call Dr Amit Seth's clinic to book a consultation.",
@@ -2678,8 +2678,8 @@
   "link": "https://www.google.com/maps/place/Flex+50+%28+aman+singh%29/data=!4m7!3m6!1s0x390d03ff3d2e974d:0x495349aa58e68a78!8m2!3d28.6467659!4d77.1722278!16s%2Fg%2F11ss6rrpn9!19sChIJTZcuPf8DDTkReIrmWKpJU0k?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
   "rating": "5.0",
   "count": 92,
-  "tagline": "A neighbourhood gym near Jogger’s Park, East Patel Nagar, rated 5.0 on Google",
-  "intro": "Flex 50 is a fitness centre at 27/15, Block 16, East Patel Nagar, close to Jogger’s Park. Its Google reviewers rate it a full 5.0. Come in to lift, get fitter and build a routine you can stick to, right in your own neighbourhood.",
+  "tagline": "A neighbourhood gym near Jogger\u2019s Park, East Patel Nagar, rated 5.0 on Google",
+  "intro": "Flex 50 is a fitness centre at 27/15, Block 16, East Patel Nagar, close to Jogger\u2019s Park. Its Google reviewers rate it a full 5.0. Come in to lift, get fitter and build a routine you can stick to, right in your own neighbourhood.",
   "services": [
    {
     "name": "Strength training",
@@ -2771,7 +2771,7 @@
   "rating": 4.9,
   "count": 127,
   "tagline": "Strength training in West Patel Nagar, rated 4.9 from 127 Google reviews",
-  "intro": "Rep Max Gym is a fitness centre at 6/15, Block 6, West Patel Nagar, rated 4.9 from 127 Google reviews. Built for people who want to get stronger, it’s a focused place to train, rep after rep.",
+  "intro": "Rep Max Gym is a fitness centre at 6/15, Block 6, West Patel Nagar, rated 4.9 from 127 Google reviews. Built for people who want to get stronger, it\u2019s a focused place to train, rep after rep.",
   "services": [
    {
     "name": "Strength training",
@@ -2817,7 +2817,7 @@
   "rating": 4.9,
   "count": 112,
   "tagline": "Your local gym in Baljeet Nagar, West Patel Nagar, rated 4.9 on Google",
-  "intro": "S.K Fitness Gym is at T29/8B near Road Number 20, Baljeet Nagar, West Patel Nagar. With a 4.9 rating from 112 Google reviews, it’s a friendly neighbourhood place to work out and get into shape.",
+  "intro": "S.K Fitness Gym is at T29/8B near Road Number 20, Baljeet Nagar, West Patel Nagar. With a 4.9 rating from 112 Google reviews, it\u2019s a friendly neighbourhood place to work out and get into shape.",
   "services": [
    {
     "name": "Weight training",
@@ -2863,7 +2863,7 @@
   "rating": 4.8,
   "count": 333,
   "tagline": "Train near Gole Market, rated 4.8 from 333 Google reviews",
-  "intro": "Galactus Gym is at 13, Doctor Lane, Sector 3, Gole Market in central New Delhi. More than 330 Google reviewers rate it 4.8. It’s a place to lift, build fitness and train with purpose, in the heart of the city.",
+  "intro": "Galactus Gym is at 13, Doctor Lane, Sector 3, Gole Market in central New Delhi. More than 330 Google reviewers rate it 4.8. It\u2019s a place to lift, build fitness and train with purpose, in the heart of the city.",
   "services": [
    {
     "name": "Strength training",
@@ -2925,7 +2925,7 @@
    },
    {
     "name": "Extractions",
-    "desc": "Tooth removal when it’s needed."
+    "desc": "Tooth removal when it\u2019s needed."
    }
   ],
   "cta": "Book your dental visit at Cosmodent India: call or WhatsApp.",
@@ -2955,7 +2955,7 @@
   "rating": 4.8,
   "count": 158,
   "tagline": "A gym by Shadipur Metro, rated 4.8 from 158 Google reviews",
-  "intro": "Fit Square Gym is in the basement at Cottage 5A, Balraj Khanna Marg, near Shadipur Metro Station in West Patel Nagar. Rated 4.8 from 158 Google reviews, it’s an easy place to fit a workout into your day.",
+  "intro": "Fit Square Gym is in the basement at Cottage 5A, Balraj Khanna Marg, near Shadipur Metro Station in West Patel Nagar. Rated 4.8 from 158 Google reviews, it\u2019s an easy place to fit a workout into your day.",
   "services": [
    {
     "name": "Weight training",
@@ -3001,7 +3001,7 @@
   "rating": 4.8,
   "count": 123,
   "tagline": "Get stronger in South Patel Nagar, rated 4.8 on Google",
-  "intro": "Power Zone Gym is a fitness centre at 8/21, Block 8, South Patel Nagar, rated 4.8 from 123 Google reviews. Step into the zone to lift, sweat and build the strength you’re after.",
+  "intro": "Power Zone Gym is a fitness centre at 8/21, Block 8, South Patel Nagar, rated 4.8 from 123 Google reviews. Step into the zone to lift, sweat and build the strength you\u2019re after.",
   "services": [
    {
     "name": "Strength training",
@@ -3047,7 +3047,7 @@
   "rating": 4.8,
   "count": 108,
   "tagline": "A fitness centre opposite Pillar 203, West Patel Nagar, rated 4.8 on Google",
-  "intro": "Carbon Culture Fitness is in the basement at 1/9, Block 1, West Patel Nagar, opposite metro Pillar 203 near Golden Grand Hotel. Rated 4.8 from 108 Google reviews, it’s a place to train, stretch and build a fitness habit.",
+  "intro": "Carbon Culture Fitness is in the basement at 1/9, Block 1, West Patel Nagar, opposite metro Pillar 203 near Golden Grand Hotel. Rated 4.8 from 108 Google reviews, it\u2019s a place to train, stretch and build a fitness habit.",
   "services": [
    {
     "name": "Gym training",
@@ -3139,7 +3139,7 @@
   "rating": 4.8,
   "count": 52,
   "tagline": "Your neighbourhood doctor in Sat Nagar, Karol Bagh, rated 4.8 on Google",
-  "intro": "Dr Vijender Kumar’s clinic is on the first floor of 5A/11010, Sat Nagar, Karol Bagh. Rated 4.8 from 52 Google reviews, it’s a local clinic to visit when you or your family feel unwell.",
+  "intro": "Dr Vijender Kumar\u2019s clinic is on the first floor of 5A/11010, Sat Nagar, Karol Bagh. Rated 4.8 from 52 Google reviews, it\u2019s a local clinic to visit when you or your family feel unwell.",
   "services": [
    {
     "name": "General consultation",
@@ -3158,7 +3158,7 @@
     "desc": "Call or WhatsApp to ask about timings."
    }
   ],
-  "cta": "Not feeling well? Call Dr Vijender Kumar’s clinic to book a visit.",
+  "cta": "Not feeling well? Call Dr Vijender Kumar\u2019s clinic to book a visit.",
   "reviews": [],
   "slug": "dr-vijender-kumar",
   "id": "ChIJ9WmVhNEDDTkRg-8dbuv5XUE",
@@ -3231,7 +3231,7 @@
   "rating": 4.6,
   "count": 116,
   "tagline": "A gym on Munshi Ram Sethi Marg, West Patel Nagar, rated 4.6 on Google",
-  "intro": "Great Gym is at 24, Munshi Ram Sethi Marg, Block 24, West Patel Nagar, rated 4.6 from 116 Google reviews. Whether you’re a beginner or a regular, it’s a local place to train and get fitter.",
+  "intro": "Great Gym is at 24, Munshi Ram Sethi Marg, Block 24, West Patel Nagar, rated 4.6 from 116 Google reviews. Whether you\u2019re a beginner or a regular, it\u2019s a local place to train and get fitter.",
   "services": [
    {
     "name": "Weight training",
@@ -3276,7 +3276,7 @@
   "link": "https://www.google.com/maps/place/Dr.+Pooja+Khosla+Clinic/data=!4m7!3m6!1s0x390d0357280f63f3:0x977ab0bf2aab597!8m2!3d28.6401579!4d77.181829!16s%2Fg%2F11h5nmqql4!19sChIJ82MPKFcDDTkRl7Wq8gurdwk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 3.9,
   "count": 94,
-  "tagline": "A doctor’s clinic on Salwan School Road, Old Rajinder Nagar",
+  "tagline": "A doctor\u2019s clinic on Salwan School Road, Old Rajinder Nagar",
   "intro": "Dr. Pooja Khosla Clinic is at 20/4, Salwan School Road, Block 20, Old Rajinder Nagar. Call ahead to check timings and book a consultation at this neighbourhood clinic.",
   "services": [
    {
@@ -3322,15 +3322,15 @@
   "link": "https://www.google.com/maps/place/Swag+Cafe/data=!4m7!3m6!1s0x390d0294cb7d62db:0xc8da43190e298ee!8m2!3d28.6446187!4d77.1736156!16s%2Fg%2F11g6nt1gxd!19sChIJ22J9y5QCDTkR7pjikDGkjQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
   "rating": 3.9,
   "count": 64,
-  "tagline": "A café hangout in East Patel Nagar, opposite Hari Gokal",
-  "intro": "Swag Cafe is at 12/20, East Patel Nagar, opposite Hari Gokal. Drop in for a drink and a bite, catch up with friends, or call ahead to check what’s on the menu today.",
+  "tagline": "A caf\u00e9 hangout in East Patel Nagar, opposite Hari Gokal",
+  "intro": "Swag Cafe is at 12/20, East Patel Nagar, opposite Hari Gokal. Drop in for a drink and a bite, catch up with friends, or call ahead to check what\u2019s on the menu today.",
   "services": [
    {
     "name": "Coffee & drinks",
     "desc": "Hot and cold drinks to sip slowly or grab on the go."
    },
    {
-    "name": "Café food",
+    "name": "Caf\u00e9 food",
     "desc": "Bites and plates to share at the table."
    },
    {
@@ -3339,10 +3339,10 @@
    },
    {
     "name": "Call before you visit",
-    "desc": "Ring us to check today’s menu and timings."
+    "desc": "Ring us to check today\u2019s menu and timings."
    }
   ],
-  "cta": "Drop in to Swag Cafe, or call to check today’s menu.",
+  "cta": "Drop in to Swag Cafe, or call to check today\u2019s menu.",
   "reviews": [],
   "slug": "swag-cafe",
   "id": "ChIJ22J9y5QCDTkR7pjikDGkjQw",
@@ -3369,7 +3369,7 @@
   "rating": "5.0",
   "count": 96,
   "tagline": "A luxury hair salon in West Patel Nagar, rated a perfect 5.0 on Google",
-  "intro": "KJs Luxury Salon is on the upper ground floor at Y/13, Block X, West Patel Nagar, near Manchanda shop. With a full 5.0 rating from 96 Google reviews, it’s a place to settle into the chair and leave with hair that feels like you.",
+  "intro": "KJs Luxury Salon is on the upper ground floor at Y/13, Block X, West Patel Nagar, near Manchanda shop. With a full 5.0 rating from 96 Google reviews, it\u2019s a place to settle into the chair and leave with hair that feels like you.",
   "services": [
    {
     "name": "Haircuts & styling",
@@ -3461,7 +3461,7 @@
   "rating": 4.9,
   "count": 321,
   "tagline": "A beauty studio near Lili Dhaba, West Patel Nagar, rated 4.9 from 321 Google reviews",
-  "intro": "The Glamour studio is at Block G47, West Patel Nagar, near Lili Dhaba. With a 4.9 rating from 321 Google reviews, it’s a go-to for neighbourhood beauty care, from a quick cleanup to getting ready for a celebration.",
+  "intro": "The Glamour studio is at Block G47, West Patel Nagar, near Lili Dhaba. With a 4.9 rating from 321 Google reviews, it\u2019s a go-to for neighbourhood beauty care, from a quick cleanup to getting ready for a celebration.",
   "services": [
    {
     "name": "Makeup",
@@ -3507,7 +3507,7 @@
   "rating": 4.9,
   "count": 146,
   "tagline": "A neighbourhood beauty parlour in Old Rajinder Nagar, rated 4.9 on Google",
-  "intro": "Angel Beauty Parlour is at 4B/2, Block 4B, Old Rajinder Nagar. Rated 4.9 from 146 Google reviews, it’s a friendly local parlour for regular grooming and for looking your best on special days.",
+  "intro": "Angel Beauty Parlour is at 4B/2, Block 4B, Old Rajinder Nagar. Rated 4.9 from 146 Google reviews, it\u2019s a friendly local parlour for regular grooming and for looking your best on special days.",
   "services": [
    {
     "name": "Threading & waxing",
@@ -3599,11 +3599,11 @@
   "rating": 4.8,
   "count": 632,
   "tagline": "Psychiatric care on Balraj Khanna Marg, East Patel Nagar, rated 4.8 from 632 Google reviews",
-  "intro": "Anandam Psychiatry Centre is on the ground floor at 3/11, Balraj Khanna Marg, East Patel Nagar. Rated 4.8 by 632 Google reviewers, it’s a place to talk openly about how you’re feeling and get professional support for your mental health.",
+  "intro": "Anandam Psychiatry Centre is on the ground floor at 3/11, Balraj Khanna Marg, East Patel Nagar. Rated 4.8 by 632 Google reviewers, it\u2019s a place to talk openly about how you\u2019re feeling and get professional support for your mental health.",
   "services": [
    {
     "name": "Psychiatric consultation",
-    "desc": "A confidential conversation about what you’re going through."
+    "desc": "A confidential conversation about what you\u2019re going through."
    },
    {
     "name": "Stress, anxiety & mood",
@@ -3611,7 +3611,7 @@
    },
    {
     "name": "Ongoing care",
-    "desc": "Follow-up visits to review how you’re doing."
+    "desc": "Follow-up visits to review how you\u2019re doing."
    },
    {
     "name": "Book a consultation",
@@ -3645,11 +3645,11 @@
   "rating": 4.8,
   "count": 137,
   "tagline": "An obstetrics & gynaecology clinic rated 4.8 from 137 Google reviews",
-  "intro": "Unity Healthcare Clinic is an obstetrician-gynaecologist practice in Delhi, rated 4.8 by 137 Google reviewers. It’s a place for women to talk about their health in confidence, whether that’s a routine check-up or care during pregnancy.",
+  "intro": "Unity Healthcare Clinic is an obstetrician-gynaecologist practice in Delhi, rated 4.8 by 137 Google reviewers. It\u2019s a place for women to talk about their health in confidence, whether that\u2019s a routine check-up or care during pregnancy.",
   "services": [
    {
     "name": "Gynaecology consultation",
-    "desc": "Advice and care for women’s health concerns."
+    "desc": "Advice and care for women\u2019s health concerns."
    },
    {
     "name": "Pregnancy care",
@@ -3657,7 +3657,7 @@
    },
    {
     "name": "Routine check-ups",
-    "desc": "Regular women’s health checks and follow-ups."
+    "desc": "Regular women\u2019s health checks and follow-ups."
    },
    {
     "name": "Book a visit",
@@ -3691,7 +3691,7 @@
   "rating": 4.7,
   "count": 570,
   "tagline": "A beauty salon in West Patel Nagar, rated 4.7 from 570 Google reviews",
-  "intro": "LAVISH is a beauty salon at Cottage 5, Block 1, West Patel Nagar. With 570 Google reviews and a 4.7 rating, it’s a well-loved local spot for hair, skin and getting ready for an occasion.",
+  "intro": "LAVISH is a beauty salon at Cottage 5, Block 1, West Patel Nagar. With 570 Google reviews and a 4.7 rating, it\u2019s a well-loved local spot for hair, skin and getting ready for an occasion.",
   "services": [
    {
     "name": "Hair cuts & colour",
@@ -3737,7 +3737,7 @@
   "rating": 4.7,
   "count": 259,
   "tagline": "An orthopaedic practice in West Patel Nagar, rated 4.7 from 259 Google reviews",
-  "intro": "Dr Pardeep Bageja’s orthopaedic clinic is at 22/34 LGF, West Patel Nagar, opposite Mother Dairy and near Balkar Motors. Rated 4.7 by 259 Google reviewers, it’s a local place to get bone, joint and muscle problems looked at.",
+  "intro": "Dr Pardeep Bageja\u2019s orthopaedic clinic is at 22/34 LGF, West Patel Nagar, opposite Mother Dairy and near Balkar Motors. Rated 4.7 by 259 Google reviewers, it\u2019s a local place to get bone, joint and muscle problems looked at.",
   "services": [
    {
     "name": "Joint pain",
@@ -3828,8 +3828,8 @@
   "link": "https://www.google.com/maps/place/Dream+of+Chef/data=!4m7!3m6!1s0x390d03f73ba31873:0xcc5b4437a352747!8m2!3d28.6394843!4d77.1838468!16s%2Fg%2F11q83bf1jn!19sChIJcxijO_cDDTkRRyc1ekO0xQw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
   "rating": 4.7,
   "count": 101,
-  "tagline": "A café on Bada Bazar Road, Old Rajinder Nagar, rated 4.7 on Google",
-  "intro": "Dream of Chef is a café on the ground floor at 26/25, Bada Bazar Road, Old Rajinder Nagar. Rated 4.7 from 101 Google reviews, it’s a neighbourhood spot for a hearty meal, a snack between classes or a bite with friends.",
+  "tagline": "A caf\u00e9 on Bada Bazar Road, Old Rajinder Nagar, rated 4.7 on Google",
+  "intro": "Dream of Chef is a caf\u00e9 on the ground floor at 26/25, Bada Bazar Road, Old Rajinder Nagar. Rated 4.7 from 101 Google reviews, it\u2019s a neighbourhood spot for a hearty meal, a snack between classes or a bite with friends.",
   "services": [
    {
     "name": "Fresh meals",
@@ -3837,7 +3837,7 @@
    },
    {
     "name": "Snacks & quick bites",
-    "desc": "Something tasty when you’re short on time."
+    "desc": "Something tasty when you\u2019re short on time."
    },
    {
     "name": "Drinks",
@@ -3845,10 +3845,10 @@
    },
    {
     "name": "Call ahead",
-    "desc": "Ring us to check today’s menu and timings."
+    "desc": "Ring us to check today\u2019s menu and timings."
    }
   ],
-  "cta": "Hungry? Drop in to Dream of Chef or call to check today’s menu.",
+  "cta": "Hungry? Drop in to Dream of Chef or call to check today\u2019s menu.",
   "reviews": [],
   "slug": "dream-of-chef",
   "id": "ChIJcxijO_cDDTkRRyc1ekO0xQw",
@@ -3875,7 +3875,7 @@
   "rating": 4.6,
   "count": 328,
   "tagline": "Makeup, salon and academy in West Patel Nagar, rated 4.6 from 328 Google reviews",
-  "intro": "Ginnie Makeovers Unisex Salon & Academy is at F-37, Block F, West Patel Nagar, near Mamta Juice Corner. Rated 4.6 from 328 Google reviews, it’s a makeup studio and unisex salon, and an academy for people who want to learn the craft.",
+  "intro": "Ginnie Makeovers Unisex Salon & Academy is at F-37, Block F, West Patel Nagar, near Mamta Juice Corner. Rated 4.6 from 328 Google reviews, it\u2019s a makeup studio and unisex salon, and an academy for people who want to learn the craft.",
   "services": [
    {
     "name": "Bridal & party makeup",
@@ -3937,7 +3937,7 @@
    },
    {
     "name": "Call ahead",
-    "desc": "Ring us to check what’s fresh today."
+    "desc": "Ring us to check what\u2019s fresh today."
    }
   ],
   "cta": "Craving something sweet? Visit High On Desserts on Shankar Road.",
@@ -3967,7 +3967,7 @@
   "rating": 3.6,
   "count": 40,
   "tagline": "A beauty parlour on Ajmal Khan Road, Karol Bagh, near Punjab Sweets",
-  "intro": "Infinity Salon is a beauty parlour at 15A/60, Ajmal Khan Road, Block 15A, Karol Bagh, near Punjab Sweets. Pop in while you’re in the market for grooming, skin care or a fresh look.",
+  "intro": "Infinity Salon is a beauty parlour at 15A/60, Ajmal Khan Road, Block 15A, Karol Bagh, near Punjab Sweets. Pop in while you\u2019re in the market for grooming, skin care or a fresh look.",
   "services": [
    {
     "name": "Threading & waxing",
@@ -4049,5 +4049,680 @@
   "whatsapp": true,
   "url": "https://imjarvissingh.github.io/samples/kanwal-gujral-clinic/",
   "added": "2026-10-22"
+ },
+ {
+  "name": "Brewtilla Artisan Cafe",
+  "category": "Coffee shop",
+  "phone": "090061 01266",
+  "address": "4d, Brewtilla Artisan Cafe, 13, Old Rajendra Nagar Ln, Block 4D, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Brewtilla+Artisan+Cafe/data=!4m7!3m6!1s0x390d030006ab6eef:0x1350589d51c06488!8m2!3d28.6393544!4d77.1823494!16s%2Fg%2F11xgs3tfl3!19sChIJ726rBgADDTkRiGTAUZ1YUBM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": "5.0",
+  "count": 11,
+  "tagline": "An artisan coffee shop in Old Rajinder Nagar, rated a perfect 5.0 on Google",
+  "intro": "Brewtilla Artisan Cafe is at 13, Old Rajendra Nagar Lane, Block 4D. It's open every day from 11 am to 11 pm, and its Google reviewers give it a full 5.0 for taste, value and service. Stop by for a coffee break between classes or a slow evening with friends.",
+  "services": [
+   {
+    "name": "Coffee",
+    "desc": "Freshly made coffee, hot or cold, the way you like it."
+   },
+   {
+    "name": "Bites & snacks",
+    "desc": "Something to eat alongside your cup."
+   },
+   {
+    "name": "Sit in & catch up",
+    "desc": "A cosy spot to study, work or meet friends."
+   },
+   {
+    "name": "Ask about the menu",
+    "desc": "Call or WhatsApp to check today's menu and timings."
+   }
+  ],
+  "cta": "Come in for a cup at Brewtilla Artisan Cafe.",
+  "reviews": [],
+  "slug": "brewtilla-artisan-cafe",
+  "id": "ChIJ726rBgADDTkRiGTAUZ1YUBM",
+  "loc": "Old Rajinder Nagar",
+  "kind": "cafe",
+  "images": [
+   "1554118811-1e0d58224f24",
+   "1495474472287-4d71bcdd2085",
+   "1509042239860-f550ce710b93",
+   "1504674900247-0877df9cc836",
+   "1565299624946-b28f40a0ae38",
+   "1571091718767-18b5b1457add"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/brewtilla-artisan-cafe/"
+ },
+ {
+  "name": "MANA Little Andhra Biriyani",
+  "category": "South Indian restaurant",
+  "phone": "081799 27808",
+  "address": "Block 53, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/MANA+LITTLE+ANDHRA+BIRIYANI+%5B+MLA+%5D/data=!4m7!3m6!1s0x390d0314b16fa08f:0x557a48c5a3b3d0ec!8m2!3d28.6402333!4d77.1844311!16s%2Fg%2F11nw1h664v!19sChIJj6BvsRQDDTkR7NCzo8VIelU?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 60,
+  "tagline": "Andhra-style biriyani and South Indian food in Old Rajinder Nagar, rated 4.9 on Google",
+  "intro": "MANA Little Andhra Biriyani (MLA) serves South Indian food from Block 53, Old Rajinder Nagar. Its 60 Google reviews average 4.9, with diners praising the taste and the service. It's open from noon to midnight, and from 3 pm on Mondays.",
+  "services": [
+   {
+    "name": "Andhra biriyani",
+    "desc": "The dish in the name, cooked the Andhra way."
+   },
+   {
+    "name": "South Indian meals",
+    "desc": "Flavours from the South, right here in Delhi."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Call ahead and pick up your order."
+   },
+   {
+    "name": "Order on WhatsApp",
+    "desc": "Message to ask about the menu and place an order."
+   }
+  ],
+  "cta": "Hungry for biriyani? Call MANA Little Andhra Biriyani.",
+  "reviews": [],
+  "slug": "mana-little-andhra-biriyani",
+  "id": "ChIJj6BvsRQDDTkR7NCzo8VIelU",
+  "loc": "Old Rajinder Nagar",
+  "kind": "biryani",
+  "images": [
+   "1563379091339-03b21ab4a4f8",
+   "1630383249896-424e482df921",
+   "1633945274405-b6c8069047b0",
+   "1668236543090-82eba5ee5976",
+   "1642821373181-696a54913e93",
+   "1701579231305-d84d8af9a3fd"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/mana-little-andhra-biriyani/"
+ },
+ {
+  "name": "Royal Chaap & Curry Darbar",
+  "category": "Punjabi restaurant",
+  "phone": "095417 15020",
+  "address": "Shop No 55 Ground floor, Royal Chaap & Curry Darbar Old Rajindra Nagar, front side, Block C, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Royal+Chaap+%26+Curry+Darbar+Old+Rajindra+Nagar/data=!4m7!3m6!1s0x390d0358b8816e63:0x4165dfc999c78ff!8m2!3d28.6401951!4d77.1861651!16s%2Fg%2F11yrxfv0z1!19sChIJY26BuFgDDTkR_3icmfxdFgQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 49,
+  "tagline": "Punjabi chaap and curries in Old Rajinder Nagar, rated 4.9 on Google",
+  "intro": "Royal Chaap & Curry Darbar is a Punjabi restaurant at Shop No 55, ground floor, Block C, Old Rajinder Nagar. Its 49 Google reviews average 4.9, with diners mentioning the taste and the friendly staff. It's open every day from 2 pm to 1 am, so late dinners are covered.",
+  "services": [
+   {
+    "name": "Chaap",
+    "desc": "Chaap dishes, the house speciality."
+   },
+   {
+    "name": "Curries",
+    "desc": "Rich Punjabi curries to go with your meal."
+   },
+   {
+    "name": "Late-night dining",
+    "desc": "Open till 1 am, every day of the week."
+   },
+   {
+    "name": "Order ahead",
+    "desc": "Call or WhatsApp to check the menu and order."
+   }
+  ],
+  "cta": "Craving chaap? Call Royal Chaap & Curry Darbar.",
+  "reviews": [],
+  "slug": "royal-chaap-curry-darbar",
+  "id": "ChIJY26BuFgDDTkR_3icmfxdFgQ",
+  "loc": "Old Rajinder Nagar",
+  "kind": "indian",
+  "images": [
+   "1596797038530-2c107229654b",
+   "1588166524941-3bf61a9c41db",
+   "1631452180519-c014fe946bc7",
+   "1601050690597-df0568f70950",
+   "1567188040759-fb8a883dc6d8",
+   "1574653853027-5382a3d23a15"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/royal-chaap-curry-darbar/"
+ },
+ {
+  "name": "Kabab Affairs",
+  "category": "Barbecue restaurant",
+  "phone": "099998 74708",
+  "address": "3/64, Shankar Rd, Block 3, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Kabab+Affairs/data=!4m7!3m6!1s0x390d036b34cb369d:0xe92414f917e34f0c!8m2!3d28.6370703!4d77.182934!16s%2Fg%2F11msskvr_t!19sChIJnTbLNGsDDTkRDE_jF_kUJOk?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.9,
+  "count": 19,
+  "tagline": "Kebabs and barbecue on Shankar Road, rated 4.9 on Google",
+  "intro": "Kabab Affairs is a barbecue restaurant at 3/64, Shankar Road, Block 3, Old Rajinder Nagar. Its 19 Google reviews average 4.9, and diners call out the taste, the service and the friendly staff. Call ahead to check timings and what's on the grill today.",
+  "services": [
+   {
+    "name": "Kebabs",
+    "desc": "Kebabs straight from the grill."
+   },
+   {
+    "name": "Barbecue",
+    "desc": "Smoky barbecue dishes to share."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Pick up your order on the way home."
+   },
+   {
+    "name": "Ask about the menu",
+    "desc": "Call or WhatsApp for today's menu and timings."
+   }
+  ],
+  "cta": "Fire up your evening with Kabab Affairs.",
+  "reviews": [],
+  "slug": "kabab-affairs",
+  "id": "ChIJnTbLNGsDDTkRDE_jF_kUJOk",
+  "loc": "Old Rajinder Nagar",
+  "kind": "bbq",
+  "images": [
+   "1544025162-d76694265947",
+   "1555939594-58d7cb561ad1",
+   "1599487488170-d11ec9c172f0",
+   "1603360946369-dc9bb6258143",
+   "1606471191009-63994c53433b",
+   "1610057099443-fde8c4d50f91"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/kabab-affairs/"
+ },
+ {
+  "name": "Our Adda",
+  "category": "Non Vegetarian Restaurant",
+  "phone": "099206 38062",
+  "address": "Shop no. 25, Our Adda, Bada Bazar Rd, opp. mother dairy, Old Rajender Nagar market, Block 55, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Our+Adda/data=!4m7!3m6!1s0x390d03bb951db457:0x68560de7c91aa444!8m2!3d28.6413528!4d77.1851094!16s%2Fg%2F11zbdntbyy!19sChIJV7QdlbsDDTkRRKQayecNVmg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 109,
+  "tagline": "A non-veg restaurant in Old Rajender Nagar market, rated 4.8 on Google",
+  "intro": "Our Adda is a non-vegetarian restaurant at Shop No. 25, Bada Bazar Road, opposite Mother Dairy, in the Old Rajender Nagar market. Its 109 Google reviews average 4.8, with diners praising the food and the friendly staff. It's open every day from 12:30 pm to 1:30 am.",
+  "services": [
+   {
+    "name": "Non-veg specials",
+    "desc": "Meat dishes for a proper non-veg meal."
+   },
+   {
+    "name": "Hang out with friends",
+    "desc": "Your adda for long, late conversations."
+   },
+   {
+    "name": "Late-night food",
+    "desc": "Open till 1:30 am, every day."
+   },
+   {
+    "name": "Order on WhatsApp",
+    "desc": "Message to check the menu and place an order."
+   }
+  ],
+  "cta": "Meet your friends at Our Adda.",
+  "reviews": [],
+  "slug": "our-adda",
+  "id": "ChIJV7QdlbsDDTkRRKQayecNVmg",
+  "loc": "Old Rajinder Nagar",
+  "kind": "bbq",
+  "images": [
+   "1610057099443-fde8c4d50f91",
+   "1555939594-58d7cb561ad1",
+   "1599487488170-d11ec9c172f0",
+   "1603360946369-dc9bb6258143",
+   "1606471191009-63994c53433b",
+   "1544025162-d76694265947"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/our-adda/"
+ },
+ {
+  "name": "Heaven Of Barbeque",
+  "category": "Restaurant",
+  "phone": "087005 37089",
+  "address": "Oppo Home Like, 26/27, Block 26, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Heaven+Of+Barbeque/data=!4m7!3m6!1s0x390d03a99728176f:0x6aafa781e77affbb!8m2!3d28.6395063!4d77.1837664!16s%2Fg%2F11ypr4g0qz!19sChIJbxcol6kDDTkRu_9654Gnr2o?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.8,
+  "count": 36,
+  "tagline": "Barbecue in Block 26, Old Rajinder Nagar, rated 4.8 on Google",
+  "intro": "Heaven Of Barbeque is at 26/27, Block 26, Old Rajinder Nagar, opposite Home Like. Its 36 Google reviews average 4.8 for taste and service. It's open from 12:30 pm to midnight, and from 3 pm on Tuesdays.",
+  "services": [
+   {
+    "name": "Barbecue",
+    "desc": "Grilled dishes, hot off the fire."
+   },
+   {
+    "name": "Meals with friends",
+    "desc": "Good food to share around the table."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Call ahead and collect your order."
+   },
+   {
+    "name": "Ask about the menu",
+    "desc": "Call or WhatsApp to check today's menu."
+   }
+  ],
+  "cta": "Taste the grill at Heaven Of Barbeque.",
+  "reviews": [],
+  "slug": "heaven-of-barbeque",
+  "id": "ChIJbxcol6kDDTkRu_9654Gnr2o",
+  "loc": "Old Rajinder Nagar",
+  "kind": "bbq",
+  "images": [
+   "1529193591184-b1d58069ecdd",
+   "1544025162-d76694265947",
+   "1555939594-58d7cb561ad1",
+   "1599487488170-d11ec9c172f0",
+   "1603360946369-dc9bb6258143",
+   "1606471191009-63994c53433b"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/heaven-of-barbeque/"
+ },
+ {
+  "name": "The Galaxy",
+  "category": "North Indian restaurant",
+  "phone": "098990 55544",
+  "address": "shopno-1 2/64, The Galaxy, main, Shankar Rd, opposite bses building, Block 3, Old Rajinder Nagar, Rajinder Nagar, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/The+Galaxy/data=!4m7!3m6!1s0x390d03870cf22aa9:0x2a4de977e7b75743!8m2!3d28.6361478!4d77.1846024!16s%2Fg%2F11fmdl3q14!19sChIJqSryDIcDDTkRQ1e353fpTSo?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 97,
+  "tagline": "North Indian food on Shankar Road, rated 4.7 on Google",
+  "intro": "The Galaxy is a North Indian restaurant at Shop No. 1, 2/64, main Shankar Road, opposite the BSES building, Old Rajinder Nagar. Its 97 Google reviews average 4.7, and diners mention the taste and the good value. It's open from 1 pm to midnight, closed on Tuesdays.",
+  "services": [
+   {
+    "name": "North Indian classics",
+    "desc": "Familiar, comforting North Indian dishes."
+   },
+   {
+    "name": "Good value meals",
+    "desc": "A filling meal that's easy on the pocket."
+   },
+   {
+    "name": "Dine in or takeaway",
+    "desc": "Eat here or pack it to go."
+   },
+   {
+    "name": "Order ahead",
+    "desc": "Call or WhatsApp to check the menu and order."
+   }
+  ],
+  "cta": "Dinner sorted: call The Galaxy.",
+  "reviews": [],
+  "slug": "the-galaxy",
+  "id": "ChIJqSryDIcDDTkRQ1e353fpTSo",
+  "loc": "Old Rajinder Nagar",
+  "kind": "indian",
+  "images": [
+   "1565557623262-b51c2513a641",
+   "1585937421612-70a008356fbe",
+   "1596797038530-2c107229654b",
+   "1588166524941-3bf61a9c41db",
+   "1631452180519-c014fe946bc7",
+   "1601050690597-df0568f70950"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/the-galaxy/"
+ },
+ {
+  "name": "C Restaurant",
+  "category": "Indian restaurant",
+  "phone": "085058 75681",
+  "address": "block 12, Saraswati market, Channa Market, Block 12A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/C+Restaurant/data=!4m7!3m6!1s0x390d035b0333235b:0x3c0eef455ca7df27!8m2!3d28.6466312!4d77.1877832!16s%2Fg%2F11mmd100d1!19sChIJWyMzA1sDDTkRJ9-nXEXvDjw?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 31,
+  "tagline": "Local dishes and Chinese-style options in Channa Market, rated 4.7 on Google",
+  "intro": "C Restaurant is in Saraswati Market, Channa Market, Block 12A, Karol Bagh. Google describes it as an unassuming place serving standard local dishes plus Chinese-style options, and its 31 reviews average 4.7. It's open every day from 7 am to 11 pm.",
+  "services": [
+   {
+    "name": "Local dishes",
+    "desc": "Everyday Indian food, freshly cooked."
+   },
+   {
+    "name": "Chinese-style options",
+    "desc": "For when you want something different."
+   },
+   {
+    "name": "Breakfast to dinner",
+    "desc": "Open from 7 am to 11 pm, every day."
+   },
+   {
+    "name": "Order ahead",
+    "desc": "Call or WhatsApp to check the menu and order."
+   }
+  ],
+  "cta": "Drop in for a meal at C Restaurant.",
+  "reviews": [],
+  "slug": "c-restaurant",
+  "id": "ChIJWyMzA1sDDTkRJ9-nXEXvDjw",
+  "loc": "Karol Bagh",
+  "kind": "indian",
+  "images": [
+   "1596797038530-2c107229654b",
+   "1567188040759-fb8a883dc6d8",
+   "1574653853027-5382a3d23a15",
+   "1505253758473-96b7015fcd40",
+   "1645177628172-a94c1f96e6db",
+   "1585937421612-70a008356fbe"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/c-restaurant/"
+ },
+ {
+  "name": "The Usual",
+  "category": "Restaurant",
+  "phone": "087965 14749",
+  "address": "9/13, Bada Bazar Rd, Block 9, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/The+Usual/data=!4m7!3m6!1s0x390d036410791d57:0x7d91710e8433ab6e!8m2!3d28.6378866!4d77.1830685!16s%2Fg%2F11z7h0dg9p!19sChIJVx15EGQDDTkRbqszhA5xkX0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.7,
+  "count": 24,
+  "tagline": "A friendly neighbourhood restaurant on Bada Bazar Road, rated 4.7 on Google",
+  "intro": "The Usual is a restaurant at 9/13, Bada Bazar Road, Block 9, Old Rajinder Nagar. Its 24 Google reviews average 4.7, with diners praising the food, the service and the friendly staff. It's open every day from 10 am to midnight.",
+  "services": [
+   {
+    "name": "Fresh meals",
+    "desc": "Food cooked fresh through the day."
+   },
+   {
+    "name": "Dine in",
+    "desc": "A relaxed table for you and your friends."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Pack your order and enjoy it at home."
+   },
+   {
+    "name": "Ask about the menu",
+    "desc": "Call or WhatsApp to check today's menu."
+   }
+  ],
+  "cta": "Make it your usual: visit The Usual.",
+  "reviews": [],
+  "slug": "the-usual",
+  "id": "ChIJVx15EGQDDTkRbqszhA5xkX0",
+  "loc": "Old Rajinder Nagar",
+  "kind": "kitchen",
+  "images": [
+   "1555396273-367ea4eb4db5",
+   "1577219491135-ce391730fb2c",
+   "1504674900247-0877df9cc836",
+   "1585937421612-70a008356fbe",
+   "1567188040759-fb8a883dc6d8",
+   "1600565193348-f74bd3c7ccdf"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/the-usual/"
+ },
+ {
+  "name": "By The Wok",
+  "category": "Chinese restaurant",
+  "phone": "092053 67007",
+  "address": "4C, By The Wok : Your Everyday Chinese Bistro, 9, Bada Bazar Rd, Block 4C, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/By+The+Wok+:+Your+Everyday+Chinese+Bistro/data=!4m7!3m6!1s0x390d0356da0686a1:0xafac91c6c16d301c!8m2!3d28.638431!4d77.183064!16s%2Fg%2F11tx6hn1vp!19sChIJoYYG2lYDDTkRHDBtwcaRrK8?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 448,
+  "tagline": "Your everyday Chinese bistro on Bada Bazar Road, rated 4.6 from 448 reviews",
+  "intro": "By The Wok is an everyday Chinese bistro at 9, Bada Bazar Road, Block 4C, Old Rajinder Nagar. With 448 Google reviews averaging 4.6, it's a neighbourhood favourite, and diners mention the taste, the service and the friendly staff. It's open from noon to 11 pm, and till midnight on weekends.",
+  "services": [
+   {
+    "name": "Chinese favourites",
+    "desc": "Everyday Chinese food, cooked in the wok."
+   },
+   {
+    "name": "Noodles & rice",
+    "desc": "Hearty bowls to fill you up."
+   },
+   {
+    "name": "Dine in or takeaway",
+    "desc": "Eat at the bistro or take it home."
+   },
+   {
+    "name": "Order on WhatsApp",
+    "desc": "Message to check the menu and place an order."
+   }
+  ],
+  "cta": "Wok your way over to By The Wok.",
+  "reviews": [],
+  "slug": "by-the-wok",
+  "id": "ChIJoYYG2lYDDTkRHDBtwcaRrK8",
+  "loc": "Old Rajinder Nagar",
+  "kind": "chinese",
+  "images": [
+   "1585032226651-759b368d7246",
+   "1512058564366-18510be2db19",
+   "1534422298391-e4f8c172dddb",
+   "1603133872878-684f208fb84b",
+   "1617093727343-374698b1b08d",
+   "1563245372-f21724e3856d"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/by-the-wok/"
+ },
+ {
+  "name": "Guliyano Cafe",
+  "category": "Cafe",
+  "phone": "092125 08354",
+  "address": "863, Joshi Path, Block A, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/Guliyano+Cafe/data=!4m7!3m6!1s0x390cfd6388d11ccb:0x34b4e6c6fef08df!8m2!3d28.6532984!4d77.1998514!16s%2Fg%2F11f1zlcd9z!19sChIJyxzRiGP9DDkR3wjvb2xOSwM?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.6,
+  "count": 328,
+  "tagline": "A 24-hour cafe on Joshi Path, Karol Bagh, rated 4.6 from 328 reviews",
+  "intro": "Guliyano Cafe is at 863, Joshi Path, Block A, Karol Bagh, and it's open 24 hours, every day. Google describes it as an easygoing cafe serving wraps, sandwiches and pastas, plus salads and shakes. Its 328 reviews average 4.6.",
+  "services": [
+   {
+    "name": "Wraps & sandwiches",
+    "desc": "Quick, filling bites any time of day."
+   },
+   {
+    "name": "Pastas",
+    "desc": "Comforting plates of pasta."
+   },
+   {
+    "name": "Salads & shakes",
+    "desc": "Something fresh, something sweet."
+   },
+   {
+    "name": "Open 24 hours",
+    "desc": "Day or night, the cafe is open."
+   }
+  ],
+  "cta": "Day or night, Guliyano Cafe is open.",
+  "reviews": [],
+  "slug": "guliyano-cafe",
+  "id": "ChIJyxzRiGP9DDkR3wjvb2xOSwM",
+  "loc": "Karol Bagh",
+  "kind": "cafe",
+  "images": [
+   "1559925393-8be0ec4767c8",
+   "1554118811-1e0d58224f24",
+   "1453614512568-c4024d13c247",
+   "1501339847302-ac426a4a7cbb",
+   "1517248135467-4c7edcad34c4",
+   "1495474472287-4d71bcdd2085"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/guliyano-cafe/"
+ },
+ {
+  "name": "The Spicy Stove",
+  "category": "North Indian restaurant",
+  "phone": "099106 15595",
+  "address": "13-A/22, Channa Market, Block 13A, WEA, Karol Bagh, New Delhi, Delhi, 110005",
+  "link": "https://www.google.com/maps/place/The+Spicy+Stove/data=!4m7!3m6!1s0x390d03289dd5da2b:0x341ba6195616cde2!8m2!3d28.6458146!4d77.1863292!16s%2Fg%2F11whjk1jn2!19sChIJK9rVnSgDDTkR4s0WVhmmGzQ?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.5,
+  "count": 144,
+  "tagline": "North Indian food in Channa Market, Karol Bagh, rated 4.5 from 144 reviews",
+  "intro": "The Spicy Stove is a North Indian restaurant at 13-A/22, Channa Market, Block 13A, Karol Bagh. Its 144 Google reviews average 4.5, with diners praising the taste and the professional service. It's open every day from 10 am to midnight.",
+  "services": [
+   {
+    "name": "North Indian dishes",
+    "desc": "Full-flavoured North Indian cooking."
+   },
+   {
+    "name": "Lunch & dinner",
+    "desc": "Open 10 am to midnight, every day."
+   },
+   {
+    "name": "Takeaway",
+    "desc": "Call ahead and pick up your order."
+   },
+   {
+    "name": "Order on WhatsApp",
+    "desc": "Message to check the menu and order."
+   }
+  ],
+  "cta": "Turn up the flavour at The Spicy Stove.",
+  "reviews": [],
+  "slug": "the-spicy-stove",
+  "id": "ChIJK9rVnSgDDTkR4s0WVhmmGzQ",
+  "loc": "Karol Bagh",
+  "kind": "indian",
+  "images": [
+   "1588166524941-3bf61a9c41db",
+   "1585937421612-70a008356fbe",
+   "1596797038530-2c107229654b",
+   "1565557623262-b51c2513a641",
+   "1631452180519-c014fe946bc7",
+   "1601050690597-df0568f70950"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/the-spicy-stove/"
+ },
+ {
+  "name": "Desi Mama",
+  "category": "Eclectic restaurant",
+  "phone": "099118 36333",
+  "address": "Ground Floor, Desi Mama, 03/64, Shankar Rd, Block 3, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Desi+Mama/data=!4m7!3m6!1s0x390d035c39f22d47:0xfda980099aeee561!8m2!3d28.636986!4d77.1831287!16s%2Fg%2F11ym04dwdd!19sChIJRy3yOVwDDTkRYeXumgmAqf0?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.5,
+  "count": 37,
+  "tagline": "An eclectic restaurant on Shankar Road, rated 4.5 on Google",
+  "intro": "Desi Mama is on the ground floor at 03/64, Shankar Road, Block 3, Old Rajinder Nagar. Its 37 Google reviews average 4.5, and diners mention the taste, the service and the good value. It's open every day from 3 pm to midnight.",
+  "services": [
+   {
+    "name": "Desi flavours",
+    "desc": "Food with a homely, desi touch."
+   },
+   {
+    "name": "Evening meals",
+    "desc": "Open from 3 pm to midnight, every day."
+   },
+   {
+    "name": "Good value",
+    "desc": "A satisfying meal at a fair price."
+   },
+   {
+    "name": "Ask about the menu",
+    "desc": "Call or WhatsApp to check today's menu."
+   }
+  ],
+  "cta": "Come hungry to Desi Mama.",
+  "reviews": [],
+  "slug": "desi-mama",
+  "id": "ChIJRy3yOVwDDTkRYeXumgmAqf0",
+  "loc": "Old Rajinder Nagar",
+  "kind": "indian",
+  "images": [
+   "1645177628172-a94c1f96e6db",
+   "1585937421612-70a008356fbe",
+   "1596797038530-2c107229654b",
+   "1588166524941-3bf61a9c41db",
+   "1631452180519-c014fe946bc7",
+   "1601050690597-df0568f70950"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/desi-mama/"
+ },
+ {
+  "name": "Sairat Kitchen",
+  "category": "Maharashtrian Restaurant",
+  "phone": "098104 42612",
+  "address": "Block 55, Rina Rd, Old Rajender Nagar market, Block 55, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Sairat+Kitchen/data=!4m7!3m6!1s0x390d033e2d0f4fc9:0x18299eb6647736ec!8m2!3d28.6415638!4d77.1851626!16s%2Fg%2F11g1mh2dnh!19sChIJyU8PLT4DDTkR7DZ3ZLaeKRg?authuser=0&hl=en&g_ep=EgoyMDI2MTAxOS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 4.1,
+  "count": 539,
+  "tagline": "Marathi food in Old Rajender Nagar market, with 539 Google reviews",
+  "intro": "Sairat Kitchen is at Block 55, Rina Road, in the Old Rajender Nagar market. Google describes it as a down-to-earth restaurant specialising in Marathi dishes, with breakfast and vegetarian options. Its 539 reviews average 4.1, with diners pointing to the good value and friendly staff. It's open every day from 6 am to 11 pm.",
+  "services": [
+   {
+    "name": "Marathi dishes",
+    "desc": "A taste of Maharashtra in Delhi."
+   },
+   {
+    "name": "Breakfast",
+    "desc": "Open from 6 am for an early start."
+   },
+   {
+    "name": "Vegetarian options",
+    "desc": "Plenty of choice for vegetarians."
+   },
+   {
+    "name": "Order ahead",
+    "desc": "Call or WhatsApp to check the menu and order."
+   }
+  ],
+  "cta": "Get a taste of Maharashtra at Sairat Kitchen.",
+  "reviews": [],
+  "slug": "sairat-kitchen",
+  "id": "ChIJyU8PLT4DDTkR7DZ3ZLaeKRg",
+  "loc": "Old Rajinder Nagar",
+  "kind": "indian",
+  "images": [
+   "1585937421612-70a008356fbe",
+   "1645177628172-a94c1f96e6db",
+   "1565557623262-b51c2513a641",
+   "1596797038530-2c107229654b",
+   "1588166524941-3bf61a9c41db",
+   "1631452180519-c014fe946bc7"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/sairat-kitchen/"
+ },
+ {
+  "name": "Ashirwad Clinic",
+  "category": "Medical clinic",
+  "phone": "098107 95359",
+  "address": "20/4, Salwan School Rd, opposite Yashoda Dairy, Block 20, Old Rajinder Nagar, Rajinder Nagar, New Delhi, Delhi, 110060",
+  "link": "https://www.google.com/maps/place/Ashirwad+Clinic+%28Dr.+Yashpal+Arora+-+General+Practitioner%29/data=!4m7!3m6!1s0x390d02a331f082f5:0xbb73f1d6d9fe6ef7!8m2!3d28.6401419!4d77.1818787!16s%2Fg%2F11c57kr5t9!19sChIJ9YLwMaMCDTkR927-2dbxc7s?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMS4wIJJjKgBIAVAD&rclk=1",
+  "rating": 2.7,
+  "count": 23,
+  "tagline": "Dr. Yashpal Arora, general practitioner, on Salwan School Road",
+  "intro": "Ashirwad Clinic is the practice of Dr. Yashpal Arora, a general practitioner, at 20/4, Salwan School Road, opposite Yashoda Dairy, Block 20, Old Rajinder Nagar. Call ahead to check consultation timings.",
+  "services": [
+   {
+    "name": "General consultations",
+    "desc": "See a GP for everyday health concerns."
+   },
+   {
+    "name": "Fever, cough & cold",
+    "desc": "Check-ups for common illnesses."
+   },
+   {
+    "name": "Ongoing care",
+    "desc": "Follow-up visits with your family doctor."
+   },
+   {
+    "name": "Call before you visit",
+    "desc": "Call or WhatsApp to check timings."
+   }
+  ],
+  "cta": "Need a doctor? Call Ashirwad Clinic.",
+  "reviews": [],
+  "slug": "ashirwad-clinic",
+  "id": "ChIJ9YLwMaMCDTkR927-2dbxc7s",
+  "loc": "Old Rajinder Nagar",
+  "kind": "clinic",
+  "images": [
+   "1631217868264-e5b90bb7e133",
+   "1538108149393-fbbd81895907",
+   "1519494026892-80bbd2d6fd0d",
+   "1576091160399-112ba8d25d1d",
+   "1666214280557-f1b5022eb634",
+   "1579684385127-1ef15d508118"
+  ],
+  "whatsapp": true,
+  "url": "https://imjarvissingh.github.io/samples/ashirwad-clinic/"
  }
 ]
